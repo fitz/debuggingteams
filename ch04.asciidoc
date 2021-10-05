@@ -1,0 +1,663 @@
+[[dealing_with_poisonous_people]]
+== Dealing with Poisonous People
+
+((("poisonous people", id="ixch04asciidoc0", range="startofrange")))As the opening quote of our book suggests, the hardest part of
+creative work is __people__.
+
+Up until now, we've taken an introspective approach. We began with an
+examination of your own private behaviors and how to focus them on the
+principles of humility, respect, and trust (HRT). We then explored
+ways to build a communicative team culture around these concepts. In
+the preceding chapter, we explained how to mold yourself into an
+effective leader of such a team, should the need arise.
+
+In the second half of this book we're going to shift gears and start
+looking outward. How does your team interact with people __outside__
+your immediate group? There are almost always folks wishing to join or
+collaborate with your team. There are issues in dealing with the
+politics of your larger organization. And, of course, you need to have
+a plan for dealing with the most important outsiders of all: the users
+of your software!
+
+In this chapter, we'll discuss the importance of preventing
+destructive outsiders from trashing the cooperative culture your team
+has worked hard to build. Perhaps more importantly, we'll also talk
+about how to deal with poisonous people already on your team.
+
+[[defining_poisonous]]
+=== Defining "Poisonous"
+
+((("poisonous people","defined")))We've already reviewed the importance of building a solid,
+communicative team culture. We spent most of the time talking about
+what a good culture should include: things like consensus-based
+development, high-quality code, code reviews, and an environment where
+people feel comfortable enough to try new things and to fail
+fast.
+
+Just as important is the need to talk about what your culture should
+__not__ include. If you're trying to build a highly efficient,
+fast-moving team, it's important to focus on what you __don't__
+want. While brilliant engineers can make your team faster and more
+efficient, certain antibehaviors can make your team slower and less
+efficient, and make your company a less comfortable place to work—and
+eventually erode the bonds that hold the team together.
+
+When we first began speaking about the social challenges of software
+development, we came up with a presentation titled "How to Deal with
+Bad Eggs." A conference chair suggested we rename the talk to "How
+Projects Survive Poisonous People," with the hope that a more
+sensational title would draw a bigger audience. And he was right: we
+gave the presentation over and over at different conferences to
+standing-room-only crowds. It's not just the negativity of a word like
+__poisonous__ that attracted people, but the fact that everyone seems
+to have some sort of personal experience in dealing with irritating
+people. The talks would almost always turn into a group therapy
+session, with audience members swapping war stories and seeking
+advice.
+
+But there's a danger here. In general, it's not healthy to spend your
+time stewing in an ocean of negativity—it tends to eat you up and can
+create more conflicts in the long run.footnote:[Yoda
+would probably have something to say here about avoiding the Dark
+Side.] The term __poisonous person__ is a nasty label and
+automatically creates a dividing line between "us" (the good guys) and
+"them" (those nasty jerks). There's a better way to think about the
+problem. Instead of running your((("negative behaviors"))) team as an elite fraternity with a
+mission to "repel mean people," it's healthier to create a culture
+that simply refuses to tolerate certain negative behaviors. It's the
+__behaviors__ you want to filter out, not particular individuals. It's
+naïve to think of individuals as purely good or bad; it's more
+constructive and practical to identify and reprimand the intolerable
+behaviors.
+
+For now, we'll continue to use the term __poisonous person__ as a
+simplifying piece of rhetoric, one that refers to a person who isn't
+behaving well. In practice, though, this is not a term you'd want to
+use in everyday conversations!
+
+[[fortifying_your_team]]
+=== Fortifying Your Team
+
+((("poisonous people","fortifying your team against", id="ixch04asciidoc1", range="startofrange")))((("team building","fortifying against poisonous people", id="ixch04asciidoc2", range="startofrange")))Recall our yeast metaphor: how a team culture grows from an important
+starter culture. The biggest single influence
+on the long-term culture of your team is the team you start with, and
+if the founding team doesn't establish a strong enough culture,
+strains of other cultures will overgrow it. If your starter team
+builds a strong sense of acceptable and unacceptable behaviors, these
+expectations will endure.
+
+The two of us have spent a lot of time in the world of open source
+projects, and our own experiences jibe with this idea pretty strongly.
+
+The project we were most involved with—Subversion—was started by a
+very small group of people. They had a lot of humility and naturally
+trusted and respected one another. After 15-plus years, the project
+has gone through at least three or four generations of participants
+(the founders are mostly gone), and yet the same culture
+persists—everyone is kind, is polite, and expects that same behavior
+from everyone else. The culture perpetuates not just because of high
+standards, but because cultures tend to((("self-selection"))) be __self-selecting__. Nice
+people tend to be attracted to existing nice
+communities.
+
+Self-selection can easily work in the other direction as well. When a
+team is started by a group of angry jerks, the effort tends to attract
+more and more individuals of the same sort. Certain projects that we
+won't mention((("team efficiency"))) here (like the Linux kernel community) are keen examples
+of this—full of endless bickering and chest thumping. Yes, the team
+may get a lot of work done, but the overall __efficiency__ of its
+operation is doubtful. How much more work would get done if so much
+energy weren't being spent on personal attacks? How much potential
+contribution is lost because polite people are being driven away at
+the front door?
+
+
+[[image_no_caption-id025]]
+image::images/dbtm_04in01.png[]
+
+We bring up this topic again because you need to understand what's at
+stake: poisonous
+people are a direct threat to your high-functioning team. If you allow
+bad behaviors to persist, not only does your productivity decrease,
+but you may also find your culture slowly changing for the worse. The
+best defense is to fortify your culture through a strong set of best
+practices and procedures. We covered them in
+<<building_an_awesome_team_culture>>, but here's a quick refresher:
+
+
+* Have a visible mission statement, to keep you focused on both your
+  goals and nongoals.
+
+
+* Establish proper etiquette around email
+  discussions. Keep archives, get newcomers to read them, and prevent
+  filibustering by noisy minorities.
+
+
+* Document all history: not just code history, but also design
+  decisions, important bug fixes, and prior mistakes.
+
+
+* Collaborate effectively. Use version control, keep code changes
+  small and reviewable, and spread the "bus factor"
+  around to prevent territoriality.
+
+
+* Have clear policies and procedures around fixing bugs, testing, and releasing software.
+
+
+* Streamline the barrier to entry for newcomers.
+
+
+* Rely on consensus-based decisions, but also have a fallback process
+  for resolving conflicts when consensus can't be reached.
+
+The bottom line is that the more ingrained these best practices are,
+the more intolerant of poisonous behavior your community will be. When
+troublemakers arrive, you'll be ready.(((range="endofrange", startref="ixch04asciidoc2")))(((range="endofrange", startref="ixch04asciidoc1")))
+
+[[identifying_the_threat]]
+=== Identifying the Threat
+
+((("poisonous people","identifying threat of", id="ixch04asciidoc3", range="startofrange")))((("teams","threats posed by poisonous people", id="ixch04asciidoc4", range="startofrange")))((("threats, identifying", id="ixch04asciidoc5", range="startofrange")))If you're going to defend your team against poisonous people, the first thing you need to
+do is to understand exactly what constitutes a threat and when you
+should become concerned.
+
+What's specifically at risk is your team's __attention__ and
+__focus__.
+
+Attention ((("focus")))and focus are the scarcest resources you have. The bigger
+the team, the more capacity the team has to focus on building things
+and solving interesting problems—but it's always a finite amount. If
+you don't actively protect these things, it's easy for poisonous
+people to disrupt your team's flow. Your team ends up bickering,
+distracted, and emotionally drained. Everyone ends up spending all
+their attention and focus on things __other__ than creating a great
+pass:[<span class="keep-together">product</span>].
+
+[[image_no_caption-id026]]
+image::images/dbtm_04in02.png[]
+
+Meanwhile, one has to wonder: what does a poisonous person look like?
+To defend yourself, you need to know what to look out
+for.
+
+In our experiences, it's rare to find people who are deliberately
+being malicious (i.e., are trying to be jerks on purpose). We call
+such people "trolls" and typically ignore them. Most
+people who behave badly, however, either don't realize it or simply
+don't care. It's more an issue of ignorance or apathy, rather than
+malice. Most of the bad
+behaviors boil down to a simple lack of HRT.
+
+Here are some classic signals and patterns to watch for. Whenever we
+see these patterns, we talk about "flipping the bozo bit" on the person—that is, we make a mental note that the
+person is consistently exhibiting poisonous behaviors and that we should be
+extremely careful in dealing with her.
+
+[[not_respecting_other_peoples_time]]
+==== Lack of Respect for Other People's Time
+
+((("time, wasting")))There are certain people out there who simply are unable to figure out
+what's going on in a project. Their damage is most often in the form
+of wasting the team's time. Rather than spending a few minutes of
+their own time reading fundamental project documentation, mission
+statements, FAQs, or the latest email discussion threads, they
+repeatedly distract the entire team with questions about things they
+could easily figure out on their own.
+
+In the Subversion project, we once had a participant who decided to
+use the main developer discussion forum as a sounding board for his
+daily stream of consciousness. Charlie made no actual code
+contribution. Instead, every two or three hours, he'd send out his
+latest daydreams and brainstorms. There would inevitably be multiple
+responses explaining why his ideas were incorrect, impossible, already
+in progress, previously discussed, and/or already documented. To make
+things worse, Charlie even started answering questions from drive-by
+users, and answering them __incorrectly__. Core contributors had to
+repeatedly correct his replies. It took us quite a while to realize
+that this affable, enthusiastic participant was in fact poisonous and draining our collective energy.
+Later in this chapter we'll talk about how we dealt with the
+situation.
+
+[[ego]]
+==== Ego
+
+((("ego","of poisonous people")))Perhaps __ego__ isn't the perfect word here, but we're using the term
+to describe anyone who is incapable of accepting a consensus decision,
+listening to or respecting other points of view, or reaching compromises. This
+person will typically reopen discussions that have been long settled
+(and documented in email archives) because she wasn't around to
+participate in the decision. The person won't read or think about the
+history at all, demanding that the debate be replayed just for her
+sake. She will often make sweeping claims about the project's success,
+claiming that doom is imminent unless she gets her way.
+
+The Subversion project had a notable episode in which an intelligent
+programmer showed up on the email list one day and declared that the
+entire product was ill-designed. He had seen the light, had radical
+ideas about how things should work, and insisted that the entire
+project start over from scratch. He even helpfully volunteered to lead
+the reboot himself. Without his leadership, he proclaimed that
+complete failure was looming just around the
+corner.
+
+An entire week was wasted while the project founders endlessly argued
+with this person and defended their original design decisions. A huge
+amount of attention and focus was lost. It became clear that this
+person wasn't willing to compromise or integrate any of his ideas into
+the current product, and the product (which was already in beta and
+being used in the wild) wasn't about to start over. At some point we
+simply had to walk away from the debate and get back on
+track. Ironically, years later, this person's predictions turned out
+to be correct on many levels, but that didn't stop Subversion from
+becoming wildly successful anyway—at least in corporate software
+development. The point here isn't about who is right or wrong, but
+whether a disagreement is guaranteed to come to a conclusion and
+whether it's worthwhile to keep a debate going. Never stop asking
+yourself those sorts of questions; at some point you need to decide
+when it's time to cut your losses and move on.
+
+[[Entitlement]]
+==== Entitlement
+
+((("entitlement")))Anytime you have a visitor who __demands__ that something be done,
+your alarm should go off. Something is wrong with a person who puts
+all her energy into complaining about the inadequacies of the
+software but is unwilling to directly contribute in any
+way.
+
+This((("Google Project Hosting service"))) sense of entitlement sometimes bleeds into troll-like
+behavior. While running Google's Project Hosting service, we once had
+a project owner ask us to ban a user for obscene behavior. The open
+source project, a video game emulator, didn't work properly for his
+favorite video game. The user started by filing a rather rude bug in
+the issue tracker. The project developers politely explained why the
+game didn't work yet, and why it was unlikely to be fixed for a good
+while. This answer was unacceptable to the user, who began to harass
+the developers daily. He would open bug after bug with the same
+complaint. He started adding comments to __other__ bugs saying what
+"idiots" the developers were for refusing to fix his problem. His
+language became increasingly obscene over time, despite repeated
+warnings from the developers and Google administrators. Regardless of
+all our efforts to eliminate his destructive behavior, he steadfastly
+refused to change, so we were eventually forced—as a last resort—to
+ban him entirely.
+
+[[immature_or_confusing_communication]]
+==== Immature or Confusing Communication
+
+((("communication","confusing")))((("communication","immature")))((("confusing communication")))((("immature communication")))The person doesn't use her real name. Instead, you'll see only
+childish nicknames like "SuperCamel," "jubjub89," or "SirHacksalot."
+To make things worse, often the person will have different nicknames
+in different media—one name for email, a different one for instant
+messaging, and perhaps a different one for code submissions. In
+extreme cases, you'll see these people communicating in lol-speak,
+1337speak, ALL CAPS, or with excessive
+punctuation!??!1!!1!!
+
+[[paranoia]]
+==== Paranoia
+
+((("paranoia")))As seen in the earlier example, sometimes an inappropriate sense of entitlement
+leads directly into open hostility toward a project. Many times we see
+it escalate into complete paranoia. When an existing
+team disagrees with the visitor, the poisonous person will sometimes
+start to throw accusations of a "cabal" and conspiracy. It's amusing
+to imagine that the project team finds him so important that they'd
+go through the effort of conspiring against the visitor. And if you
+already have an open and transparent culture of communication (as we
+pushed for in <<building_an_awesome_team_culture>>), this makes the
+accusation all the more hilarious, since every conversation is already
+a public record. The recommendation here is to not even bother
+responding to such charges. By the time the poisonous person goes this far over the edge, anything
+you say will only dig yourself a deeper hole in his mind, so why
+bother saying anything at all? It's time to get back to the important
+work of making things.
+
+[[perfectionism]]
+==== Perfectionism
+
+((("perfectionists","as threat to team")))On the surface, perfectionists don't seem dangerous at all. Sure,
+there may be a touch of odd obsessive-compulsive behavior now and then, but usually
+the person is humble, polite, respectful, and a good listener. He
+seems stuffed full of happy HRT and good intentions. What's the
+problem, then? The problem is the threat of paralysis.
+
+Let's look at a person we've worked with in the past. Patrick was a
+brilliant engineer. He had great design chops, wrote high-quality code
+and tests, and was easy to get along with. Unfortunately, when it came
+time to design new software, he could spend the rest of his life
+tweaking and improving his design. He was never satisfied with the
+plans and seemingly was never ready to start coding. While he
+certainly had good points and excellent insights into the problems we
+were trying to solve, the rest of the team ended up becoming immensely
+frustrated; it became clear that we were never actually going to write
+any code. Several of us on the project deliberated quite a bit on what
+to do about this. On the one hand, Patrick was a huge help to our
+team. On the other hand, he was preventing us from making forward
+progress as a group. Every time we'd begin to code he'd politely veto
+and point out potential theoretical problems that could matter in the
+distant future. He was paralyzing us without realizing it. We'll talk
+about how we resolved this in the next section.(((range="endofrange", startref="ixch04asciidoc5")))(((range="endofrange", startref="ixch04asciidoc4")))(((range="endofrange", startref="ixch04asciidoc3")))
+
+[[repelling_the_poison]]
+=== Repelling the Poison
+
+((("poisonous people","strategies for dealing with", id="ixch04asciidoc6", range="startofrange")))We don't advocate throwing people out of a community just because
+they're being antisocial or rude. As we mentioned earlier, it's not
+healthy to create a clique focused on "us" (the nice people) versus
+"them" (the mean people). In our prior examples we didn't focus on
+booting the person, but rather on booting the __behavior__. Make it
+clear that bad behaviors will not be tolerated. If, after repeated
+warnings, the behavior doesn't change, only then does it makes sense
+to consider formal rejection.
+
+Concentrating your effort on removing toxic behavior is often enough
+to turn an intelligent (although perhaps socially awkward) person into
+a productive member of your team. A few years ago we had a team member
+who was an excellent engineer but had an annoying habit of
+accidentally insulting teammates. Rather than just ejecting him from
+the community, one of us pulled him aside and asked him if he was
+aware that his words were alienating people. He seemed somewhat
+surprised that this was happening and didn't exactly understand why
+his actions were having this effect. But he agreed that it would be
+worthwhile to try to temper his actions in the interest of being a
+better team member. And everything worked out perfectly. He changed
+his behavior, and the problem was resolved. Not every anecdote ends in
+exile!
+
+OK, so you've identified a poisonous person. Perhaps there's someone
+distracting and draining your team's energy right now. How do you deal
+effectively with the situation? Here are some useful strategies.
+
+[[redirect_the_energy_of_perfectionists]]
+==== Redirect the Energy of Perfectionists
+
+((("perfectionists","redirecting energy of")))Once a good-enough solution is found for the original problem, point
+the perfectionist to a different problem that still needs attention.
+
+In the case of Subversion's perfectionist, this strategy worked
+well. Eventually, we reached a point where we took Patrick aside and
+said, "OK, we're just going to start working from this design as it
+stands now, and see what happens. Hopefully you'll be able to help us
+navigate around any problems that crop up down the road." To our
+surprise, Patrick was OK with this and instead moved on to a different
+subject as the object of his obsession. No feelings were hurt either
+way, and Patrick kept contributing to the overall effort.
+
+There's an old saying to not let "the perfect be the enemy of the
+good," and in your quest to create a high-performing team, you need to
+be just as vigilant about avoiding perfectionism as you are about calling out more
+obvious disruptive behaviors.
+
+This trick of redirecting energy
+also works on the overly entitled people who spend more time
+complaining and criticizing than helping out. It's tempting to respond
+to such a person with a standard "patches welcome" remark—the open
+source community's euphemistic version of telling someone to put up or
+shut up. Instead, try getting him to take an interest in formally
+testing the software and pointing out regressions. It allows him to
+keep complaining, but in a useful way.
+
+[[dont_feed_the_energy_creature]]
+==== Don't Feed the Energy Creature
+
+((("trolls","dangers of responding to")))This is an old adage((("Usenet"))) from Usenet.footnote:[Which may
+itself refer to that original __Star Trek__ episode, "Day of the
+Dove," in which negative emotions fed an energy creature. Kirk and his
+Klingon counterpart Kang ordered their men to stop feeding the energy creature,
+and it departed from the __Enterprise__. See, it all comes back to
+__Star Trek__.] In particular, this works best against deliberate
+trolls—people who are purposely trying to get a rise out of you or
+your team. The more you respond, the more the troll feeds off your
+energy, and the more time you've wasted. ((("silent treatment")))The simple silent treatment
+often works best. Regardless of how much you're dying to deliver that
+one-line zinger that'll put him in his place, resist the urge. When
+the person realizes nobody's paying attention, he typically loses
+interest and just leaves. Note that it often takes quite a bit of
+willpower to not respond. Stay strong!
+
+
+[[image_no_caption-id027]]
+image::images/dbtm_04in03.png[]
+
+[[dont_get_overly_emotional]]
+==== Don't Get Overly Emotional
+
+((("emotion","when dealing with poisonous people")))Even if the person isn't deliberately trolling, it's all too easy to
+get defensive. When somebody accuses you of making a bad design
+decision or of conspiracy, or simply wastes your time by asking too
+many questions whose answers are obvious, it's easy to get
+upset. Remember that your job is to build great things, not to appease
+every visitor or repeatedly justify your existence. The stronger your
+emotions are, the more likely you are to waste hours or days writing
+passionate replies to someone who doesn't deserve such
+attention. Choose your battles carefully and keep calm. Carefully decide who's worth
+replying to, and who you'll pass:[<span class="keep-together">let be</span>].
+
+[[look_for_facts_in_the_bile]]
+==== Look for Facts in the Bile
+
+((("facts, when dealing with poisonous people")))Continuing on with the theme of staying clear of too much emotion, a
+corollary is to actively look for facts. If someone is complaining,
+listen carefully. Always start by giving the person the benefit of the
+doubt, despite the angry or rude language. Does the person have a real
+point? Is there something to learn from the person's experience, or is
+there an idea worth responding to? Very often the answer is "yes"—that
+despite a poisonous person's vitriolic prose, some wisdom really is
+buried in there. Always bring the argument back to a technical
+pass:[<span class="keep-together">discussion</span>].footnote:[For more on this subject, see
+((("Kerth, Norman")))Norman Kerth's "The Retrospective Prime
+Directive," in his book __Project Retrospectives__ (Dorset House).]
+
+Our favorite example of this is the day we got a rancorous email from
+a well-known leader of the open source community. It was a bug report
+of sorts, but on the surface it was more like a rant about the team's
+overall intelligence. The post was chock-full of slander and
+hyperbole, and seemed intended to inflame the team rather than to get
+the bug fixed. One of our team members, however, responded to the
+report with just a few specific questions, focusing only on the
+bug. The bug reporter replied with more clarification, but still it
+was wrapped in over-the-top venom. Our team member continued to
+completely ignore the insults, investigated the issue, and replied
+with a simple "Thanks for the bug report, I see how to fix the
+problem—we'll release a patch soon."
+
+((("calmness, when dealing with poisonous people")))We were immensely proud of the way our team member handled the
+situation. Remaining utterly calm and fact-driven only made the
+original poster seem like more of a lunatic as the conversation
+progressed. By the end of the exchange, the bug reporter had lost all
+credibility with his audience and no longer had any interest in
+hanging around.
+
+[[repel_trolls_with_niceness]]
+==== Repel Trolls with Niceness
+
+((("niceness, repelling trolls with")))((("trolls","repelling with niceness")))To take the preceding approach (of remaining cool-headed and factual)
+even further, sometimes it's possible to scare people away just by
+being too kind! Here's an actual chat transcript from the Subversion
+IRC channel:
+
+[role="pagebreak-before"]
+[quote]
+____
+harry: Subversion sucks. This is quite a nuisance.
+
+sussman: If you need help, then ask.
+
+harry: I want to cvs someone's files. No, I just want to gripe. But
+this person is hung up on this thing called Subversion so he has svn
+instead of cvs.
+
+sussman: So get an svn client and checkout his sources.
+
+harry: So I go and download this Subversion thing…can you configure
+make make install Subversion like you can cvs? Of course not. I blame
+him more than the subversion people.
+
+sussman: Just because *you* can't ./configure; make; make install
+doesn't mean there's a big widespread bug. People do that with the svn
+tarball every day.
+
+harry: I didn't say there was a bug.
+
+sussman: Do you think we would have released the tarball if something
+that fundamental were broken?
+
+harry: I am just griping about this bozo. I just have to install expat
+or libxml. *sigh*
+
+sussman: Those things are usually pre-installed on most systems.
+
+sussman: Is this guy using an apache server? Perhaps you should just grab a binary.
+
+harry: I don't know, he just says svn…
+
+sussman: Which distro are you on?
+
+harry: FreeBSD
+
+sussman: Just cd into the ports tree and make the port.
+
+harry: You people are ruining my rant…I came here looking for an
+argument…you are too helpful and friendly.
+
+sussman: :-)
+
+harry: When the hell do you come to an IRC channel and everyone tries to help you? Blah.
+
+— Harry has quit
+
+
+____
+
+
+[[know_when_to_give_up]]
+==== Know When to Give Up
+
+((("giving up, as strategy")))Sometimes no matter how hard you try, you simply need to flip the bozo
+bit and move on. Even if you've already spent a lot of attention and
+focus trying to correct bad behaviors, you need to know how to
+recognize a lost cause.
+
+Let's return to our story about Charlie, the friendly philosopher who
+was posting far too often to the Subversion email list. Eventually we
+did an analysis of the email discussions and discovered that this
+participant had grown into the third most frequent poster over the
+course of two months; the first and second most frequent posters were
+core project contributors, and 70% of their posts were spent
+__replying to Charlie__! Clearly our energy and focus were being
+sucked away, despite no ill will from Charlie himself. Our final
+solution was to privately email him and (politely) ask him to stop
+posting so often. It was a difficult conversation to have, mainly
+because he was unable to see the amount of disruption he was
+causing. After a few more weeks without a significant behavioral
+change, one of us actually had a long (and even more difficult)
+discussion with him over the phone where we asked him to stop posting
+altogether. He ultimately withdrew as requested, a bit sad and
+confused, but respectful of the team's wishes. Everyone felt a little
+guilty about it because he never quite understood the harm he was
+causing, but everyone also felt it was the right thing to do. It was a
+delicate situation to resolve, but we used a great deal of HRT to keep
+things civil and appropriate.(((range="endofrange", startref="ixch04asciidoc6")))
+
+[[focus_on_the_long_term]]
+==== Focus on the Long Term
+
+((("long-term focus", id="ixch04asciidoc7", range="startofrange")))The path to a successful project is ((("distractions")))lined by thousands of
+distractions. If there's a common theme in dealing with the
+distraction of poisonous people, it's that it's all too easy to get
+caught up in the immediate drama of a situation. If you're witnessing
+what you think may be poisonous behavior, you need to ask yourself two
+critical questions:
+
+
+* Despite the short-term loss of your team's attention and focus, __do
+  you truly believe the project will still benefit in the long run__?
+
+
+* Do you believe the conflict will ultimately resolve itself in a useful way?
+
+
+[[image_no_caption-id028]]
+image::images/dbtm_04in04.png[]
+
+If your answer to either of these questions is "no," you need to
+intervene to stop the behavior as soon as possible. It's easy to
+persuade ourselves that the short-term gain of tolerating poison is
+worth it, but it usually isn't: for example, somebody may be a great
+technical contributor but still exhibit poisonous behavior. There's a
+temptation to turn a blind eye to the behavior in order to benefit
+from the technical advancement. But be careful! A strong culture based
+on HRT is irreplaceable, while technical contributions are
+__definitely__ replaceable. To quote a former teammate of ours:
+
+[quote,Greg Hudson]
+____ 
+I have several friends who know him to some degree. One
+of them said, "He often walks the fine line between genius and
+lunatic." The problem is, genius is such a commodity these days that
+it's not acceptable to be an eccentric anymore.
+____
+
+
+Of course, Greg((("Hudson, Greg"))) isn't talking about literal "genius" here; he's
+pointing out that the world is full of highly competent
+programmers. If you find one who's offensive or threatens your culture
+over the long term, it's best to wait for another one to come along.
+
+We once encountered this sort of situation in the Subversion
+project. The team has a strict policy of not putting names into source
+code files (the very policy we discussed in
+<<building_an_awesome_team_culture>>!): we feel it creates
+unmanageable territoriality. People are afraid to change code if it
+has somebody else's name on it, and it keeps the bus factor
+artificially low. Instead, we allow the version control's history to
+credit people appropriately, and we keep a single top-level file with
+all the contributors' names in it.
+
+One day a smart programmer showed up and volunteered to write a
+sizable new feature that was sorely needed. He submitted the code for
+review, and our main feedback was simply requesting that he remove his
+name from the top of the file—that we'd credit him in the same places
+as everyone else. He refused to do this, however, and the debate led
+to an impasse. In the end, the decision was made to reject his code
+and he left, taking his toys with him. Of course everyone was
+disappointed, but we didn't want to violate our policy (and dilute our
+culture) just to get the new feature sooner. A couple of months later,
+someone else ended up reimplementing the feature anyway.
+
+To be explicit: __it's not worth compromising your culture for the
+short-term__ pass:[<span class="keep-together"><em>gains</em>—</span>]particularly if it's about a brilliant contributor
+who doesn't acknowledge the importance of HRT.(((range="endofrange", startref="ixch04asciidoc7")))
+
+[[a_final_thought]]
+=== A Final Thought
+
+This chapter discussed quite a number of scenarios, and after taking
+everything in it's easy to develop a deep sense of paranoia. Please
+remember that most of the world isn't overflowing with jerks.  A
+friend of ours once noted, "Yeah, there are only a few crazy people
+out there; the Internet just makes it seems like they all live next
+door."
+
+((("Hanlon, Robert J.")))((("ignorance, malice vs.")))((("malice, ignorance vs.")))((("stupidity, malice vs.")))Or, as the saying from Robert J. Hanlon goes:
+
+[quote]
+____
+Never attribute to malice that which is adequately explained by pass:[<span class="keep-together">stupidity</span>].
+____
+
+We prefer to use the term __ignorance__ rather than __stupidity__, but
+the idea is the same. As we mentioned in the beginning, it's naïve to
+think of people as Good or Bad. There are very few evil people out
+there trying to deliberately crush your culture—most of them are
+simply misinformed or misguided. Or perhaps they just want recognition
+and are too socially inept to fit in. Either way, your job isn't to
+cultivate condescension and lock out the less enlightened peasants
+from your project; rather, your job is to be intolerant of destructive
+behaviors and to be explicit about your expectations of HRT. It takes
+wisdom to understand the difference and real skill to carry it out.(((range="endofrange", startref="ixch04asciidoc0")))
+
+

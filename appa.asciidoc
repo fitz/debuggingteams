@@ -1,0 +1,62 @@
+[[epilogue]]
+[appendix]
+== Epilogue
+
+By now it should be pretty clear that most of the advice in our book
+isn't necessarily specific to product development.
+
+Our stories are essentially about the art of maintaining a healthy,
+functional community—__any__ community. You could take our anecdotes,
+remove the parts specific to product development, and substitute any
+other sort of activity. We could be talking about a neighborhood club,
+a church group, a fraternity, or a construction team; the same social
+problems exist and the same solutions are applicable. Humans are
+unpredictable and tricky to deal with no matter what the
+context. Product development has the same community-health issues as
+any other group endeavor.
+
+So, while you're out there busily incorporating HRT into your daily
+work life, keep in mind that it applies to the rest of your life as
+well.
+
+Who knows? It's possible that our real calling may be in writing
+church sermons. But for now we'll stick to writing software and
+getting the most out of collaboration. And now you have the power to
+do that, too.
+
+[[a_final_thought-id001]]
+=== A Final Thought
+
+We've covered an awful lot of topics in this book. After you close the
+cover it may be hard to figure out which parts to embrace in your
+daily life. After all, what's the point of reading a book like this if
+it doesn't result in some changes in the way you work? What happens
+now?
+
+((("HRT (humility, respect, trust)","importance of")))Let's keep things simple. If you remember anything at all about our
+stories, remember HRT: humility, respect, and trust.
+
+As we explained in the first chapter, these three core traits are the
+things that need to underlie every social action you make and every
+relationship you pass:[<span class="keep-together">cultivate</span>]. And if you look carefully you'll find that
+nearly every social problem stems from a __lack__ of one of these
+traits.
+
+Remember that HRT applies to all your different "spheres" of
+influence. It applies to you before anything else: these traits affect
+every individual communication you make. It applies to your team: a
+culture based on humility, respect, and trust will spend the most time
+coding and the least time infighting. It applies to the way people
+lead teams: skilled leaders serve their teams and not the other way
+around. HRT also applies to the way you interoperate with and survive
+temporary collaborators outside your team, whether they are nice
+folks, jerks, or a dysfunctional bureaucracy. And finally, these
+principles apply directly to the way you interact with the most
+important group of all—the users of your product.
+
+If you keep HRT at the forefront of the way you work, you'll have
+greater impact with considerably less effort. We think it's the best
+way to end up spending the most amount of time doing what you love
+(shipping product) and the least amount of time dealing with social
+conflicts, bureaucracy, and other human drama.
+

@@ -1,0 +1,1182 @@
+[[building_an_awesome_team_culture]]
+== Building an Awesome Team Culture
+
+((("culture","team", id="ixch02asciidoc0", range="startofrange")))((("team culture", id="ixch02asciidoc1", range="startofrange")))Team cultures are incredibly varied and reflect a wide range of values
+and priorities. Some promote team success, and others promote team
+failure on a grand scale. However, even among the cultures that lead
+to successful teams, some are incredibly efficient and focus the
+majority of your team's effort on the work they set out to do, while
+others provide a great deal of distraction from the task at hand. In
+this chapter we'll talk about culture, with a strong focus on various
+communication techniques that contribute to success. We'll identify
+how these techniques can be used to create any product more efficiently
+with a team of humans.
+
+[[what_is_culture]]
+=== What Is Culture?
+
+((("culture","about", id="ixch02asciidoc2", range="startofrange")))When you hear the word __culture__, your thoughts typically wander to
+either an evening at the opera or the dish of jelly growing bacteria
+that you had back in high school biology. It turns out that
+engineering team culture isn't all that different from the latter.
+
+
+[[image_no_caption-id009]]
+image::images/dbtm_02in01.png[]
+
+((("culture","sourdough bread analogy")))((("sourdough bread analogy")))If you've ever had a really delicious piece of sourdough bread and
+took the time to hunt down the person who baked it, you would find
+that the key ingredient to the bread is a starter containing yeast and
+lactobacillus bacteria living on a diet of flour and water. The yeast
+is what makes the bread rise, and the bacterium is what gives the
+bread that amazing tangy, sour flavor. However, not all lactobacillus
+strains are alike, and some create a more desirable flavor than
+others, so when a baker finds a starter (i.e., a bacteria
+culture/yeast mixture) that gives a really great sourdough flavor,
+she'll take care to maintain and grow the same bacterial culture by
+adding more flour and water to it. She'll then take small amounts of
+the starter and inoculate the ingredients for a loaf of bread, and
+__voilà__, she's got a great loaf of sourdough! This works because the
+culture in the starter not only creates the taste that she wants, but
+is strong enough to overtake any other wild strains of yeast or
+bacteria that might be in the bread ingredients or the air of the
+bakery.
+
+
+[[image_no_caption-id010]]
+image::images/dbtm_02in02.png[]
+
+Your team's culture is much like a good loaf of sourdough: your
+starter culture (your founders) inoculates your
+dough (your newcomers) with the culture, and as the yeast and bacteria
+(your team members) grow, out pops a great loaf of bread (your
+team). If your starter culture is strong, it's more than capable of
+overcoming any undesirable "wild strains" of culture that a newcomer
+might bring with him.footnote:[Of course, a strong
+culture always has the option of incorporating any desirable "wild
+strains" that a newcomer brings in with her.] If your starter culture
+is weak, your team is vulnerable to unknown culture strains that
+newcomers might bring along. Unknown cultures bring with them
+unpredictable results, so it's better to begin with a known starter
+culture.
+
+But a team's culture isn't just the way in which team members tackle
+their work, write code, or treat one another: it's a set of shared
+experiences, values, and goals that is unique to every engineering
+team we've ever been on or observed. The founding members of a team or
+company define the biggest part of a team's culture, but it will
+continue to change and develop over the life of the team.
+
+The elements that make up a
+team culture vary
+wildly. Some are directly relevant to the __process__ of doing work:
+in the case of writing software, you might set up code reviews and test-driven development, and place a high value on having good design
+docs before starting to crank out reams of code. Some elements might
+be more social, like going out to a particular restaurant for lunch
+every Thursday, or going out for drinks at a favorite bar on
+Fridays. Some of them might seem pass:[<span class="keep-together">completely</span>] silly or outlandish to an
+outsider: the Google Pittsburgh engineering office used to be located
+next to a freight train track, and every time a train would come by
+(mind you, a very loud train), everyone would jump up and shoot Nerf
+darts at one another.footnote:[This scared the
+__hell__ out of Fitz the first time he visited the Google Pittsburgh
+office.] All of these things make up a team's culture and affect the team's productivity
+and ability to attract and retain good team members.
+
+Take a look at any wildly successful software company today—Google,
+Apple, Microsoft, Oracle—and you'll find that each company has a very
+different culture: one that has its roots in the culture that was set
+by the founders and earliest employees. As these companies have grown
+and matured, their cultures have evolved and changed, but they've
+still retained a unique identity that trickles down to just about
+every aspect of how they develop products, treat their employees, and
+compete with other companies.(((range="endofrange", startref="ixch02asciidoc2")))
+
+[[why_should_you_care]]
+=== Why Should You Care?
+
+((("team culture","importance of", id="ixch02asciidoc3", range="startofrange")))In short, you should care because if you don't put effort into
+building and maintaining your culture, your team will eventually be
+overtaken by strong personalities that cultivate __their__ culture in
+your team. This ((("cultivating culture")))culture may turn out to be a productive, healthy
+culture that cranks out piles of great code, but more often than not,
+it won't turn out as such, and you'll suddenly find a lot of your
+energy that used to go into designing and creating your product is
+suddenly expended in arguments and infighting. Beyond that, it's
+important to have a culture that your team values and is willing to
+defend. If your team doesn't value your culture, not only is it
+difficult to build a strong team identity and collective pride in your
+work, but also it's very easy for a newcomer to change your culture
+into something that sucks.
+
+((("leaders","and team culture")))((("team culture","and leaders")))The first mistake most team __members__ make is to assume the team
+__leader__ curates the culture of a team. Nothing could be further
+from the truth: while the founders and leads usually tend to the
+health of your culture, every member of your team participates in the
+culture and bears some responsibility for defining, maintaining, and
+defending the culture. When someone joins your team, she doesn't pick
+up the culture from the team leader alone, but from every team member
+she works with. For example, when you carefully review your new team
+member's work and explain to her why your team does something in a
+certain way, she'll quickly figure out what the team values in their
+product. She'll also learn about your culture from observing how the
+rest of your team works, interacts, and deals with conflict.
+
+((("strong culture")))A "strong culture" is one that is open to change that improves it, yet
+is resistant to radical change that harms it. The team cultures that are most successful are
+those that focus the majority of the team's effort on shipping great
+software. If your team's primary focus is anything other than that
+(e.g., partying, attending meetings, practicing one-upmanship) your
+team may bond tightly, but you won't get very much software
+written. If you're happiest when writing code and shipping product,
+it's definitely in your best interest to find a team that values that,
+and to work to maintain that environment. It's not that you can't
+create something great without a strong and productive culture, but
+it's going to cost you a lot more time and energy to do so without
+one. A strong culture gives you focus, efficiency, and strength, and
+these things make for a happier team.
+
+The interesting thing about team culture is that, if you build a
+strongly defined one, it will become self-selecting. In the open source world, projects that
+are built on HRT and focused on writing clean, elegant, maintainable
+code will attract engineers who are interested in—surprise,
+surprise—working with people they respect and trust, and writing
+clean, elegant, maintainable code. If, however, your team is built on
+a culture of aggression, hazing, and ad hominem attacks, you're going
+to wind up attracting more people like that.
+
+((("self-selecting cultures")))We've seen self-selecting cultures many times in the Apache Software
+Foundation: the ASF is a collection of software development teams that
+are community-based and that run on a consensus model. Many times a
+new contributor will join the mailing list and, through either
+ignorance or malice, will behave in a manner contrary to the team's
+culture. Community members will usually attempt to educate the
+newcomer (sometimes gently, sometimes, um, well, "not so gently"), and
+if the newcomer is not interested in how the ASF team does things,
+they'll usually head off in search of a more compatible project.
+
+In the corporate world, teams self-select through the hiring process,
+whether implicitly in the skills and strengths that are valued in
+potential candidates, or explicitly by considering culture fit as part
+of the hiring process. Google takes the explicit approach in its
+hiring process as it looks specifically for culture fit when
+interviewing candidates: if Google interviews someone who in all
+respects looks like an outstanding engineer, but is incapable of
+working with a team of people or
+requires a very structured environment, the interviewers will raise a
+red flag in their feedback.
+
+If you don't pay attention to culture fit as part of the hiring
+process and hire someone who isn't a fit, you'll wind up expending a
+tremendous amount of energy either getting the new hire to fit in or
+getting him to leave your team. Regardless of the result, the cost is high
+enough that it's definitely worthwhile to make sure new team members will work well with your
+existing team.
+
+[[note-1]]
+.Interviewing for culture
+[NOTE]
+====
+
+((("interviews")))The only way to make sure new team members will be a culture fit is to
+interview for it. Many companies (like Google) have culture fit as one
+of the criteria that interviewers look out for as they're speaking to
+a candidate. Some companies take it even further in their quest to
+avoid a hiring mistake: they have a separate interview for culture fit
+__before__ doing the technical interviews because they don't want to
+even consider people who would fit technically but not
+culturally. This sort of process involvement is critical for creating
+and preserving a strong culture and it doesn't happen by accident; in
+fact, it is usually consciously created by the company's founders and
+early employees.(((range="endofrange", startref="ixch02asciidoc3")))
+
+====
+
+[[culture_and_people]]
+=== Culture and People
+
+((("people","culture and", id="ixch02asciidoc4", range="startofrange")))((("team culture","and people", id="ixch02asciidoc5", range="startofrange")))Creative work like writing software is different from simply knocking out widgets on an
+assembly line. Some types of work can be done with a few days of
+training and some basic tools, and if your worker quits and leaves (or
+doesn't work out), you just drop another worker in and on you go. In
+the assembly line environment, employees are accomplishing simple
+tasks, often by rote, with little creative-thinking or problem-solving
+skills required. In the software world, a great deal of creative
+thinking is required of engineers working on a
+product,footnote:[Some people think they can hire a
+whiz-bang architect and a bunch of mediocre programmers and create a
+good product. We think you can do that, but it's considerably less
+exciting and fun than working with a team of great people who inspire, challenge, and
+teach you.] and if you want a great product, you need great
+engineers. If you want great engineers to do great work (and to stick
+around), you need to create a culture for them that allows them to
+safely share ideas and have a voice in the decision-making process.
+
+If you want to get excellent engineers to work on your team, you need
+to start by hiring, well, some great engineers! That may sound weird,
+but the fact of the matter is that most great engineers want to be on
+teams with __other__ great engineers. Many great engineers we know
+gravitate toward teams where they can learn from giants of the
+industry.footnote:[Great engineers also demand great
+team leaders, because crappy leaders not only tend to be too insecure
+to deal with great engineers, but also tend to boss people around.] So
+how do you attract these engineers in the first place?
+
+For starters, they're going to want to be able to not only contribute
+to the development of
+your product, but also participate in the product's decision-making
+process, and that usually means some level of consensus-driven
+management. In the case of top-down management, the alpha engineer is
+the team lead and lesser engineers are hired as team members. This is
+because subservient team members cost less and are easier to push
+around. And you're going to have a hard time finding great engineers
+to be on this team because, after all, what really great engineer
+wants to __ride__ the bus when she can __drive__ the bus at another
+company? But in the case of consensus-driven management, the entire
+team participates in the decision-making process.
+
+((("consensus-based team")))Many people hear "consensus-based team" and immediately think of a
+bunch of hippies singing "Kumbaya" around a campfire and never making
+a decision or getting anything done, but that stereotype is
+symptomatic of a dysfunctional team much more than a consensus-based
+team. What we mean by "consensus" is that everyone has a strong sense
+of ownership and responsibility for the product's success and that the
+leaders really listen to the team (with an emphasis on the "respect"
+component of HRT). This may mean there are times when extended
+discussion and reflection is what the product needs to succeed, and
+there are other times when the team
+agrees they need to move quickly. In the latter case, team members may
+decide to entrust a great deal of the nitty-gritty day-to-day
+decision making to one or more team
+leads.footnote:[When consensus can't be reached, some
+teams have their leads decide, while other teams put it to a vote. The
+process your team uses is less important than having a process and
+sticking with it when there's conflict.] In order for this to happen,
+the team as a whole needs to agree on the general mission of the team,
+and believe it or not, the key to that is the development of a team
+mission statement (more on that later in this chapter).
+
+((("self-selecting cultures")))Just as important as your team's decision-making process is the manner in which team members
+treat one another, because this is more self-selecting than anything
+else. If your team has a culture of chest thumping and yelling and
+screaming at one another, the only people you'll attract (and retain)
+are aggressive types who feel right at home in this
+environment composed of strong pass:[<span class="keep-together">individual</span>] egos (in fact, most of the
+women we know find this kind of environment especially
+off-putting). If you create a culture of HRT where team members treat
+one another kindly and take the effort to give constructive criticism, you'll not only attract a much
+larger set of people, but you'll also spend a great deal more of your
+energy writing software. Having a strong team egofootnote:[In
+other words, team pride.] is good; a team totally eclipsed by
+__individual__ egos is a recipe for disaster. We'll discuss how to
+prevent this sort of situation in <<dealing_with_poisonous_people>>.
+
+((("constructive criticism")))((("criticism","and team culture")))Constructive criticism is essential
+to the growth and development of any person or team, but many people
+will go to great lengths to avoid soliciting criticism.  In some cases
+this is due to insecurity, but in most cases that we've seen it is
+because a person thinks that they are required to take action on any
+criticism received, even if they disagree with it.  The best part
+about getting good constructive criticism is that you can pick and
+choose which pieces you want to act on. Let's say, for example, that
+you're getting ready for an important job interview and put on your
+favorite suit. You approach a trusted friend and ask how you look. If
+they say, "You've got spinach in your teeth, and I really hate your
+suit" you can take a quick floss break, but you don't __have__ to
+change clothes as well. Criticism is a gift that you can either accept
+or reject.
+
+If you're interested in improving your work or fixing your own
+personal bugs, these very friends and colleagues are the ones that can
+make you aware of things you do that might be hindering your
+effectiveness. Unless you have a truly remarkable level of
+self-awareness or introspection, without criticism, you'll just go on
+making the same mistakes no one wants to tell you about. For example,
+in the process of going to press with this book, we've had no fewer
+than a dozen people look at it and give us constructive criticism on our writing, and most of it was
+incredibly detailed and completely invaluable. Regardless of whether
+you think the book is good or bad, it would have been __considerably
+worse__ if we had ignored this valuable feedback or been afraid to ask
+for it.
+
+[role="pagebreak-before"]
+It requires a certain amount of self-confidence
+to take any kind of criticism, and we think constructive criticism is
+the easiest kind to receive. On the downside, it's a lot harder to
+give someone constructive criticism than to simply lambast her or
+ridicule something she did. Of course, we realize it's incredibly
+difficult to solicit and then receive constructive criticism from most
+people—they assume that when you ask them to criticize your work,
+you're only looking for compliments and assurance. If you can find
+friends or colleagues who will constructively criticize your work when
+you ask them, hang on to these people because they're worth their
+weight in unobtainium.
+
+((("aggressive people")))Aggressive people can (usually) be productive
+in a quieter environment, but quieter, more introverted people rarely
+excel (or enjoy working) in an aggressive environment—it's not only
+harder to hear their voices over the noise, but it also tends to
+discourage them from being ((("Cain, Susan")))active
+participants.footnote:[See Susan Cain's excellent TED Talk, http://www.youtube.com/watch?v=c0KYU2j0TM4["The Power of
+Introverts"], or her book,
+__Quiet: The Power of Introverts__ (Crown).] If you're looking for a
+culture that allows the broadest range of people to work most
+efficiently, you should build that culture on humility, respect, and
+trust.
+
+((("calm cultures")))Calm, easygoing cultures built on respect are more vulnerable to
+disruption by aggressive people than ((("aggressive cultures")))aggressive cultures are
+vulnerable to disruption from more easygoing people. Easygoing
+cultures need to be aware of this and not let the aggressive newcomer
+take over, typically by refusing to engage this person in an
+aggressive tone. In some cases, one or more of the more senior team
+members may have to meet the aggressive newcomer head-on to prevent
+her from harming an easygoing team culture. Again, we'll talk a lot more about how to deal
+with these sorts of "poisonous people" in
+<<dealing_with_poisonous_people>>.(((range="endofrange", startref="ixch02asciidoc5")))(((range="endofrange", startref="ixch02asciidoc4")))
+
+[[communication_patterns_of_successful_cul]]
+=== Communication Patterns of Successful Cultures
+
+((("communication","in successful cultures", id="ix_ch02-asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ix_ch02-asciidoc7", range="startofrange")))Communication can often be a challenge when you're working with a team,
+((("communication","in successful cultures", id="ixch02asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ixch02asciidoc7", range="startofrange")))Communication can often be a challenge when working with a team,
+particularly for engineers, who would rather spend an afternoon with a
+(predictable, logical) compiler than spend three minutes with a
+(unpredictable, emotional) human being. In many cases, engineers see
+communication work as an obstacle to be overcome on the road to
+writing more code, but if your team isn't in agreement or is uninformed, there's no way to
+know if you're writing the right code in the first place.
+
+
+[[image_no_caption-id011]]
+image::images/dbtm_02in03.png[]
+
+If you examine any successful, efficient culture, you'll find high
+value placed on numerous channels of communication, such as mailing
+lists, design docs, chat rooms, mission statements, code comments,
+production how-tos, and more. It takes considerable effort to make
+sure everyone on a team agrees on the team's direction and understands
+exactly what the team needs to do. All this effort, however, is an
+investment that pays off in increased productivity and team happiness.
+
+((("asynchronous communication")))((("communication","synchronous vs. asynchronous")))((("synchronous communication")))A good general rule around communication is to include as few people
+as necessary in __synchronous__ communication (like meetings and phone
+calls), and to go for a broader audience in __asynchronous__
+communication (like email, issue trackers, and document
+comments). Synchronous communications have a high cost: they require
+that participants interrupt their workday and receive information on
+your schedule. Asynchronous communications, however, can be dealt with
+at a time and place most convenient for the recipient.  Every time you
+interrupt someone's work it will take some amount of time for them to
+get back up to speed—always be conscious of when you're doing this.
+
+But most importantly, you should make certain that all
+information is available to as many people as possible in your
+project's documentation. Let's cover the primary communication mechanisms that
+people use in the process of writing software with a
+team. Some of these may seem
+obvious, but there are many nuances that make them worth
+reviewing. One thing is certain: if you don't expend any effort on
+good communication, you'll
+waste considerable effort doing work that's either unnecessary or
+already being done by other members of your team.
+
+[[high-level_synchronization]]
+=== High-Level Synchronization
+
+((("communication","high-level synchronization", id="ixch02asciidoc8", range="startofrange")))((("high-level synchronization", id="ixch02asciidoc9", range="startofrange")))((("synchronization, high-level", id="ixch02asciidoc10", range="startofrange")))At the highest level, the team needs to keep common
+goals in sync and follow best practices around
+communicating their progress.
+
+[[the_mission_statementmdashno_really]]
+==== The Mission Statement—No, Really
+
+((("communication","and mission statements", id="ixch02asciidoc11", range="startofrange")))((("mission statements", id="ixch02asciidoc12", range="startofrange")))When you hear someone say "mission statement," the odds are good that
+the first thing that springs to mind are the insipid, overhyped,
+marketing-speak mission statements that are bandied about by a lot of
+big companies. An example is the following mission statement from a
+very large telecommunications company that will remain nameless:
+
+[quote]
+____
+We aspire to be the most admired and valuable company in the
+world. Our goal is to enrich our customers' personal lives and to make
+their businesses more successful by bringing to market exciting and
+useful communications services, building shareowner value in the
+process.
+____
+
+
+Oddly enough, I've yet to meet __anyone__ who admires that company!
+Here's another example from another major corporation:
+
+[quote]
+____
+Providing solutions in real time to meet our customers' needs.
+____
+
+
+What does that even __mean__? It could mean absolutely anything at
+all—if we worked for that company, we wouldn't know if it was more
+important to wash the car, fix a leaky pipe, or deliver a pizza. It's
+this kind of corporate doublespeak that gives mission statements a bad
+name.
+
+For an effective, efficient team, writing a mission statement is a way
+to concisely define the direction and limit the scope of your
+product. Writing a good mission statement takes some time and effort,
+but it can potentially save you __years__ of work by clarifying what
+your team should and shouldn'tfootnote:[We can't
+stress enough how important this is—saying no to all of the
+distractions is what keeps you focused.] be working on.
+
+When Google decided to move development of the((("Google Web Toolkit (GWT)"))) Google Web Toolkit (GWT) to an open source project, we acted
+as the team mentors. We reviewed the many differences between open and
+closed source development, paying specific attention to the
+difficulties of designing, discussing, and writing software in an
+environment where anyone can poke their nose in to offer an opinion,
+contribute a patch, or criticize the most minute aspect of your
+product.footnote:[We've often likened writing open
+source software to building card houses on a trampoline. It takes a
+steady hand, a lot of patience, and a willingness to deal with people
+who leap before looking.] After going over these challenges, we told
+the team they needed to come up with a mission statement as a way to
+describe to the public at large what their product goals (and nongoals!) were.
+
+Some of the team members balked at this for many of the reasons
+outlined earlier, but others seemed curious, and the team lead seemed
+to think it was a great idea. However, when we sat down to start
+writing the mission statement, a lot of debate about the content,
+substance, and style of the mission statement ensued. After a great
+deal of discussion (and a few more meetings), the team came up not
+only with a great, concise mission statement, but also an entire
+document called "Making GWT Better"footnote:["Making GWT Better" is
+located at
+link:$$http://code.google.com/webtoolkit/makinggwtbetter.html$$[] and
+is worth a read as a model mission statement document.] explaining the
+statement phrase by phrase. They even included a section that
+described what the project's
+__nongoals__ were. Here's the mission statement:
+
+[quote]
+____
+GWT's mission is to radically improve the web experience for users
+by enabling developers to use existing Java tools to build
+no-compromise AJAX for any modern browser.
+____
+
+There's a ton of substance packed into that sentence, and we think
+it's an excellent example of a mission statement: it includes both a
+direction (improve the web experience…by enabling developers) and a
+scope limiter (Java tools). Several years later we were having dinner
+with the team lead, and Fitz told him how thankful we were that he had
+supported us so strongly in our effort to get the team to write a
+mission statement. He
+responded that he had actually thought the entire exercise was a waste
+of time when we first proposed it, but that once he started debating
+it with the team, he discovered something he'd never known: his lead
+engineers did not agree on the direction of the product!
+
+In this case, writing a mission statement forced them to confront
+their differences and come to an agreement on their product's
+direction, a problem that could have slowed down (or stopped)
+development of the product as time went on. They posted their mission
+statement on the Web, and not only did the entire team have a laser
+focus on what they wanted to do with their product, but it saved them
+months of time arguing with potential contributors about the product's
+direction—they just pointed newcomers to "Making GWT Better" and most questions were
+answered.
+
+
+[[image_no_caption-id012]]
+image::images/dbtm_02in04.png[]
+
+As your project progresses, the mission statement keeps things on
+track. It shouldn't become an insurmountable impediment to change,
+however. If radical changes happen to the environment or business plan
+(say, at a startup company), software team members need to be honest
+with themselves and reevaluate whether the mission still makes
+sense. Changing a constitution is a deliberately difficult process, as
+it prevents people from doing so whimsically. But in dramatic times
+it's at least __possible__ to change it and it should be
+considered. If a company or product pivots suddenly, the mission
+statement needs to keep up.(((range="endofrange", startref="ixch02asciidoc12")))(((range="endofrange", startref="ixch02asciidoc11")))
+
+[[efficient_meetings]]
+==== Efficient Meetings
+
+((("communication","efficient meetings", id="ixch02asciidoc13", range="startofrange")))((("meetings","efficient", id="ixch02asciidoc14", range="startofrange")))Most people would classify meetings as a necessary evil. While they
+can be highly effective when used skillfully, they're frequently
+abused, usually disorganized, and almost always too long. We like our
+meetings like we like our sewage treatment plants: few, far between,
+and downwind. So we'll keep this section brief and just cover team
+meetings.
+
+((("daily standups (standing meetings)")))((("meetings","standups")))((("standups (standing meetings)")))Let's start with the most dreaded meeting of
+all: the standing meeting. This meeting
+usually takes place every week, and should absolutely be kept to basic
+announcements and introductions—going around the room for a status
+update from every attendee (whether they have something important to
+add or not) is a recipe for wasted time, rolling eyes, and a burning
+desire to punch yourself in the throat just to make it end.
+
+Anything worth deeper discussion should take place after the meeting,
+with only the relevant people sticking around for it. This is also a
+great way to avoid derailing a meeting when someone starts to do a
+deep dive into a particular meeting topic: the person running the
+meeting should just add the topic to a list((("sidebars"))) of "sidebars" and once the
+meeting is over, review them one at a time. If your team makes this a
+habit, it's easy to call "sidebar" on something that's getting
+off-track without putting anyone off. The key to making this meeting
+work is that people should be happy to leave the meeting once the main
+part of it is done, and if there's nothing that needs to be covered,
+or information that can be disseminated by email, don't hesitate to
+cancel the meeting. We've seen some cultures where meeting attendance
+is equated with status, so nobody wanted to be left out. Not to put
+too fine a point on it, but that is patently insane.
+
+[[note-2]]
+.Daily standups
+[NOTE]
+====
+
+Some engineers swear by daily standups that are promoted by
+development methodologies like ((("Agile")))Agile, and
+these are acceptable if they are kept short and on point. These
+meetings usually start their lives short—15 minutes—with everyone
+actually standing up and giving a brief update on what they're working
+on, but without constant vigilance they tend to quickly turn into
+30-minute-long sit-down meetings where people ramble on and on like
+they're in a group therapy session. If your team is going to have
+these meetings, __someone__ needs to run them with authority and keep
+their growth in check.
+
+====
+
+If you're trying to design something new, try to include no more than
+five people in your meeting—it's practically impossible to come up
+with new designs and make decisions with more than five people in a
+room unless there's only one person in the room making the
+decisions. If you don't believe us, get five of your friends together,
+go downtown, and try to decide among the six of you how to do a
+walking tour that hits half a dozen tourist sites. The odds are good
+that you'll stand on the street corner arguing for most of the day
+unless you simply declare one person to be the final arbiter and then
+follow her wherever she goes.
+
+
+[[image_no_caption-id013]]
+image::images/dbtm_02in05.png[]
+
+((("make time")))Meetings are frequently an interruption to what many refer to as "make
+time," inspired by ((("Graham, Paul")))Paul Graham's "Maker's
+Schedule, Manager's
+Schedule."footnote:[link:$$http://www.paulgraham.com/makersschedule.html$$[]] It can be hard for anyone, especially
+engineers, to get into the zone if they're constantly stopping work to
+attend meetings. Schedule time on your calendar in three- to four-hour
+blocks and label these blocks as "busy" or even "make time," and get
+your work done. If you have to set up a meeting, try to set it up near another natural break in
+the day, like lunchtime, or at the very end of the day. At Google,
+there's a long (and unfortunately, often ignored) tradition of
+"No-meeting Thursdays"footnote:[Google Engineering
+VP ((("Rosing, Wayne")))Wayne Rosing started this in 2001 in an
+attempt to improve the engineers' quality of life. Fitz blocked off
+his Thursdays for years, and it worked fairly well but required
+pretty rigorous monitoring and the occasional grumpy email when
+someone scheduled over it.] in the interest of clearing time to just
+get work done. This is a good first step on the path to having 20 to
+30 hours of make time set aside in larger blocks.
+
+[[note-3]]
+[NOTE]
+====
+Five simple rules for running a meeting:
+
+ 
+. Only invite people who absolutely need to be there.
+
+
+. Have an agenda and distribute it well before the meeting starts.
+
+
+. End the meeting early if you've accomplished the meeting's
+goals.
+
+
+. Keep the meeting on track.
+
+
+. Try to schedule the meeting near other interrupt points in your day
+(e.g., lunch, end of day).
+
+====
+
+If you're going to have a meeting, create an agenda and distribute it
+to all attendees at least a day before the meeting so that they'll
+know what to expect. Invite as few people as possible (remember the
+cost of synchronous communication). We know team members, managers,
+and even directors and VPs who will flat out ignore invitations to a
+meeting that has no agenda.
+
+Only invite people to the meeting who actually need to be there for
+the meeting to accomplish its goal. Some people have taken to banning
+laptops in meetings
+after they've noticed attendees reading email instead of paying
+attention, but this is attacking the symptom and not the cause—people
+start reading email in a meeting because they probably __don't need to
+be in the meeting in the first place__.
+
+Whoever's running the meeting should actually run the meeting and not
+hesitate to (gently) cut off someone who veers off-topic or, even
+worse, tries to monopolize the conversation. Doing this well can be
+tricky, but is worthwhile. And most importantly, don't be afraid to
+end a meeting early if you've completed the
+agenda.(((range="endofrange", startref="ixch02asciidoc14")))(((range="endofrange", startref="ixch02asciidoc13")))
+
+[[working_in_a_geographically_challenged_t]]
+==== Working in a "Geographically Challenged" Team
+
+((("communication","for geographically challenged teams", id="ixch02asciidoc15", range="startofrange")))((("distributed teams", id="ixch02asciidoc16", range="startofrange")))((("geographically challenged teams", id="ixch02asciidoc17", range="startofrange")))((("teams","geographically challenged", id="ixch02asciidoc18", range="startofrange")))When you're part of a distributed team or
+working remotely from them, you not only need to find different ways
+to communicate, but also need to put more work into communication,
+period. If you're on a team that has remote workers, this means
+documenting and sharing decisions in writing, usually over
+email. Online chats, instant messages, and hallway
+conversations might be where a lot of discussion takes place, but
+there needs to be some way to broadcast relevant discussions like
+these to everyone to make sure they're informed and participating (and
+as a bonus, archived email lists provide
+documentation). Video chat is also incredibly
+useful as a quick conversation enabler, and besides, these days most
+laptops have built in webcams.
+
+In the Subversion project we had a motto: "If the discussion didn't
+happen on the email list, then it never really happened." People spent
+lots of time bandying around ideas in chat rooms, but in order to
+make the resolutions "real" we had to be mindful of everyone else who
+didn't witness them. By forcing conversations to repost to email
+lists, we gave the entire distributed team a chance to see how
+decisions were arrived at (and to speak up if they wanted to). This is
+particularly critical if you're trying to encourage a consensus-based
+team culture.
+
+Talking to someone from a remote location should be as frictionless as
+walking over to their desk. If you're working remotely,
+overcommunicate with your team using every available medium (e.g.,
+online chat, instant
+messages, email, video chat, phone calls, etc.) to make sure everyone
+knows not only that you exist, but also what you're working on. And
+most important of all, __do not underestimate the bandwidth of a
+face-to-face conversation__.
+
+Fitz once had an engineer who was working with a team in Colorado, and
+she was having trouble getting momentum on the project that she was
+sharing with them. She pulled Fitz aside to tell him this and he told
+her that she should hop on a flight to Colorado and spend a week with
+the team to kickstart their project. Two weeks later, she emailed Fitz
+from Colorado, after spending only a day there, with great news—not only
+had she gained great momentum on the project, but she was getting
+along great with the team after joining them for lunch and drinks
+after work.
+
+Ben once had a team member, Corey, who started a new project with a
+team in another office. Corey was having a bit of a tough time getting
+traction with the new team and lamented this to Ben in their weekly
+one-on-one. Ben told Corey that he should fly out to the team's office
+and sit with them for a week to kick off the project. Corey was
+hesitant because of the cost of a flight and hotel, but
+he wasn't accounting for the __benefit__ of the trip. Corey took a
+two-day trip to work with the team and he immediately realized how
+valuable it was to be there with the team. Not only did he gain the
+benefit of the additional bandwidth of in-person conversation, but, by
+having lunch together, and going out together after work one
+day, Corey and the team all got to know each other as __people__. As a result,
+future interactions with the team went much more smoothly, despite the
+fact that Corey was a thousand miles
+away.
+
+[[note-3a]]
+.Nothing replaces being in the same room
+[NOTE]
+====
+((("communication","face-to-face")))((("face-to-face communication")))One thing to note about all of these people is that, despite all the
+advances in social media and videoconferencing technology, nothing
+even comes close to the bandwidth and the intimacy of being face to
+face with someone else in real life. If you're starting a new project
+or have an important meeting with someone in your company and you have
+the budget to be there in person, it's almost always worth the hassle
+of traveling. The impact of an in-person discussion etches itself into
+memory in ways that phone or video chats can't compete with.
+
+A frequent argument against business travel is that it's too expensive
+or, in some cases, not affordable. While this may be the case for
+small geographically distributed companies, most large companies can
+afford this expense. The cost of not spending face time with your
+colleagues is higher than you think.
+
+====
+
+
+
+No matter how much you email, chat, or call, don't be afraid to
+regularly get on a plane and visit the rest of your team. This goes
+for remote employees, remote teams, and remote offices as well—make
+the time to get out to the home office and talk to
+people.(((range="endofrange", startref="ixch02asciidoc18")))(((range="endofrange", startref="ixch02asciidoc17")))(((range="endofrange", startref="ixch02asciidoc16")))(((range="endofrange", startref="ixch02asciidoc15")))
+
+[[design_docs]]
+==== Design Docs
+
+((("communication","and design docs")))((("design docs")))((("software","design docs for")))If you're an engineer, it's sometimes difficult to resist the urge to
+take a running leap into writing code for a new project, but this is
+rarely fruitful (unless you're throwing together a quick and dirty
+prototype). Just the same, many engineers rush right into coding
+before designing the software they intend to write, and this usually
+ends very badly.
+
+A design doc is typically owned by one person, authored by two or
+three, and reviewed by a larger set. It serves not only as a
+high-level blueprint of your future project, but also as a low-cost
+way to communicate to your larger team what you want to do and how you
+intend to do it. Since you haven't spent weeks (or months) writing
+code, it's a lot easier to accept criticism at this point and you'll
+wind up with a better product and a better implementation. In
+addition, once you've nailed down the design doc, it will serve as
+your guide for both scheduling and dividing the work on your
+project. Once you start coding, however, you should treat your design
+doc as a living document and not one carved in stone: you and your
+team __should__ update the document as your project grows and changes,
+not once you've shipped, although this is easier said than done. Most
+teams have no docs at all, while the rest have a short period of
+awesome docs, followed by a long period of out-of-date docs.
+
+Having said that, make sure you don't take the "design doc religion"
+to the opposite extreme. We've seen control freaks write a four-page
+design essay for a program that's only 100 lines of code. If the
+project can be rewritten from scratch several times in the same amount
+of time it takes to write a design doc, a design doc is clearly a
+waste of time. Use experience and judgment when making these time
+calculations and trade-offs.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
+
+[[day-to-day_discussions]]
+=== Day-to-Day Discussions
+
+((("communication","day-to-day discussions", id="ixch02asciidoc19", range="startofrange")))((("day-to-day discussions", id="ixch02asciidoc20", range="startofrange")))((("discussions, day-to-day", id="ixch02asciidoc21", range="startofrange")))Assuming high-level goals are agreed upon, you need to worry about the tools your
+team uses for everyday coordination. These tools are useful, but they
+tend to have narrow communication bandwidth and, usually, a complete
+lack of metadata and secondary communication channels such as facial
+expressions and body language. As a result, they're more conducive to
+miscommunication and an inherent threat to HRT. Still, these tools are
+invaluable to most teams and (with a little effort) can give a good
+boost to productivity.
+
+[[mailing_lists]]
+==== Mailing Lists
+
+((("communication","mailing lists for")))((("mailing lists")))We don't know of anyone who works with a team these days that doesn't
+use at least one mailing list, but there are a few things you can do
+with your mailing lists
+to make them more useful.
+
+Many big successful projects have multiple mailing lists, separating
+development discussions, code reviews, user discussions,
+announcements, pager emails, and miscellaneous
+administrivia. Sometimes smaller projects attempt to emulate this as
+they're just getting started and create half a dozen mailing lists
+when they've only got three engineers and two users. This is the
+mailing list equivalent of providing six conference rooms for five
+people to carry on a discussion—you wind up with little coherence, a
+lot of echoes, and mostly empty rooms. It's really best to start with
+one list, and to add lists only when the amount of traffic on one list
+gets unmanageable (which is typically indicated by list members
+begging for mercy). An exception to that rule is to have automated
+emails and "bot" notifications go to their own list or at the very
+least use identifiers that make them easy to filter.
+
+Take some time to establish proper etiquette around email
+discussions—keep discussions civil, and prevent filibustering by a
+((("noisy minority")))"noisy minority."footnote:[A
+"noisy minority" is usually characterized by one or two people who
+repeatedly respond to every single post in a thread, refuting every
+argument that doesn't align with theirs. A cursory examination of the
+thread in question might lead you to believe you've got a tremendous
+amount of dissent when, in fact, it's coming from just one or two
+disgruntled people. You need to address this behavior quickly and
+carefully (see <<dealing_with_poisonous_people>> for more information
+on dealing with these sorts of people).]
+
+A mailing((("searchable indexes"))) list isn't going to be your first choice for a discussion in
+a team that shares an office, but it's a good idea to send a copy of
+meeting agendas, meeting notes, decisions
+made, design docs, and any other relevant textual information to your
+team's mailing list so that you have a convenient central record. Set
+up these lists to archive all posts in a __searchable__ index, either
+publicly available in the case of open source projects or on your
+company's intranet if you're working on a closed source project. Now
+you have a system of record for the history of your project, and it's
+easy to refer back to it when a newcomer asks about the reasoning
+behind one or more decisions that you made in the past. If you don't
+have these discussions archived somewhere, you'll find yourself
+repeating them again and again and again and again.
+
+[[online_chat]]
+==== Online Chat
+
+((("chat, online", id="ixch02asciidoc22", range="startofrange")))((("communication","online chat for", id="ixch02asciidoc23", range="startofrange")))((("online chat", id="ixch02asciidoc24", range="startofrange")))Online chat is an incredibly convenient way for teams to communicate,
+especially since it provides a way to send a quick request to a
+teammate without interrupting her work (providing, of course, she has
+her chat program configured to not interrupt her work!). It's a good
+tool for teams to use if they're moving quickly on a new project,
+doing some light work in the evening or on the weekend, or if one team
+member is out of the office for a day or two. One-on-one chat is
+useful and certainly has its place in team communication, but we
+strongly recommend that teams use some sort of group chat
+mechanism.footnote:[Of course, when an engineer
+needs uninterrupted time and can't afford the costs of context
+switching, it's totally acceptable to ignore chat.]
+
+((("IRC (Internet Relay Chat)")))Years before instant messaging became wildly
+popular, teams would hang out in an Internet Relay Chat (IRC)
+channel and most of their discussions would be in a group chat. This
+could be noisy at times, and it was easy enough for team members to
+break off to have a private chat if they were discussing something
+that was not of interest to the larger team, but in most cases
+discussions happened "in front of" the rest of the team. This allowed
+other people to join in on the conversation, lurk in the background
+and follow the discussion, or even catch up on discussions they missed
+earlier. This is convenient not only because of the ease with which ad
+hoc group discussions can start, but also because it helps to build
+community even in teams that are geographically dispersed. It's often
+surprising how much a newer team member can learn just by watching (or
+later reading) various discussions he's not necessarily participating
+in.
+
+With the advent of instant messaging, many of these conversations that
+would previously take place in the group chat room moved to private
+chat, which was the default for instant messenger. It's very tempting
+to indulge your insecurity and take what might be perceived as a
+stupid question to a one-on-one discussion rather than risk
+embarrassment in front of the rest of the team. Unfortunately, this
+increases the burden on the team because there's no shared lore
+created and different team members may ask other team members the same
+question over and over again.
+
+Fortunately, group chat has seen a renaissance in 2014/2015 with the
+rise of Slack, a free (but not free software or open source) group
+messaging client that feels a lot like a modern-day IRC.  Slack
+integrates with dozens of other products and has become the messaging
+tool of choice in smaller companies, startups, and even loosely
+connected groups of acquaintances on the Internet.  While it still
+provides a means to send private messages, team owners get a weekly
+report telling them the percentage of private messages versus group
+messages.  This makes it easy to give your team a gentle "push" to
+have more discussions in the group channels rather than one-on-one.
+
+Regardless of the application you use for chat, we __strongly__
+recommend that your team have a convenient and accessible mechanism
+for group chat. It's well worth the effort in order to have this
+additional communication bandwidth in your team.
+
+
+
+[[note-4]]
+.Group chat versus 1:1 instant messages
+[NOTE]
+====
+
+When many people first hear about IRC
+these days, they scoff at its primitive text-based environment because
+even the most modern of IRC clients tend to be less whizzy than
+outdated versions of iChat or Google Talk. Don't be fooled by the
+outdated look and feel of IRC—its killer features are that it was
+designed for multiperson chat and it's asynchronous; most clients
+keep an unlimited scroll-back record so that you can read back to see
+conversations among others that you missed. Slack is basically the
+modern-day version of IRC, and despite its whizzy integration of
+graphics, avatars, and emoji, at its heart it's still a text-based
+messaging system like IRC. It may be tempting to try out fancy
+videoconferencing packages, shared whiteboard systems, and more, but
+these systems often tend to be ineffective and can eliminate the
+asynchronous advantage of text-based group chat. If you're going to
+use something other than Slack or IRC, find something that is actually
+designed for group chat and isn't just an instant messaging system
+with group chat bolted on.
+
+====
+
+Sometimes people are more comfortable chatting online: we remember the first time we went to a hackathon
+where a number of open source contributors were going to meet (many
+for the first time) face to face and work on their projects
+together. We walked into an almost silent room to find a dozen
+tables—with six to eight people per table—furiously typing away at
+their laptops. We figured that, well, we were late, and everyone was
+already busy writing code, so we sat down, opened our laptops, fired
+up our editors, and signed on to the project's IRC channel to see if
+folks who couldn't make it to the hackathon were "virtually" there. We found a number of conversations taking place in the IRC
+channel. We said hello and mentioned that we'd just arrived at the
+hackathon room, and imagine our surprise when several people said
+hello in the IRC channel when they turned out to be sitting less than
+10 feet away from us! Some of this was purely inertia as we were all
+used to chatting online, but in many cases it was
+just the most comfortable way for some people to communicate with the
+rest of the group. Fresh off a four-hour flight and desperate for some
+communication bandwidth, we got up and went from table to table to
+talk with people face to face.
+
+There are no hard and fast rules for when to use chat versus email. Chat
+is more useful for fast-moving real-time discussions where a decision
+can be made easily and all participants are currently available.(((range="endofrange", startref="ixch02asciidoc24")))(((range="endofrange", startref="ixch02asciidoc23")))(((range="endofrange", startref="ixch02asciidoc22"))) If
+some participants aren't around or the discussion is less pressing,
+email might be better.(((range="endofrange", startref="ixch02asciidoc21")))(((range="endofrange", startref="ixch02asciidoc20")))(((range="endofrange", startref="ixch02asciidoc19"))) Just keep in mind the costs of synchronous
+versus asynchronous communication that we reviewed in
+<<communication_patterns_of_successful_cul>>.(((range="endofrange", startref="ixch02asciidoc7")))(((range="endofrange", startref="ixch02asciidoc6")))
+
+[[using_an_issue_tracker]]
+=== Using an Issue Tracker
+
+((("bug trackers")))((("communication","issue trackers")))((("issue trackers")))If you're going to use an issue/bug tracker (and you should), it's important that you
+have some sort of process in place for processing and triaging bugs to
+encourage people to file and fix important bugs in a timely manner. If
+your bug tracker is neglected and not prioritized, people will stop
+filing bugs and begin shouting complaints into the void; and when your
+team eventually digs
+into the bug tracker, more than likely they will be fixing unimportant
+bugs and ignoring important ones.
+
+Keep in mind that a bug tracker is really just a slightly specialized
+"Internet forum" or "bulletin board." As such, it shares most
+properties in common with email lists and the same best practices
+apply. Hallway conversations about bugs
+should be recorded as updates in the bug tracker, making thoughts and
+decisions "official" for all to see. Keep the tone civil and don't
+tolerate trollish behaviors.
+
+We've also seen numerous occasions where a project manager is assigned
+the task of checking in on all open issues in the issue tracker. This
+can often not only create a great deal of churn, but also lead team members
+to start lengthy conversations in the issue tracker. If conversations
+get overly long or fragmented, take the discussion temporarily to the
+main email list—an email client is a much better tool for complex
+threads.
+
+[[communication_as_part_of_engineering]]
+=== Communication as Part of Engineering
+
+((("communication","as part of engineering", id="ixch02asciidoc25", range="startofrange")))((("engineering","communication as part of", id="ixch02asciidoc26", range="startofrange")))Hundreds and hundreds of books have been written about the
+software development process. While we're not
+going to dig into them all here, there are a few communication-related
+highlights that deserve mention, regardless of the development methodology you use. Even if
+you don't write software, there are a few lessons to be learned
+here—especially lessons about what __not__ to do.
+
+[[code_comments]]
+==== Code Comments
+
+((("code comments")))((("communication","code comments")))((("engineering","code comments")))Code commenting style is very subjective. Verbose
+comments can often provide clues regarding the intent and reasoning of
+the original programmer and can be very useful, but at the cost of
+ongoing maintenance: out-of-date or incorrect comments drastically
+hinder understanding of a code base. Similarly, terse or nonexistent
+comments can cause future maintainers or API consumers to waste time
+sleuthing. Comments are often used to point out missing structure and
+bad naming, and then go on to reexplain what the code already says. Comments should be focused on __why__
+the code is doing what it's doing, not __what__ the code is
+doing.
+
+Comments are most useful at the function or method level, especially
+as a means of documenting an API, and without going into exhaustive
+details, comments can be summed up with the popular Greek maxim,
+"μηδέν άγαν," or "nothing in excess."
+Beyond that, take the time to come up with a commenting style for your team and have everyone stick to it—we think being
+consistent is more important than the ((("Art of Readable Code, The (Boswell)")))((("Boswell, Dustin")))((("Foucher, Trevor")))actual
+choice.footnote:[See the excellent section on
+comments in pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596802301.do"><em>The Art of Readable Code</em></a>] by Dustin Boswell and Trevor Foucher
+(O'Reilly).] Your style guide should also explain the reason the guide
+exists and what it intends to prescribe—for example, here's the
+introduction to the ((("Google C$$++$$ Style Guide")))Google C++ Style
+Guide:footnote:[Find this and several other style
+guides at link:$$http://code.google.com/p/google-styleguide/$$[].]
+
+[quote]
+____
+C$$++$$ is the main development language used by many of Google's
+open-source projects. As every C$$++$$ programmer knows, the language
+has many powerful features, but this power brings with it complexity,
+which in turn can make code more bug-prone and harder to read and
+maintain.
+
+The goal of this guide is to manage this complexity by describing in
+detail the dos and don'ts of writing C$$++$$ code. These rules exist
+to keep the code base manageable while still allowing coders to use
+C$$++$$ language features productively.
+
+Style, also known as readability, is what we call the conventions
+that govern our C$$++$$ code. The term Style is a bit of a misnomer,
+since these conventions cover far more than just source file
+formatting.
+
+One way in which we keep the code base manageable is by enforcing
+consistency. It is very important that any programmer be able to look
+at another's code and quickly understand it. Maintaining a uniform
+style and following conventions means that we can more easily use
+"pattern-matching" to infer what various symbols are and what
+invariants are true about them. Creating common, required idioms and
+patterns makes code much easier to understand. In some cases there
+might be good arguments for changing certain style rules, but we
+pass:[<span class="keep-together">nonetheless</span>] keep things as they are in order to preserve
+consistency.
+
+Another issue this guide addresses is that of pass:[<span class="keep-together">C++</span>] feature
+bloat. C$$++$$ is a huge language with many advanced features. In some
+cases we constrain, or even ban, use of certain features. We do this
+to keep code simple and to avoid the various common errors and
+problems that these features can cause. This guide lists these
+features and explains why their use is pass:[<span class="keep-together">restricted</span>].
+
+Open-source projects developed by Google conform to the requirements
+in this guide.
+
+Note that this guide is not a C$$++$$ tutorial: we assume that the
+reader is familiar with the language.
+____
+
+Note that the guide doesn't make claims about enforcing the best or fastest way
+to write C$$++$$, but merely the importance of having consistency
+across the code base.
+
+
+[[putting_your_name_in_source_code_files_a]]
+==== Putting Your Name on Your Work
+
+((("attribution", id="ixch02asciidoc27", range="startofrange")))((("authorship, of code", id="ixch02asciidoc28", range="startofrange")))((("communication","putting your name on work", id="ixch02asciidoc29", range="startofrange")))((("name, putting on code", id="ixch02asciidoc30", range="startofrange")))Everyone wants to get credit for work they do, from the artist who
+signs her painting to the author who puts her name on the spine of her
+book or the top of her blog. It's human nature to crave recognition in
+one way or another, but littering source files with your name is, in
+our opinion, more trouble than it's worth. We've all seen these
+attributions at the top of source files, nestled snugly against the
+copyright declarations:
+
+
+[listing]
+....
+# ----------------------------------
+# Created: October 1998 by Brian W. Fitzpatrick <fitz@red-bean.com>
+# ----------------------------------
+....
+
+The tradition of putting your name at the top of your source code is
+an old one (heck, both of us have done it in the past), and may have
+been appropriate in an age where programs were written by individuals
+and not teams. Today, however, many people may touch a particular
+piece of code, and the issue of name attribution in a file is the
+cause of much discussion, wasted time, and hurt feelings. As a result,
+we advocate strongly against names as a sign of ownership in source
+code files (at best, include a name to designate a first choice to
+review any changes you might make to the file, but be careful that you
+don't imply pass:[<span class="keep-together">ownership</span>]).
+
+[[image_no_caption-id014]]
+image::images/dbtm_02in06.png[]
+
+Let's imagine, for example, that you create a new file in your
+team's pass:[<span class="keep-together">project—</span>]you
+write a few hundred lines of code, smack your name and the appropriate
+copyright header at the top of the file and send it off for code
+review, and later, commit it to the repository. No problems, no drama,
+no disagreements so far. Let's say that your teammate Adrian comes
+along and makes some changes to the file: at what point does he get to
+put his name at the top of the file? Does he have to fix a bug? Five
+bugs? Does he have to write a function? Two functions? How many lines
+of code does he have to write? What if he writes a function, slaps his
+name on the file, and then someone else comes along and rewrites "his"
+function? Does this person now get to put her name on the file? Does
+she get to take Adrian's name off? Unlike other collaborative pieces
+of creative work—plays, novels, films—software keeps changing even after it's
+"done." So, while listing contributor credits at the end of a movie is
+a safe and static thing, attempting to add and remove names from a
+source file is a never-ending exercise in
+insanity.
+
+
+Certainly you can answer all these questions and extensively document
+every possible edge case, but maintaining this, tracking it, and
+keeping an eye out for violations is an incredible waste of time—time
+that could be spent actually writing code. It's for this very reason
+that we advocate tracking credit at the __project level__, not in the
+code itself. Most projects that we've
+seen have an &quot;Authors&quot; or &quot;Contributors&quot; file that lists everyone who
+has done work. If you need more detail, your version control system
+can tell you.(((range="endofrange", startref="ixch02asciidoc30")))(((range="endofrange", startref="ixch02asciidoc29")))(((range="endofrange", startref="ixch02asciidoc28")))(((range="endofrange", startref="ixch02asciidoc27"))) Of course, if you __don't__ use version control, all
+those moments will be lost in time, like tears in
+rain.footnote:[Roy, __Blade Runner__, 1982.]
+
+[[require_code_reviews_for_every_commit]]
+==== Require Code Reviews for Every Commit
+
+((("code reviews")))((("commits, code reviews for")))((("engineering","code reviews")))If you're going to have coding standards, you need to have a means of
+monitoring code going into your product. Whether you review the code
+before committing it or after committing it, you should make sure
+every line of code that goes into your repository gets a second pair
+of eyes on it to check for style, quality, and, of course, careless
+mistakes. Keep code changes small and pass:[<span class="keep-together">reviewable—</span>]changesets that are
+thousands of lines long are unreviewable for anything but formatting
+nits. This not only results in a higher-quality code base, but also
+goes a long way toward instilling a strong sense of group pride in the
+quality of your code. For more information, see
+the section on feedback loops in <<hiding_is_considered_harmful>>.
+
+[[have_real_test_and_release_processes]]
+==== Have Real Test and Release Processes
+
+((("communication","and test/release processes")))((("engineering","test/release processes")))((("release processes")))((("test processes")))Whether you're a full-on test-driven development shop or you just have some simple
+regression tests for your product, the more automated tests you have
+for your product, the more confident you can be when you're tearing
+through fixing bugs or adding new features. Once your team determines
+the role that testing will play, it should be
+part of the coding and review process. Just as importantly, your
+release process should be lightweight enough that you can do frequent
+releases (e.g., weekly), but thorough enough that you catch brokenness
+before it hits your users.(((range="endofrange", startref="ixch02asciidoc26")))(((range="endofrange", startref="ixch02asciidoc25")))
+
+[[it_really_is_about_the_code_after_all]]
+=== It Really Is About Your Product, After All
+
+((("product","and team culture")))((("team culture","and product")))Although these habits of culture and communication may seem to represent a certain amount of bias, as
+they reflect the manner in which we prefer to work, it's not as
+subjective as you might think. We've found that building a strong,
+productive team culture and taking some time
+to pay attention to communication in the team creates a team that will
+spend more time writing and shipping product and less time arguing about
+what product to ship.
+
+((("self-selecting cultures")))Strong teams don't arise spontaneously; they're carefully seeded and
+cultivated by team leads and
+founders who understand the high cost of trying to write software with
+a dysfunctional team. Putting this work in from the outset helps to
+create a self-selecting culture that builds a team that will spend
+much more time designing and creating a product than defining and defending
+their culture. A big side benefit of this effort—communication and process—is that it
+drastically reduces the barrier to entry for newcomers to your
+team. Without these elements in place, newcomers will either waste a
+lot of time struggling to learn how your team works or give up and try
+to make your team work like their last team did (for good or for bad).
+
+((("communication")))While getting the right people on your team and the right values
+instilled in your team is important, the overwhelming majority of
+effort that goes into a culture turns out to be communication. Mission
+statements, meetings, mailing lists, online chat, code comments,
+documentation, and even decision-making processes all make up the many
+different ways your team communicates, both with itself and with
+others. It's often a surprise to people that it takes so much
+communication—including emotional time and effort—to build a strong
+team for the sole purpose of creating a product, but it's true. Your
+product is ultimately about communications with __people__, not just
+with a machine.
+
+No matter what your team's culture is, and regardless of how well your
+team communicates, every effective team that we've ever seen has a
+leader. In the next chapter, we'll look into what makes the most
+effective team leader, why her role is probably not what you think,
+and why it's important for every team member to understand the basics
+of leading a team.(((range="endofrange", startref="ixch02asciidoc1")))(((range="endofrange", startref="ixch02asciidoc0")))
+

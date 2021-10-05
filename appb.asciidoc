@@ -1,0 +1,72 @@
+[[further_reading]]
+[appendix]
+== Further Reading
+
+We created this book based on our experiences writing software with numerous teams and people, but we've also read many books and articles that have helped us formulate the thoughts that we laid out on these pages. Here are a few of the books and articles that influenced us along the way:
+
+
+* __Peopleware: Productive Projects and Teams__, 2nd Edition, by Tom DeMarco (Dorset House)
+
+
+* __Drive: The Surprising Truth About What Motivates Us__ by Daniel H. Pink (Riverhead)
+
+
+* http://bit.ly/hamming_paper["You and Your Research"] by Richard Hamming 
+
+
+* __Predictably Irrational: The Hidden Forces That Shape Our Decisions__ by Dan Ariely (HarperCollins)
+
+
+* __The Mythical Man-Month: Essays on Software Engineering__, 2nd Edition, by Frederick P. Brooks (Addison-Wesley Professional)
+
+
+* __Startup Engineering Management__ by Piaw Na (self-published)
+
+
+* http://37signals.com/rework[__Rework__] by Jason Fried and David Heinemeier Hansson (Crown Business)
+
+
+* http://bit.ly/apprenticeship_patterns[__Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman__] by Dave Hoover and Adewale Oshineye (O'Reilly)
+
+
+* __Quiet: The Power of Introverts in a World That Can't Stop Talking__ by Susan Cain (Crown)
+
+
+* __Fearless Change: Patterns for Introducing New Ideas__ by Mary Lynn Manns (Addison-Wesley)
+
+
+* __The Art &amp; Adventure of Beekeeping__ by Ormond Aebi (Rodale Press)
+
+
+* http://bit.ly/makerssched["Maker's Schedule, Manager's Schedule"] by Paul Graham
+
+
+* http://bit.ly/readable_code[__The Art of Readable Code__] by Dustin Boswell and Trevor Foucher (O'Reilly)
+
+
+* __Mastery: The Keys to Success and Long-Term Fulfillment__ by George Leonard (Plume)
+
+
+* "The Significance of Task Significance: Job Performance Effects, Relational Mechanisms, and Boundary Conditions" (2008) by Adam M. Grant (Journal of Applied Psychology 93:1, pp. 108–124)
+
+
+* __Project Retrospectives: A Handbook for Team Reviews__ by Norman L. Kerth (Dorset House)
+
+
+* __The Luck Factor__ by Richard Wiseman (Miramax)
+
+
+* __Search Inside Yourself__ by Chade-Meng Tan (HarperOne)
+
+
+* http://bit.ly/being_geek[__Being Geek__] by Michael Lopp (O'Reilly)
+
+
+* __The Paradox of Choice: Why More Is Less__ by Barry Schwartz (Ecco)
+
+
+* __Critical Chain__ by Eliyahu M. Goldratt (North River Press)
+
+
+* __Delivering Happiness: A Path to Profits, Passion, and Purpose__ by Tony Hsieh (Hachette Book Group)
+

@@ -1,0 +1,934 @@
+[[usersare_people_too]]
+== Users Are People, Too
+
+((("users","as focus of organization", id="ixch01asciidoc0", range="startofrange")))We've explored a long list of ingredients that are critical to
+successful product development.
+
+Start with a small group of smart, creative people. Fertilize the team
+with a strong culture of humility, trust, and respect. Lead them as a
+servant, empowering them to collaborate and make good decisions. Give
+them water, sunlight, direction, and intrinsic motivation as
+needed. Protect them from negative influences—destructive behaviors
+(or environments) that threaten the culture and the ability to make
+progress. Bake at 72°F for six months, and you've got some great
+software. All done, right?
+
+A lot of programmers stop there. They write software for themselves,
+are pleased with the end result, and then declare victory.
+
+Unfortunately, that's not how the real world works. "Good software" is
+an overly narrow definition of success. If you're trying to pay the
+bills (or simply boost your résumé) you also need a lot of other
+people to use your software and be happy with it. The software
+development process doesn't end with throwing a product over a wall;
+it never ends, in fact. People use your product and you need to react
+to them, improving it over time. If you don't learn how to master this
+feedback loop your creation will die.
+
+We'll examine three general phases of user engagement in this
+chapter. First you need to get users to notice your work—are they even
+aware that it exists? How do they perceive it before they walk in the
+door? Then you'll need to think about what people experience when they
+start using it. Does it meet their expectations? Is it usable? Does it
+empower them to do great things? Finally, we'll look at how to
+interact productively with them once they're firmly engaged with your
+creation. All of these interactions are part of the cyclical nature of
+product pass:[<span class="keep-together">development</span>].
+
+The bottom line is this: collaboration isn't just about working with
+your team; to make great things, you need to actively collaborate with
+your __users__ too.
+
+If you're not on top of these things, all you'll have is a piece of
+shiny software with no users. If that's the case, maybe it's time to
+question your career choice!
+
+[[managing_public_perception]]
+=== Managing Public Perception
+
+((("public perception","managing", id="ixch06asciidoc1", range="startofrange")))((("users","and public perception of company", id="ixch06asciidoc2", range="startofrange")))When ((("marketing","public perception of")))you hear the term __marketing__, what's the first thing that
+comes to mind?
+
+If you're like most folks, the word probably conjures up the image of
+a dishonest salesperson, all fake smile and greased-back hair:
+somebody who's all about building an image for a client or product. If
+your product is the raw "meat" to be sold, the marketing person's job
+is to add the magic "sizzle" to the steak so that more people flock to
+it.
+
+Why does this idea bug us so much? Why do we shudder at the thought of
+the marketing person?
+
+((("engineering","marketing vs.")))((("marketing","engineering vs.")))Because, as programmers, the marketer represents the antithesis of
+engineering culture. We're obsessed with truth. Either the code
+compiles or it doesn't; the software has a feature or it doesn't; it
+solves a problem or it doesn't. We don't "spin" our descriptions of
+the world; we state the facts and then work to change them. We look at
+the marketing guy and all we see are lies, and we don't like being
+lied to. We want order, predictability, and accurate statements when
+it comes to making decisions.
+
+Because we perceive marketing as something that distorts the truth, it
+violates the maker's instinctive desire for meritocracy. We believe
+the best product should always win. And by "best" we mean the product
+that __objectively__ is of the highest quality and most effective, not
+the one with the slickest TV advertisements. Over and over we're
+disappointed when we see superior technologies lose out: many believe
+that Betamax was superior to VHS, that Laserdisc was better than DVD,
+or that Lisp is still the best programming language (we just need to
+get the word out!). Even in the world of version control tools,
+Subversion has taken over the corporate world despite the technical
+superiority of newer systems like Git.
+
+
+[[image_no_caption-id037]]
+image::images/dbtm_06in01.png[]
+
+What's worse is we perceive marketing folks as
+overpromising to customers, which in turn makes engineers look like
+they're always underdelivering. It makes steam pour from our ears.
+
+We're here to give you both bad news and good news.
+
+The bad news is that no, you cannot ignore marketing. It actually
+matters and you have to deal with it. The good news is that it's
+possible to actively cooperate with marketing. It doesn't need to be a
+sleazy affair when you do it right. In fact, it can be an incredibly
+powerful tool to success!
+
+((("emotion","marketing and")))((("marketing","and user's emotional side")))Programmers tend to have an overdeveloped sense of logic, but most
+humans are driven equally by logic __and__ emotion. The
+marketing folks are masters of emotional
+manipulation, and that's why they're so effective: they mix the facts
+with feelings to get attention. If you want to get new people to use
+your software, you __have to care__ about their emotional
+perception of your software. You cannot change
+the way people make decisions.
+
+Apple Inc. is the undisputed master of making technology appeal to the
+emotions of nontechnical people. Firmly dating ourselves in the year
+2015, we ask: is an iPhone objectively superior to an Android phone?
+Featurewise they're almost identical. But if a nontechnical user
+believes an iPhone is magical, it really __is__ magical, at least to
+that user. Perception is reality. Or as we've said earlier,
+"Perception is nine-tenths of the law."
+
+It's tempting to think that the only way to win is not to play, but
+this is a game you're not allowed to ignore. You need at least a
+minimal marketing strategy to even get your software in the ring, and
+if you're smart about it then you'll discover that marketing can be a
+serious force multiplier for great engineering.  Here are some basic
+things you can do to take control, and they're all based on HRT.
+
+[[pay_attention_to_first_impressions]]
+==== Pay Attention to First Impressions
+
+((("first impressions")))((("public perception","and first impressions")))((("users","first impressions of product")))If you're hungry and searching for a restaurant, how the restaurant
+appears from the street really matters. If it seems disgusting or
+uninviting you simply aren't going in. If it's warm and friendly and
+the host is kind, you'll be willing to give it a fair chance. Don't
+underestimate the emotional impact of a well-designed first experience with your product—if you've
+ever unboxed an iPad or a Nest thermostat, you know exactly what we
+mean here.
+
+What is your product like to a newbie? Is it welcoming and does it
+encourage exploration? Conversely, for an expert who sits down to an
+initial session with your software, does it appear familiar and
+sensible? At first glance, does your app scream instant productivity,
+or steep learning curve and countless tears? More specifically, what
+does a user experience in the first 30 seconds after launching your
+software? Don't just give an intellectual answer ("she sees a menu of
+choices, with a login box") but give an emotional answer too. How does
+a new user __feel__ after a minute? Empowered or just confused? What
+can you do to improve that feeling? Step back a level and look at your
+product's website. Does it seem professional and inviting, like a good
+storefront? You need to take these things seriously for your software
+to be taken seriously.
+
+[role="pagebreak-before"]
+[[underpromise_and_overdeliver]]
+==== Underpromise and Overdeliver
+
+((("overdelivering")))((("public perception","underpromising and overdelivering")))((("underpromising")))Don't let your marketing people preempt you here. If users ask about
+upcoming features or release timelines, take the opportunity to give
+overly conservative estimates. If you let marketers spread rumors,
+you'll end up with a __Duke Nukem Forever__ situation—software that's
+teased for shipping __15 years__ late. But if your own (more accurate)
+message gets out first, your users will
+always be thrilled. Google is great at this; it has a deliberate
+policy of __not__ preannouncing features for any product. When new
+features roll out they're often a delightful surprise. It also
+prevents internal death marches to meet unrealistic advertised launch
+dates. The software is released when it's actually ready and usable.
+
+[[work_with_industry_analysts_respectfully]]
+==== Work with Industry Analysts Respectfully
+
+((("industry analysts")))((("media, news")))((("public perception","and industry analysts")))((("reviews/reviewers")))A lot of programmers hate the media
+industry—it's just marketing in another guise. When a trade magazine
+or research firm comes knocking on the door, a lot of companies will
+drop everything and kowtow to their requests. They realize that a good
+(or bad) review can make or break a product's perception. Engineers
+tend to resent this sort of power and deference, though.
+
+For example, there was a time when members of the Apache ((("Apache Software Foundation (ASF)")))Software
+Foundation (ASF) had problems interacting with analysts. An analyst
+would ask the ASF for industry-standard white papers describing their
+Apache HTTPD server, and the typical snarky response might be, "Go
+read the documentation on the website, like everyone else." While this
+satisfied the open source developers' deep commitment to meritocracy,
+overall it was counterproductive to public perception—particularly
+among corporate users. Eventually the ASF "PR person" worked to
+reeducate a number of community members about this attitude and deal
+more productively with analysts. Passive-aggressively fighting the
+system—no matter how irritating it is—just doesn't make sense. It's no
+different from telling the restaurant reviewer to get back at the end
+of the line. Should the reviewer get preferential treatment?
+Probably not. But is it worth sticking it to him as a matter of
+principle? __Definitely__ not. You're only hurting yourself in the
+process. Choose your battles carefully.(((range="endofrange", startref="ixch06asciidoc2")))(((range="endofrange", startref="ixch06asciidoc1")))
+
+[role="pagebreak-before"]
+[[how_usable_is_your_software]]
+=== How Usable Is Your Software?
+
+((("software","usability of", id="ixch06asciidoc3", range="startofrange")))((("usability", id="ixch06asciidoc4", range="startofrange")))((("users","and usability", id="ixch06asciidoc5", range="startofrange")))Here's a hard truth: unless you're developing software tools,
+engineers are not the audience of your software. The corollary is that
+you, as an engineer, are a terrible evaluator of your software's
+usability. An interface that seems totally reasonable to you may very
+likely make your nontechie neighbor pull out her hair in
+frustration.
+
+If we assume that "successful software" means "lots of people use and
+love your software," you need to pay deep attention to your
+users. Google has a famous motto:
+
+[quote]
+____
+Focus on the user, and all else will follow.
+____
+
+
+
+[[image_no_caption-id038]]
+image::images/dbtm_06in02.png[]
+
+[role="pagebreak-before"]
+It sounds fairly campy, but over our careers we've watched this maxim
+play out over and over across multiple projects. We've witnessed
+projects succeed and fail based on this truth.
+
+One of Google's big breakthroughs was to begin measuring the
+effectiveness of search ads. If users click on a particular ad, it
+must be useful to them; if it never gets clicks, it must be annoying
+or useless. Bad ads get removed from the system and feedback is given
+to the advertiser to improve its ads. At first this seems
+counterproductive for the short term: Google is actively rejecting
+revenue sources. But by making the __searcher__ (rather than the
+advertiser) the focus of attention, it dramatically increases the
+usefulness (and usage) of Google's search advertising system over the
+long term.
+
+Let's talk about some important ways you can focus directly on your users.
+
+[[choose_your_audience]]
+==== Choose Your Audience
+
+((("audience, software")))((("software","choosing audience for")))((("users","as audience for software")))First things first: imagine your users fall across a spectrum of
+technical pass:[<span class="keep-together">competence</span>].
+
+// TODO: change graphic below to say "Stephen Hawking" instead of "Donald Knuth"
+[[image_no_caption-id039]]
+image::images/dbtm_06in03.png[]
+
+If you were to draw a vertical line showing __which set of users__ is
+best suited to your product, where would you put it? A vertical line
+through the center of the bell curve means that about half of all
+computer users would be happy using your product (i.e., those to the
+right of the line).
+
+[role="pagebreak-before"]
+As an example, let's take the problem of wanting to display Internet
+content on your large TV screen.  How has the "usability" of competing
+solutions widened potential audiences?   Initially people had to plug their laptop
+computers directly into their televisions.  This involved
+understanding analog versus digital inputs and having the right sort of
+audio and video cables.
+
+////
+TODO: change graphic below to say "Stephen Hawking" instead of
+"Donald Knuth". Also change 'subversion' to "plug laptop into
+TV', and put it the line mostly to the right.
+////
+[[image_no_caption-id040]]
+image::images/dbtm_06in04.png[]
+
+((("Apple TV")))Apple then came out with an Apple TV product--a small computer-like
+appliance that you left permanently plugged into your TV.  It could be
+controlled from a computer or smartphone, and you could stream either your
+private media or live Internet content.  This solved the problem for a
+much larger (and less technical) audience:  it came with the proper
+cables, and you plugged it in once and left it there.
+
+Google then one-upped things by coming out with the((("Chromecast"))) Chromecast, a
+small stick that plugs directly into a TV's HDMI port.  It was even
+easier to install and allowed people to "cast" their screen from a
+wider array of both Apple __and__ non-Apple devices.  At the time of writing,
+we're now seeing new TVs being shipped with built-in WiFi and
+Internet streaming.  It's likely that Ben's kids will never remember a
+time when TVs didn't have Netflix built in!
+
+The point here is that good product development aims to move the
+vertical line to the __left__ as much as possible. In general, the
+more users you have, the more successful you are (and the more money
+your company makes!). The moral here is that when you're considering
+your users, think hard about who your audience is. Is your work usable by the
+biggest group possible? This is why simple and thoughtful user interfaces matter so much—as well as things like
+polished documentation and accessible tutorials.
+
+////
+TODO: change diagram to fix Knuth, but also show (from right to left)
+the expanding audiences of 'Apple TV', 'Chromecast', "internet-enabled
+TVs"
+////
+[[image_no_caption-id041]]
+image::images/dbtm_06in05.png[]
+
+[[consider_barrier_to_entry]]
+==== Consider Barrier to Entry
+
+((("barriers to entry","for first-time users")))((("design","and first-time users")))((("first-time users")))((("software","barriers to entry for first-time users")))((("software","first-time users of")))Now think about the first-time users of your software. How hard is it
+to get going for the first time? If your users can't easily try it
+out, you won't have any. A first-time user usually isn't thinking
+about whether your software is more or less powerful than a
+competitor's; she just wants to get something
+done. Quickly.
+
+((("PHP")))To illustrate, take a ((("Perl")))((("Python")))((("Ruby")))look at popular scripting languages. A majority of programmers will
+espouse that Perl or Python is a "better" language than PHP. They'll
+claim that Perl/Python/Ruby programs are easier to read and maintain
+over the long run, have more mature libraries, and are inherently
+safer and more secure when exposed to the open Web. Yet PHP is far
+more popular—at least for web development. Why? Because any high
+school student can just pick it up through osmosis by copying his
+buddy's website. There's no need to read books, do extensive
+tutorials, or learn serious programming patterns. It's conducive to
+tinkering: just start hacking on your site and figure out different
+PHP tricks from your peers.
+
+((("Emacs")))((("vi (text editor)")))Another example can be found in text editors. Should
+programmers use Emacs or vi? Does it matter? Not really, but why would
+a person choose one over the other? Here's a true anecdote: when Ben
+first started learning Unix (during an
+internship in 1990) he was looking for a text editor to launch. He
+opened an existing file by launching vi for the first time, and was
+utterly frustrated within 20 seconds—he could move around within the
+file, but couldn't type anything! Of course, vi users know that one
+has to enter "edit" mode to change the file, but it was still a
+horrible first experience for a newbie. When Ben launched Emacs
+instead, he could immediately begin editing a file just like he would
+do on his familiar home word processor. Because the initial behavior
+of Emacs was identical to his previous experiences, Ben decided to
+become an Emacs user within his first
+minute. It's a silly reason to choose one product over another, but
+this sort of thing happens all the time! That first minute with a
+product is __critical__.footnote:[Of course
+__overall__ Emacs is probably just as complex to learn as vi--but
+we're talking about first impressions rather than logic.]
+
+Of course, there are other ways to destroy the first impression. The
+first time your software runs, don't present the user with a giant form
+to fill out or a giant panel of mandatory preferences to set. Forcing
+the user to create some sort of new account is pretty off-putting as
+well; it implies long-term commitment before the user has even done
+anything. Another personal pet peeve is a website instantly blasting a
+visitor with a modal "Subscribe to us!" dialog box within the first
+two seconds.  All these things send the user screaming in the other
+direction.
+
+A great example of a nearly invisible ((("TripIt")))barrier to entry is the
+TripIt web service, which is designed to
+manage travel itineraries. To start using the service simply forward
+your existing travel-confirmation emails (airplane, hotel, rental car,
+etc.) to __plans@tripit.com__. Poof, you're now using TripIt. The service
+creates a temporary account for you, parses your emails, creates a
+gorgeous itinerary page, and then sends an email to tell you it's
+ready. It's like a personal assistant instantly showing up, and all
+you did was forward a few messages! With almost no effort on your
+part, you've been sucked in and are browsing the website as an
+involved user. At this point, you're willing to create a real service
+account.
+
+If you're skeptical about your own product's barrier to entry, try
+doing some simple tests. Give your software to ordinary humans—both technical and
+nontechnical—and observe their first minute or two. You may be
+surprised at what you discover.
+
+[role="pagebreak-before"]
+[[measure_usage_not_users]]
+==== Measure Usage, Not Users
+
+((("software","users vs. usage")))((("usage, users vs.")))((("users","usage vs.")))In pondering the size of your user base and whether it's easy to get
+started, you should also consider how you measure usage. Notice that we said "usage," not "number of installs"—you want a high number of users who
+__use__ your product, not a high number of times people __download__
+your product. You'll often hear someone say, "Hey, my product has had
+3 million downloads—that's 3 million happy users!" Wait; back up. How
+many of those 3 million users are __actually using__ your software?
+That's what we mean by "usage."
+
+((("Unix")))As an extreme example, how many machines is the Unix archive utility
+"ar" installed on? Answer: just about every Unix-based OS out there,
+including all versions of Linux, Mac OS X, BSD, and so on. And how
+many people use that program? How many even know what it is? Here we
+have a piece of software with millions of installs but near-zero
+usage.
+
+Usage is something that many companies (including Google) spend a lot
+of time measuring. Common metrics include "7-day actives" and "30-day
+actives"—that is, how many users have used the software in the past
+week or month. These are the important numbers that actually tell you
+how well your software is doing. Ignore the download counts. Figure
+out a way to measure ongoing activity instead.  For example, if your
+product is a website or web app, try a product like Google Analytics;
+it not only gives you these metrics, but also gives you insight into where
+your users came from, how long they stayed, and so on. These are
+incredibly useful indicators of product uptake.(((range="endofrange", startref="ixch06asciidoc5")))(((range="endofrange", startref="ixch06asciidoc4")))(((range="endofrange", startref="ixch06asciidoc3")))
+
+
+[role="pagebreak-before"]
+[[design_matters]]
+=== Design Matters
+
+((("design","and user focus", id="ixch06asciidoc6", range="startofrange")))((("users","designing software for", id="ixch06asciidoc7", range="startofrange")))Before the Internet came into prominence, the biggest challenge to
+getting any product to market was one of distribution. Few companies
+had the wherewithal to write a product __and__ get it into thousands of
+stores across the world, so when a company put a product out there,
+they would then market the hell out of it. This typically resulted in
+one or two "winners" in each software category (e.g., Microsoft Word
+versus WordPerfect, Excel vs. Lotus 1-2-3, etc.). The primary criteria
+you used when choosing a product were features and cost, no matter how
+ugly or unintuitive the software was.
+
+That, however, has changed.
+
+((("Internet, consumer choice and")))The Internet is a global distribution network where it costs almost
+nothing to find and download software. ((("social media, customers and")))And social media makes it easy
+for people to share their feelings about various products across the
+globe in seconds. The result of these two massive changes (and a host
+of other, smaller factors) means that consumers today have a choice of
+what product to use. In this highly competitive environment, it's no
+longer enough to just get a product out there with the necessary
+features—your product needs to be beautiful and easy to use. These
+days, no amount of marketing will rescue a crappy product, but a
+well-designed product that delights the people that use it will turn
+these same people into evangelists that market the product __for__ you. 
+
+So good design is key, but a big part of good design is putting the
+user first, hiding complexity, making your product fast, and, most
+importantly, not being all things to all people.
+
+
+[[put_the_user_first]]
+==== Put the User First
+
+((("design","and user focus")))((("users","as focus of software design")))When we say to "put the user first," we're suggesting that you and
+your team should take on whatever hard product work you can to make
+using your product easier for your users. This may mean some hard
+engineering work, but more frequently it means making hard design
+decisions instead of letting your users make these decisions every
+time they use your product.  We refer to this as
+__product laziness__. Some would argue that laziness is a virtue for
+engineers because it leads to efficient automation of work. On the
+other hand, it can be easy to create something that results in great
+pain for users. Making software easy for users is one of the greatest challenges
+in product development.
+
+((("options, excessive")))A classic example of this kind of laziness is to present too many
+options to your users. ((("Microsoft Office")))People love to make fun of the late-1990s
+generation of Microsoft Office
+products: button bars! They make every possible menu item instantly
+available…for great convenience! User interface designers love to make
+fun of this idea, especially when taken to an extreme:
+
+[[image_no_caption-id044]]
+image::images/dbtm_06in06.png[]
+
+Having too many options is overwhelming. It's intimidating and
+off-putting. There have even been books written about how too many
+choices create anxiety and ((("Paradox of Choice, The (Schwartz)")))((("Schwartz, Barry")))misery.footnote:[See Barry Schwartz's __The Paradox of Choice: Why More Is Less__ (Ecco).] You even
+need to be careful within your software's Preferences dialog. (Did you
+know that Eudora, a popular email client, had 30 different panels of
+preference values?) And if you're making someone fill out a form, be
+lenient in what you accept: deal with extra whitespace, punctuation,
+or dashes. Don't make the user do the parsing! It's about respecting
+the user's time. It's really obvious (and infuriating) when a
+programmer __could__ have made something friendly and easy for the end
+user but didn't bother.
+
+
+[[speed_matters]]
+==== Speed Matters
+
+((("application speed")))((("design","application speed")))((("latency")))((("speed","in design")))Most programmers vastly underestimate the importance of __application
+speed__ (or __latency__, which sounds more scientific). Its effects
+are both fundamental and pass:[<span class="keep-together">profound</span>].
+
+((("barriers to entry","latency as")))First, latency is another type of "barrier to entry."  We've become
+spoiled about web page speed. When told to check out a new website, if
+it doesn't load within three or four seconds, people often abort and
+lose interest. There's simply no excuse here. The web browser makes
+it easy to walk away and redirect our attention to 12 other places. We
+have better things to do than wait for a page to load.
+
+Second, when a program responds quickly, it has a deep subliminal
+effect on users. They start using it more and more because it feels
+frictionless. It becomes an unconscious extension of their
+abilities. On the other hand, a slow application becomes increasingly
+frustrating over time. Users start using the software less and less,
+often without even realizing it.
+
+After a product launches, it's exciting to see usage grow over
+time. But after a while the usage often hits a limit—it just sort of
+flatlines. This is the point where the marketing folks often step in
+and scream about needing more features, prettier colors, nicer fonts,
+or more animations that "pop." Sometimes, however, the __actual__
+reason for the stall is latency. The program has become laggy and
+frustrating. As the next graph shows, user engagement decreases as
+latency increases.
+
+
+[[image_no_caption-id042]]
+image::images/dbtm_06in07.png[]
+
+[role="pagebreak-before"]
+((("Google Maps")))A true story from Google: an engineering team one day released some
+dramatic latency improvements to
+Google Maps. There was no announcement, no blog
+post; the launch was completely secret and silent. Yet the activity
+graph showed a huge (and permanent) jump in usage within the first
+couple of days. There's some powerful psychology going on
+there!
+
+Even small improvements in latency matter when you're serving a
+web-based application. Suppose it takes 750
+milliseconds for your main application screen to load. That seems fast
+enough, right? Not too frustrating for any given user. But if you
+could slash your load times to 250 milliseconds, that extra half of a
+second makes a huge difference in aggregate. If you have a million
+users each doing 20 requests per day, that amounts to __116 years__ of
+saved user time—stop killing your users! Improving latency is one of
+the best ways to increase usage and make your users happy. As Google's
+founders like to say, "Speed is a feature."
+
+[[dont_try_to_be_all_things]]
+==== Don't Try To Be All Things
+
+((("design","overly ambitious")))((("software","overly ambitious")))Is your software
+trying to accomplish too much? This sounds like a silly question at
+first, but some of the worst software out there is bad because it's
+overly ambitious. It tries to be absolutely everything to
+everyone. ((("problem, software as solution to")))Some of the best software succeeds because it defines the
+problem narrowly and solves it well. Instead of solving every problem
+badly, it solves really common problems for __most__ users and does it
+really well.
+
+We often joke about certain gadgets we see in magazine ads: hey, look,
+it's a camping lantern, with a built-in weather radio!…and, uh, also
+a built-in TV, and um, stopwatch, and alarm clock, and…eh? It's a
+confusing mess. Instead, think of your software as a simple toaster
+oven. Does it cook everything? Absolutely not. But it cooks __a lot__
+of really common food and is useful to almost everyone who encounters
+it without being overwhelming. Be the toaster oven. Less is more.
+
+
+[[image_no_caption-id043]]
+image::images/dbtm_06in08.png[]
+
+[[hide_complexity]]
+==== Hide Complexity
+
+((("complexity, software", id="ixch06asciidoc8", range="startofrange")))((("design","hiding complexity", id="ixch06asciidoc9", range="startofrange")))((("hiding the complexity", id="ixch06asciidoc10", range="startofrange")))"But my software is complex," you may think, "and it's solving a
+complex problem. So why should I try to hide that?" That's a
+reasonable concern, but it's also one of the central challenges of
+good product design. An elegant design makes easy things easy and
+hard things possible. Even when doing complex things your software
+should __feel__ seamless and easy. (Again, we're focusing on the
+user's pass:[<span class="keep-together">emotions</span>].)
+
+This is what we like to call "hiding the complexity." You take a
+complex problem and break it up, cover it, or do something to make the
+software seem simple anyway.
+
+((("Apple")))Look at Apple again. Apple's product design is
+legendary, and one of the cleverest things it did was to creatively
+tackle the problem of managing MP3 music collections. Before iPods
+came along, there were a handful of awkward gizmos that tried to
+manage music right on the portable device. Apple's genius was to
+realize that MP3 management was too difficult a problem to solve on a
+tiny screen, so it __moved__ the solution to a big computer. iTunes
+was the answer. You use your computer (with big screen, keyboard, and
+mouse) to manage your music collection, and then use the iPod __only__
+for playback. The iPod can then be simple and elegant, and organizing
+your music is no longer frustrating.
+
+((("Google Search")))Google Search is another well-known example of
+hiding complexity. Google's interface (and barrier to entry) is almost
+nonexistent: it's just a magic box to type in. Yet behind that box,
+there are thousands of machines across the planet responding in
+parallel and doing a search after __every keystroke__ you type. By the
+time you hit Enter, the search results have already rendered on your
+screen. The amount of technology behind that text box is jaw-dropping,
+and yet the complexity of the problem
+is hidden from the user. It behaves like
+Magic.footnote:[See Arthur C. Clarke's http://bit.ly/clarkes_3rd_law[Third Law].]
+This is a great goal for a creative team to pursue since it's
+essentially the epitome of product usability.
+
+Finally, we should mention a caveat about complexity. While masking complexity is laudable, it is __not__ a goal to seal the
+software so tight that it ends up handcuffing all your
+users. ((("abstractions, for hiding complexity")))Hiding complexity almost always
+involves creating clever abstractions, and as a programmer you need to
+assume that the abstractions will eventually "leak." When a web
+browser prints a 404 error, that's a leaked
+abstraction; the illusion is cracked. Don't panic, though—it's better
+to assume that abstractions are leaky and simply embrace them by
+providing deliberate ways to lift the curtain. A great way to do this
+is to provide APIs to other programmers. Or for really advanced users,
+create an "expert mode" that provides more options and choices for
+those who want to bypass the abstractions.
+
+Not only is it important to keep the interface flexible and circumventable, but the user's data needs to be accessible as well. ((("data, exporting")))Fitz put
+a great deal of passion into making sure Google products offer "data
+liberation"—that it's trivial for a user to export his data from an
+application and walk away. Software shouldn't lock users in, no matter
+how elegant the interface is. Allowing users to open the hood and
+do whatever they want with their data forces you to compete
+honestly: people use your software because they __want__ to, not
+because they're trapped. It's about engendering trust, which (as we'll
+mention) is your most sacred(((range="endofrange", startref="ixch06asciidoc10")))(((range="endofrange", startref="ixch06asciidoc9")))(((range="endofrange", startref="ixch06asciidoc8"))) resource.(((range="endofrange", startref="ixch06asciidoc7")))(((range="endofrange", startref="ixch06asciidoc6")))
+
+[role="pagebreak-before"]
+[[managing_your_relationship_with_users]]
+=== Managing Your Relationship with Users
+
+((("relationship management", id="ixch06asciidoc11", range="startofrange")))((("users","managing your relationship with", id="ixch06asciidoc12", range="startofrange")))OK, so your product is appealing on first sight. It's easy to get
+started. And once people begin, it's really pleasant. What happens
+months down the line? How do you interact with people who use your
+product every day, for years at a time?
+
+Believe it or not, many users __want__ to have a relationship with
+your company or team. Happy users want to know what's going on with
+your software's evolution; angry users want a place to complain. One
+of the biggest mistakes programmers make is to toss software over a
+wall and then stop listening to feedback.
+
+((("customer service")))Like __marketing__, the term __customer service__ also typically has
+a negative connotation. A career in "customer service" often conjures
+up an image of a barista working at a coffee shop or a room full of
+robotic people answering support calls. But in reality, customer
+service isn't a nasty, soul-draining task; nor is it something that
+other people (with lesser job descriptions) do. It's a philosophy to
+live by—a way of thinking about your ongoing connection to users. It's
+something you need to do proactively as a creative team, not as a mere
+reaction to external complaints.
+
+((("engineers","and direct interactions with users")))((("HRT (humility, respect, trust)","in user relations")))((("respect","in user relations")))Engineers often dread direct interactions with users. "Users are
+clueless," they think. "They're annoying and impossible to talk to."
+And while nobody's requiring you to shower every user with love, the simple fact
+is that __users want to be heard__. Even if they make inane
+suggestions or clueless complaints, the most important thing you can
+possibly do is __acknowledge__ them. The more you allow them to
+participate in the discussion and development process, the more loyal
+and happy they'll be. You don't have to agree with them, but you still
+need to listen. This is the "Respect" in HRT!  ((("social media, customers and")))Companies are rapidly
+learning this in the age of social media—just reaching out to someone
+as a human and not as a giant, faceless corporation is often enough to
+alleviate that person's concerns. People love it when corporations
+openly display HRT.
+
+
+[[image_no_caption-id045]]
+image::images/dbtm_06in09.png[]
+
+We like to illustrate the importance of managing users over time by drawing another simple
+(slightly unscientific) graph. As time goes on, your software gains
+more and more users. Of course, as you "improve" the product, it also
+gains more and more complexity:
+
+
+[[image_no_caption-id046]]
+image::images/dbtm_06in10.png[]
+
+The problem here is that as the number of users increases, their
+average level of technical ability __decreases__, because you're
+covering more and more of the general population. Pair this up with
+ever-increasing complexity and you've got a serious issue with users'
+despair:
+
+
+[[image_no_caption-id047]]
+image::images/dbtm_06in11.png[]
+
+((("communication","with users")))More despair means more complaints, angrier users, and an
+ever-increasing need for open communication with the software
+developers!
+
+What can you do to avoid this trend?
+
+To begin, don't be in denial about the problem.  Many corporations
+instinctively do everything they can to put up walls of bureaucracy
+between programmers and users. They create voicemail trees to navigate
+through or file complaints as "help tickets" that are tracked by
+layers of people who aren't actually writing the software. Messages
+are relayed only indirectly through these layers, as though direct
+contact with the dangerous rabble might endanger developers (or
+pointlessly distract them). This is how users end up
+feeling ignored and disempowered and how developers end up completely
+disconnected.
+
+A much better mode of interaction is to directly acknowledge
+users. Give them a public bug tracker to complain in and respond to
+them directly. Create an email list for them to help one
+another. Interact directly with users in social media.  If your
+product can be open source, that's a huge help as well. The more
+"human" you appear to users, the more they trust in the product, and
+despair begins to lessen. Be on the lookout for people using your
+products in unexpected (and awesome) ways. Only through true dialogue
+can you discover what they're really doing with your software,
+possibly something clever or thrilling.
+
+[[dont_be_condescending]]
+==== Respect Users' Intelligence
+
+((("intelligence, respect for users")))((("respect","for intelligence of users")))((("users","respecting intelligence of")))Give users respect by default.  A common misconception that powers our
+fear of direct user interaction is the myth that users are
+stupid. They're not writing the software, after all, so they're just
+"clueless users," right? When you finally have an opportunity to
+interact with them, the most important thing to remember is to avoid
+condescension. Being a savvy computer user is __not__ a fair measure
+of general intelligence. A lot of brilliant people out there use
+computers as a tool and nothing more. They're not interested in
+debugging or following scientific methods to diagnose a
+problem. Remember that most of us have no idea how to take apart and
+fix our cars; assuming your users are stupid is akin to an auto
+mechanic thinking __you__ are stupid because you don't know how to
+rebuild a transmission, nor even care how to diagnose a transmission
+problem. The car is a black box—you just want to drive. For most
+people, the computer (and your software) is a black box, too. Users
+don't want to participate in the analysis process; they just want to
+get some work done. It has nothing to do with
+intelligence!
+
+[[be_patient]]
+==== Be Patient
+
+((("patience","when dealing with users", id="ixch06asciidoc13", range="startofrange")))((("users","patience when dealing with", id="ixch06asciidoc14", range="startofrange")))The corollary, then, is to learn great patience. ((("vocabulary, users")))Most users simply don't have the
+vocabulary to express their problems succinctly. It takes years of
+practice to learn to understand what they're saying: just ask anyone
+who has tried to provide computer tech support to his parents over the
+phone (which is probably most of you reading this book!). Half of the
+discussion comprises just trying to agree on the same vocabulary. Many
+people don't know what a web browser is, thinking it's just part of
+their computer. They describe applications as actions, or talk about
+screen icons as mysterious workflow names. The thing is, even the most
+intelligent folks have a knack for creating their own logical universe
+(and vocabulary) that explains how computers behave. They begin to
+diagnose problems in terms of imaginary taxonomies and rules that
+exist only in their minds.
+
+[role="pagebreak-before"]
+[quote]
+____
+Parent: "I think my computer is slow because the disk is full."
+
+You: "How do you know the disk is full? Did you check?"
+
+Parent: "Yeah, well, the screen is totally covered with icons, so
+there's probably no more room for my email to download. Maybe I can
+delete some cookies to make more space, huh? That seemed to work last
+time."
+
+You: [Facepalm]
+____
+
+
+The critical listening skill here is to learn to understand what
+people __mean__, not necessarily to try to interpret what they
+literally __say__. It requires not just some language translation, but
+some emotional intelligence as well. And mind pass:[<span class="keep-together">reading</span>].
+
+Fitz has a great story about his grandmother in which she asked him
+(over the phone), "Brian, is that old computer of grandpa's worth
+anything at all?" Fitz said no, that it was just a very old Mac
+Classic without an Internet connection—probably best to safely recycle
+it. Her response: "OK, well, I only turn it on when I need to sharpen
+a pencil."
+
+After a prolonged moment of utter confusion, Fitz decided he needed to
+start questioning her so that he could figure out just what she meant!
+
+It turns out that both the Mac and grandma's electric pencil
+sharpener were plugged into a power strip. Once a week grandma would
+come into the room with her pencils and turn on the power strip. The
+Mac would beep and begin to boot. Grandma would sharpen her pencils
+and then cut the strip's power when she left the room, abruptly
+killing the Mac before it could even finish
+booting.footnote:[In case you're concerned, the Mac
+has since been put out of its misery.] This is a great example of a
+nontechnical person attempting to explain a situation using limited
+vocabulary and whatever model has sprung up around her relationship to
+the computer.
+
+
+[[image_no_caption-id048]]
+image::images/dbtm_06in12.png[]
+
+((("Google Search")))A lot of people also have magical preconceptions of Google's search
+service. Many people think
+it's just part of their computer. In 2005, we used to get puzzled
+looks from people when we told them we were engineers at Google: "Oh!
+I didn't know anyone worked there?!" On the flip side, a friend of
+Fitz's grandmother once got upset when she heard the entire company
+was going to go on an off-site ski trip. (This was back when the
+company was still small.) "That's terrible! How can they all go
+skiing?" she asked. "Who's going to do all my searches for me?"
+Clearly, Google was being negligent, not leaving enough switchboard
+operators to keep the traffic running.(((range="endofrange", startref="ixch06asciidoc14")))(((range="endofrange", startref="ixch06asciidoc13")))
+
+[[create_trust_and_delight]]
+==== Create Trust and Delight
+
+((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))There are two more watchwords that should become the cornerstones of
+the way you interact with users: __trust__ and __delight__.
+
+__Trust__ is a tricky term. We've already talked about trust in the
+context of pass:[<span class="keep-together">HRT—</span>]about whether and how you exhibit trust toward your
+coworkers. In this case we're talking about garnering trust from
+users. When a user trusts your team (or your company) it's mainly an
+emotional state: very few people would ever say, "I trust product X
+because of this long list of facts that prove that my relationship
+with it carries zero risk." They trust you because the cumulative set
+of interactions they've had with you add up to an overall
+__emotionally__ positive state.
+
+Think about your friends and family for a moment. How many of them
+have an auto mechanic they really trust? These days the answer is
+nearly zero. ((("mailboxing")))Almost nobody trusts auto mechanics, because we've been
+badgered by years of what is called "mailboxing": when you come in for one scheduled service (like an
+oil change), but a bunch of other unexpected maintenance services are
+piled on, much like junk mail stuffed into your mailbox.  Nobody
+believes mechanics anymore because they've been instructed to
+maximize profit at every opportunity. ((("integrity, lapses in")))Remember, __there is no such
+thing as a temporary lapse of integrity__.
+
+This is a great example of how the ((("long-term relationships")))long-term relationship can be
+easily sacrificed for short-term gain. Screw your customers just a teeny bit every now
+and then, and eventually they view the relationship through a veil of
+aggregated disdain. On the other hand, every time your team does
+something helpful or useful, or is responsive, a bit of trust is added
+to an imaginary bank account in their minds. When a baker adds a
+surprise 13^th^ donut to your dozen ("lagniappe," as they call it in
+New Orleans), this brings a smile to your face. Over years of dealings
+the trust account grows and grows until the mention of your product
+brings a warm, fuzzy feeling.
+
+Trust can be dangerous, however, because it can be blown all at
+once—just like a bank account can be drained with a single stupid,
+impulsive purchase. If your company does something that shows a total
+lack of respect for users (even if by accident), the trust bank is
+emptied overnight.
+
+((("Netflix")))A good example of this is the way Netflix temporarily messed
+up its relationship with users in late 2011. Netflix is both a service
+for streaming movies over the Internet and also a way for renting DVDs
+by postal mail. Over the period of a decade it became increasingly
+popular: it was easy, convenient, and novel. The price was cheap. By
+early 2011 it had more than 23 million subscribers.
+
+At some point the business folks realized their DVD and streaming
+services were really separate businesses with separate profit models,
+management needs, and so on. So they decided to start charging for
+these businesses separately, raising their monthly fees 60% for some
+users. Customers were furious. Then Netflix announced that it
+would be splitting into two separate companies for greater clarity and
+convenience; to users this simply read as "now you have the annoyance
+of two bills to pay instead of one." Realizing they had a PR disaster
+on their hands, they then __un__announced the splitting of the
+company, but by that time it was too late. The damage had been
+done. Despite a history of continuous growth they lost 800,000
+subscribers in the span of three months. They managed to blow most of
+a decade's worth of trust with just a couple of small moves that
+seemed like simple and necessary business decisions, but had little
+regard for existing relationships.  (Luckily, they managed to totally
+rebuild their bank of trust over the next few years by paying careful
+attention to service and content;  they came back even stronger!)
+
+Trust is your __most sacred resource__. Watch it carefully. Measure
+the size of the bank account. Before every move, think about how it
+will affect the bank account. Focus on your long-term image, not
+short-term conveniences.(((range="endofrange", startref="ixch06asciidoc16")))(((range="endofrange", startref="ixch06asciidoc15")))
+
+((("delight")))((("users","delighting")))Like trust, __delight__ is another feeling that can vastly improve
+your relationship with users. It's a way of increasing that warm,
+fuzzy feeling, and making your team seem more human.
+
+
+[[image_no_caption-id049]]
+image::images/dbtm_06in13.png[]
+
+You have to start by not taking yourself too seriously. Google has a
+tradition of making outlandish product announcements on April Fools
+Day; for example, one year, every video on the front page of YouTube
+caused a "rickroll." Or take a look at
+pass:[<a class="orm:hideurl" href="http://www.woot.com"><em class="hyperlink">www.woot.com</em></a>]. It's a daily deal site,
+but the advertising copy is full of self-deprecating and quirky humor.
+
+Try to surprise your users with amazing, wonderful bits of
+happiness. (That's the definition of delight,
+isn't it?) ((("Google, celebration of holidays by")))Despite Google being a powerhouse of hard computer science,
+nothing excites its users more than the occasional "doodle" that
+illustrates a holiday or anniversary. It's just a tiny bit of artwork
+injected into people's day and yet it inspires endless letters of
+feedback and office watercooler discussions.
+
+Of course, a bit of horror can inspire users as well, as long as it's
+done humorously. A company trying to start a social network once
+wanted to encourage new users to upload pictures of themselves;
+eventually the company decided to start showing a picture of snarling
+Dick Cheney for every user who hadn't done so—and
+the photo uploads suddenly started pouring in!
+
+Adding bits of delight and humor—tactfully—goes a long way toward
+showing that you're actually paying attention to users and care about
+your relationship with them.(((range="endofrange", startref="ixch06asciidoc12")))(((range="endofrange", startref="ixch06asciidoc11")))
+
+[[remember_the_users]]
+=== Remember the Users
+
+We've covered a slew of ideas in this chapter, but in the end, it all
+boils down to three simple concepts that you can stick in your pocket:
+
+Marketing:: Be ((("marketing")))aware of how people perceive your software; it
+    determines whether they even try it out.
+
+
+Product design:: If ((("design")))your software isn't easy to try, fast, friendly, and
+    accessible, users will walk away.
+
+
+Customer service:: Proactive ((("customer service")))engagement with long-term users affects
+    your software's evolution and user
+    retention.
+
+
+Our day jobs as programmers are so full of distractions—code reviews,
+design reviews, fighting with our tools, putting out
+production-related fires, triaging bugs—that it's easy to forget the
+__reason__ we're writing software at all. It's not for you, or your
+team, or your company. It's to make life easier for users. It's
+critical to pay attention to what they're thinking and saying about
+your product and how they're experiencing it over the long run. Your
+users are the lifeblood of your software's success. You reap what you
+sow.(((range="endofrange", startref="ixch06asciidoc0")))
+
+

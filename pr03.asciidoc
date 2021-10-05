@@ -1,0 +1,119 @@
+[[acknowledgments]]
+[preface]
+== Acknowledgments
+
+While there are two names on the cover, this book is the result of
+conversations we've had with hundreds if not thousands of people over
+the course of our lives and careers. We'd like to take a few moments
+to thank just a few of the people who are responsible for many of the
+useful parts of this book (mistakes, as usual, are all ours).
+
+Thanks to the folks at O'Reilly Media: Mike Loukides for encouraging us to write for a broader audience, and our fearless editors Brian Anderson and Mary Treseler—this book wouldn't
+exist without Mary's encouragement, patience, and occasional prodding.
+
+Thanks to Sunni Brown and Amber Lewis at
+link:$$http://sunnibrown.com$$[] for bringing our book to life with
+such delightful illustrations—working with you guys was a true joy.
+
+Thanks to our technical reviewers who contributed numerous
+suggestions, ideas, and fixes that really brought the book together:
+Dustin Boswell, Trevor Foucher, Michael Hunger, Jonathan LeBlanc, Piaw
+Na, and Jack Welch. Thanks to our friends and colleagues who reviewed
+the book in progress and caught some of our more egregious mistakes:
+Dave Baum, Matt Cutts, Will Robinson, and Bill Duane. Thanks to our
+friends who listened, offered advice, and are just plain awesome: Karl
+Fogel, Jim Blandy, Matt Braithwaite, Danny Berlin, and Chris
+DiBona. Thanks also to Linda Stone, DeWitt Clinton, Bruce Johnson,
+Roland McGrath, and Amit Patel for ideas and suggestions.
+
+Thanks to Google, and especially the Google Chicago engineering team,
+for their support, ideas, and suggestions, and for just plain being a
+fantastic group of people to work with every day.
+
+Thanks especially to some of our senior mentors and teachers, a tiny
+bit of whose collective wisdom we've attempted to squeeze onto these
+pages: Bill Coughran, Steve Vinter, Alan Eustace, Stu Feldman, and
+Eric Schmidt.
+
+Special thanks to Brian Robinson and Yvonne Ellison-Sandler for their
+mentoring, guidance, and tutelage.
+
+Thanks to the Apache Software Foundation, not only for having us, but
+also for your focus on community and collaboration.
+
+Thanks to all our close friends, who make us rich, rich men. Don't
+look at us that way—you know who you are.
+
+Huge swaths of this book were conceived, outlined, and written at the
+fabulous, friendly, and cozy Filter Cafe in our fair city of Chicago.
+
+[[from_fitz]]
+=== From Fitz
+
+Huge thanks to my wife Marie for her encouragement, understanding, and
+patience—your insight and compassion are always an inspiration to
+me. Thanks to my mom for her support and enthusiasm, and thanks
+especially to my mother-in-law Rita Gumler, for her "people are like
+plants" analogy.
+
+To Ben: after knowing each other for 16 years, working together at
+three jobs, and writing three books together, I have to say that I
+miss working with you every day. Thanks for taking this wild, weird,
+and wonderful ride with me—you've been a great friend and teacher.
+
+Lastly, thanks to everyone that I've worked with in my (gulp) 21 years
+in software engineering. It's been an incredible journey, and not a
+day has gone by where I didn't learn something from one of you.
+
+[[from_ben]]
+=== From Ben
+
+There aren't proper words to express my gratitude for the amount of
+space my wife Frances has given me—not just in writing this book, but
+in a dozen other creative projects I've taken on over the past few
+years. Without her quiet and rocklike support, none of them could
+possibly have happened.
+
+To Fitz: now that we finish each other's sentences I think it's fair
+to say we're like a very old married couple. I never knew it could be
+so much fun to give talks with somebody, let alone write software and
+books together. What an amazing set of opportunities we've been given!
+Thanks for teaching me so much.
+
+Finally, thanks to all the crazy people and corporations of Silicon
+Valley: none of these crazy experiences could have happened if you
+hadn't inducted me into your bizarro-world.
+
+[[about_the_authors]]
+=== About the Authors
+
+Brian Fitzpatrick is Founder and CTO of Tock. Brian started Google's
+Chicago engineering office with Ben in 2005 and led several of
+Google's global engineering efforts, including the Data Liberation
+Front, and Transparency Engineering. He also served as internal
+advisor for Google's open data efforts, having previously led the
+Google Code and Google Affiliate Network teams. Prior to joining
+Google, Brian worked as an engineer at Apple, CollabNet, and a local
+Chicago development shop.
+
+Brian has written numerous articles and given dozens of presentations,
+including cowriting pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/0636920018025.do"><em>Team Geek: A Software Developer's Guide to
+Working Well with Others</em></a>], pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596004484.do"><em>Version Control with Subversion</em></a>] (now in
+its second edition), and chapters for pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596100292.do"><em>Unix in a Nutshell</em></a>] and pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596154493.do"><em>Linux
+in a Nutshell</em></a>].
+
+Brian has an A.B. in Classics from Loyola University Chicago with a
+major in Latin, a minor in Greek, and a concentration in Fine Arts and
+Ceramics. He resides in Chicago.
+
+Ben Collins-Sussman was one of the founding developers of the
+Subversion version control system. He cofounded Google's engineering
+office in Chicago, launched Google Code, led two display advertising
+teams, and now manages teams that power Google's search
+infrastructure.  He's currently the engineering Site Lead for Google
+Chicago, but also collects hobbies—including authoring interactive
+fiction, playing bluegrass banjo and jazz piano, composing musicals,
+operating ham radios, and exploring photography.  Ben is a proud
+native of Chicago and holds a Bachelor of Science from the
+University of Chicago with a major in Mathematics and minor in
+Linguistics.  He still lives in Chicago with his wife, kids, and cats.

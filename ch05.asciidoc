@@ -1,0 +1,979 @@
+[[the_art_of_organizational_manipulation]]
+== The Art of Organizational Manipulation
+
+((("organizational manipulation", id="ixch05asciidoc0", range="startofrange")))So far we've shown you how to handle the human side of you and your
+team. We've reviewed the basic people skills required for leading a
+team and the hazards of dealing with the threat of poisonous
+people. In addition to these skills, you also need to understand how
+to navigate good and poisonous companies alike. Most people work in
+dysfunctional corporate bureaucracies and need to employ certain
+manipulative techniques to get things done effectively. Some people
+call this politics; others call it social engineering.
+
+We call it organizational manipulation.
+
+[[the_good_the_bad_and_the_strategies]]
+=== The Good, the Bad, and the Strategies
+
+Big companies are complex mazes, and even the best require a GPS,
+a flashlight, and a dump truck full of breadcrumbs to navigate from
+one end of the company to the other.
+
+
+
+[[image_no_caption-id029]]
+image::images/dbtm_05in01.png[]
+
+First we'll cover how a team typically functions in an ideal company,
+and then we'll discuss the various ways a dysfunctional company can
+put up roadblocks to your team's success. We'll review strategies for
+getting things done in both kinds of companies, and lastly, if all
+else fails, we'll cover Plan B.
+
+[[the_ideal_how_a_team_ought_to_function_w]]
+=== How Things Ought to Be
+
+((("companies","ideal", id="ixch05asciidoc1", range="startofrange")))((("ideal companies", id="ixch05asciidoc2", range="startofrange")))There are two levels of a properly functioning company: your manager,
+who you'll deal with most of the time, and the corporation beyond your
+manager, which includes knowledge workers, middle managers, executives, salespeople, lawyers, and
+so on.
+
+
+[[your_life_under_an_ideal_manager]]
+==== The Ideal Employee Experience
+
+((("employees","in ideal companies")))If your manager is a servant leader who employs HRT and is truly
+interested in helping you succeed (see
+<<every_boat_needs_a_captain>>), there are a few simple things you can
+do to help make her job easier, and consequently make yourself more
+productive and a more valuable team member. Perhaps more importantly, they can make your
+job better and your career more successful.
+
+[[image_no_caption-id030]]
+image::images/dbtm_05in02.png[]
+
+((("responsibility","pursuing extra")))__Pursue extra responsibility__ as you're getting your work done. One
+of our favorite metaphors for this is the forest ranger who sends you,
+a junior ranger, into the forest to cut down a sick or damaged
+tree. If you're focused merely on the task at hand, you'll go into the
+forest, cut down the sick tree, and return triumphant. If, however,
+you're thinking about the bigger picture, you'll go into the forest,
+cut down the sick tree, and return with a map of all the other sick
+trees you encountered on your journey, along with a plan for
+efficiently cutting them down if the senior ranger agrees that this is
+the best plan of action. As a result of this kind of action, the next
+time the forest ranger has a task that requires that level of
+responsibility she'll likely give you the first shot at it. She'll do
+this not only because she knows you can do it, but because that's the
+path of least resistance—it's less work for her.
+
+
+[[image_no_caption-id031]]
+image::images/dbtm_05in03.png[]
+
+This kind of proactive, responsibility-seeking behavior reduces your
+manager's workload because she has one less thing to worry about, and
+it shows that you're capable of doing work beyond your current
+level. This also means you'll likely have to leave your comfort zone
+and try new things, and that's OK if you're on a team where you're
+encouraged to take risks and fail fast.
+
+((("failure","not fearing")))((("fear of failure","overcoming")))((("risks","taking")))__Take risks__ and don't fear failure. We talked a lot in Chapters
+<<every_boat_needs_a_captain,3>> and <<dealing_with_poisonous_people,4>>
+about the importance of taking risks
+and failing fast. In the presence of an enlightened manager, failing
+is a great way to learn quickly, discover the limits of what you can
+and can't do, and grow those limits over time. Our friend Steve
+Hayman, who travels a lot for work, has often
+said, "If you don't miss at least one flight a year, you're getting to
+the airport too early." This is a great metaphor for creating any sort of product: if you
+don't fail at least once a year, you're not taking enough risks. And
+like the pursuit of extra responsibility, taking risks is a way to
+show you're capable of bigger things.
+
+If you don't take risks in your work, you'll have fewer failures, but
+you'll have fewer big successes as well. A good manager wants a team
+that's willing to push the envelope to see what they can and can't do
+(and to learn a lot in the process), and she'll provide a soft landing
+for when you fail. When you fail, take responsibility, don't seek to
+assign blame, and document what happened and what you can do to avoid
+that same failure again. Lather, rinse, repeat.
+
+((("adult behavior")))__Act like an adult__. Another recommendation in a long line of
+suggestions that seem glaringly obvious: you are responsible for
+teaching people how to act and how to treat you. Bad managers will frequently
+train their teams to act like children by squashing any initiative,
+responsibility, or rule breaking. If you've had one of these managers,
+you often come to expect this sort of treatment from all managers.
+
+((("questions, asking","about things you're unsure of")))__Question things__ that you're unsure about. If your manager makes a
+decision that you disagree with, don't be afraid to argue with her or
+question the premise upon which she made the decision. While this
+isn't a license to be an obstacle, being a "yes-man" isn't helpful to
+someone in a leadership position if you've got information or
+experience that she lacks.
+
+__Your manager is not clairvoyant__: only rarely will you find a
+person in an organization who __over__communicates, so don't hesitate
+to update your team's leader on what you're doing before she asks you
+what's going on. Drop her a quick note when you hit an obstacle, score
+a victory, need something, or expect something. Not only is this a
+great way to make sure your manager knows what you're up to, but we've
+seen crafty engineers take this technique to the extreme as a way to
+deal with micromanagement: if your manager keeps checking in on you,
+proactively sending her an email at the same frequency with which she
+checks in on you is a surefire way to get her to back off.(((range="endofrange", startref="ixch05asciidoc2")))(((range="endofrange", startref="ixch05asciidoc1")))
+
+These techniques work well when you're in the ideal organization, but
+what about when your organization is anything but ideal?
+
+[[the_reality_when_your_environment_is_an_]]
+=== How Things Usually Are
+
+
+[quote, Leo Tolstoy, Anna Karenina]
+__________________
+Happy families are all alike; every unhappy family is unhappy in its
+own way.footnote:[Anna Karenina principle,link:$$http://en.wikipedia.org/wiki/Anna_Karenina_principle$$[].]
+__________________
+
+
+((("average companies", id="ixch05asciidoc3", range="startofrange")))There are innumerable ways in which the environment in your company
+can work to prevent you from succeeding, but they can usually be
+divided into two major categories: bad people and bad organizations.
+
+[role="pagebreak-before"]
+[[your_life_under_a_bad_manager]]
+==== The Bad Manager
+
+((("average companies","bad managers in", id="ixch05asciidoc4", range="startofrange")))((("bad managers", id="ixch05asciidoc5", range="startofrange")))((("managers","bad", id="ixch05asciidoc6", range="startofrange")))It's hard to know where to start in describing the traits of a bad
+manager—entire movies and TV shows have been created solely to lampoon
+the bad managers of the world. Most of us have had at least one bad
+manager in our careers, and a bad manager can make life on even the greatest
+team a living hell, so we're going to cover just a few of the traits
+of a bad manager that typically affect pass:[<span class="keep-together">engineers</span>].
+
+((("failure","fear of, in bad managers")))((("fear of failure","and bad managers")))Fear of failure is one of the most common
+traits of bad managers. This insecurity tends to make them very
+conservative, which is antithetical to the work style of the typical
+engineer. If your manager doesn't want you to take risks, there is
+little opportunity for you to inject your own ideas into your product
+and you'll usually wind up implementing (by rote) the product 
+someone else designed.footnote:[Again, this is an
+acceptable way to write software; we just don't think it's a very
+interesting way for top-notch engineers to spend their
+time.]
+
+((("chain of command")))Oftentimes the insecure manager will insist on inserting herself into
+any interaction you have with people outside your team, thereby
+preventing you from speaking directly to other teams without "going
+through the chain of command." This kind of manager will consider any
+direct contact you make with anyone outside your team—especially
+another manager—to be akin to mutiny or insubordination. If you need
+anything outside your team or their organization, this manager expects
+you to go through her, which allows her to elevate her importance and
+subordinate you, thus giving her more power.
+
+((("communication","bad managers and", id="ixch05asciidoc7", range="startofrange")))((("knowledge, hoarding of", id="ixch05asciidoc8", range="startofrange")))Most of us grew up in school hearing the oft-repeated canard
+"knowledge is power." The bad manager is
+very much aware of this, but from a different angle: she wants to keep
+this power to herself and not share it with you, no matter how much it
+might help you to do your job. This manager hoards information and hides it from you as a way to make sure
+she can play a part in anything that involves that information, which
+not only keeps you from getting work done, but also helps her maintain
+her position of relevance and power no matter how much it slows down
+development.
+
+
+[[image_no_caption-id032]]
+image::images/dbtm_05in04.png[]
+
+By hoarding information and requiring that they be a conduit for
+information and communication, bad managers are also able to take credit for your
+successesfootnote:[Which is doubly frustrating
+because you managed to succeed in spite of their interference!] and
+blame you for your failures (and sometimes, their failures as
+well). In many cases, this kind of bad manager sees your existence
+solely as a means to get herself promoted, and she doesn't care about
+your career, much less your team's happiness.
+
+Our friend Susan had a terrible manager for a number of years, and her
+manager would often hand a new project off to Susan with no context,
+no information on how to get the project done, and no one to contact
+with questions. He would do this even if Susan had zero knowledge or
+context about the new task, because this forced her to rely on him for
+information as well as communication with other teams. Susan's manager
+didn't necessarily want Susan to fail: in fact, if he'd told Susan
+everything she needed to know about the project, it would have made
+Susan's life
+easier and more productive. On the other hand, he was most likely
+afraid that it would have been that much easier for her to circumvent him!
+Having the ability to directly contact relevant teams would have made
+them aware that Susan, and not her manager, was working on this
+project. Time and time again Susan would scramble to get up to speed
+on the new project, get it done, and then collapse, only to find out
+through the grapevine that her manager had taken credit for her work.(((range="endofrange", startref="ixch05asciidoc8")))(((range="endofrange", startref="ixch05asciidoc7")))
+
+In stark contrast to the servant leader we
+discussed in <<every_boat_needs_a_captain>>, the bad manager wants to
+know what you've done for him lately. And those low performers on your
+team?  They're not going anywhere as long as they don't grind your
+team to a screeching halt—it's too much work for the bad manager to
+deal with them.  It boils down to this: is your manager serving you?
+Or are you serving your manager? It should __always__ be the former.(((range="endofrange", startref="ixch05asciidoc6")))(((range="endofrange", startref="ixch05asciidoc5")))(((range="endofrange", startref="ixch05asciidoc4")))
+
+[[the_office_politician]]
+==== The Office Politician
+
+((("average companies","office politicians in")))((("office politicians")))((("poisonous people","office politicians as")))((("politicians, office")))While we're big proponents of trusting people, or at the very least
+giving them the benefit of the doubt, trusting the office politician can be a seriously
+career-limiting move.
+
+The office politician may be difficult to spot when you first meet him
+because he tends to be very good at managing relationships and dealing
+with people—he may be quite friendly at first. He usually does an
+exceptional job of managing up and an even better job of using his
+peers and subordinates as a means for
+self-promotion. He's quick to blame others, but
+even quicker to steal credit when given the opportunity. He's usually
+not directly confrontational, but instead prefers to tell you what you
+want to hear so that you'll think well of him. If he can't use you or
+manipulate you, he'll either ignore you or, if he sees you as a
+threat, try to undermine you. After you've worked with him for a
+while, it's easy to spot him: he spends more time __looking__
+impactful than actually __being__ impactful.
+
+We advise that you steer clear of the office
+politician: route around him where possible, but don't carelessly
+badmouth him to other people above him in the organization, because
+it's quite difficult to know who he has hoodwinked and who is wise to
+him. If you're the kind of person who is happy to keep your head down
+and focus on building interesting technology, you may want to rethink
+this strategy when there's an office politician around. If you don't put energy
+into getting promoted because you don't want to "play the game," you
+may find that the office politician gets promoted over you, in which
+case you've now got a bad
+manager __and__ an office politician. See
+<<manipulating_your_organization>> for more on this.
+
+[[the_bad_organization]]
+==== The Bad Organization
+
+((("average companies","and bad organizations", id="ixch05asciidoc9", range="startofrange")))((("bad organizations", id="ixch05asciidoc10", range="startofrange")))((("organizations, bad", id="ixch05asciidoc11", range="startofrange")))As companies grow, they develop bureaucracy and processes in an effort
+to manage profit, reduce risk, increase predictability, and support
+the massive weight of the organization itself. Over time, this
+bureaucracy can grow to a point where it prevents the company from
+succeeding. As with bad managers, much has been written about
+bad organizations, so
+we're only going to review a few examples of organizational issues
+that most often affect individual contributors.
+ 
+((("engineers","in bad organizations")))It's a simple fact that most companies are not
+engineering-focused. That is to say: engineers are a means to
+accomplish business goals that are typically not technical. This means
+the people running the company probably don't understand the technical
+underpinnings of their system, just the demands set upon them by the
+business, and so they wind up creating unrealistic demands on
+engineering. Even if a technically competent executive finds her way
+into this sort of company and fights to defend her organization,
+she'll frequently find herself replaced by someone who is willing to
+sacrifice the health and sanity of the employees to meet the needs of
+the business. Typically you'll see this directly in the form of
+unrealistic deadlines and lack of qualified technical people to get
+projects completed on time. You may have difficulty acquiring enough
+hardware to effectively run your product, or find your team spending
+weeks rewriting something when a hardware purchase costing only a few
+hundred dollars would have done the job. This is unfortunately typical
+of a company that doesn't value engineers and treats them like "work
+units" or "resources," giving them no voice in how the company
+operates.
+
+((("command and control")))The most egregiously bad organizations have ossified command and control
+structures that resemble fiefdoms. Years ago, our friend Terrence
+worked at a company that had strict rules on passing bugs between
+teams, and eventually another team created a bug that caused
+Terrence's product to run out of memory over the course of a few
+hours. Instead of emailing the team members who were responsible for
+this, or looking at their commit logs or source code, he stayed up all
+night reproducing the bug, gathering data, and building his
+case. Terrence sent this email to his manager, who sent the email to
+his director, who emailed the director of the team that created the
+bug. This director emailed that team's manager, who figured out who on
+his team was responsible for the software in question. More than 10
+days later, Terrence found himself in a meeting with two managers, two
+directors, and three other engineers discussing the bug and whether
+they could get it fixed in time for their next launch. Sound absurd?
+Sadly, this sort of thing happens all the time. In contrast, during
+Fitz's first week at Google he found a typo in Gmail. He opened the
+source code, fixed the typo, then emailed a patch to the Gmail team,
+who thanked him heartily.
+
+((("hierarchy")))((("organizational hierarchy")))Many companies are filled with people who are obsessed with
+organizational hierarchy.footnote:[ In addition, in
+many dysfunctional companies, people are more concerned with their
+title than being productive or enjoying their job.] This results in
+endless power struggles, with managers often preventing engineers from
+transferring to another team in order to protect their own team from
+losing a valuable contributor—even when the right thing to do for both
+the company and the engineer is to let the transfer happen.
+
+Has your company ever treated you like a naughty child? Are you unable
+to get to innocuous external websites due to an overzealous company
+firewall? Do you have to carefully account for every moment of your
+day with a detailed timecard? Some organizations will even go so far as to
+measure your productivity by meaningless (and usually wildly
+inaccurate) methods such as the number of lines of code you write
+every week.footnote:[Shouldn't we get even more
+credit for deleting lines of code?]
+
+
+[[image_no_caption-id033]]
+image::images/dbtm_05in05.png[]
+
+Still other organizations will breed employees who judge their success
+not by the number and quality of products they ship, but by the number
+of meetings they're invited to attend.
+
+Lastly, your company might lack important ((("design by committee")))things like focus, vision,
+or direction. This is often the result of too many masters, or "design
+by committee," which results in conflicting
+orders being sent down to the rank and file. So you wind up moving in
+ever-tighter circles instead of in a coherent direction.(((range="endofrange", startref="ixch05asciidoc11")))(((range="endofrange", startref="ixch05asciidoc10")))(((range="endofrange", startref="ixch05asciidoc9")))
+
+Many bad companies are guilty of
+these transgressions, and much, much more. Still, these companies are
+composed of people, and there are a number of tips and tricks you can
+put to bear to get people to help you out.(((range="endofrange", startref="ixch05asciidoc3")))
+
+[[manipulating_your_organization]]
+=== Manipulating Your Organization
+
+[quote,Morpheus]
+____
+
+This is a sparring program, similar to the programmed reality of the
+Matrix. It has the same basic rules, rules like gravity. What you must
+learn is that these rules are no different than the rules of a
+computer system. Some of them can be bent. Others can be
+broken. Understand? Then hit me if you can.
+____
+
+
+((("organizational manipulation","methods for", id="ixch05asciidoc12", range="startofrange")))Much like the sparring program, companies are made of rules: some of
+them can be bent, and others can be broken. If you focus on the way
+things __should__ be in your organization, you'll usually find nothing
+but frustration and disappointment. Instead, acknowledge the way
+things __are__, and focus on navigating your organization's structure
+to find the mechanisms you can use to get things done and to carve out
+a happy place for yourself in your company. Whether you're in a good
+organization or a bad one, there are a number of strategies that we've
+found to be quite effective at getting things done.
+
+[[its_easier_to_ask_for_forgiveness_than_p]]
+==== "It's Easier to Ask for Forgiveness Than Permission"footnote:[((("Hopper, Grace Murray")))Widely attributed to Admiral Grace Murray Hopper, coinventor of COBOL and an incredibly witty computer scientist.]
+
+((("forgiveness, permission vs.")))((("organizational manipulation","asking for forgiveness instead of permission")))((("permission, forgiveness vs.")))First and foremost, know what you can get away with in your
+organization—while asking for permission does give you an opportunity
+to push responsibility onto someone else, it also creates an
+opportunity for someone to tell you "no." It's important to know what
+you can get away with in your organization without explicitly getting
+approval from one of your superiors, but wherever possible, we advise
+you to do what you think is right for the company.
+
+Even if you're prepared to beg for forgiveness, choose your battles
+wisely—every time you have to plead your case for something or go up
+against someone else in your company, you're spending your political
+capital. If you spend all your capital winning a bunch of battles that
+just don't matter, you're going to find that you have nothing left in
+your account when it comes to the important things. Be strategic and
+fight for things either that matter or that you're pretty sure you
+have __some__ chance of winning. Blowing all your capital on a battle
+you know you can't win is pointless, stressful, and career limiting
+for no good reason.  For more details, see <<your_political_bank_account>>.
+
+If you do decide to go the "beg for forgiveness" route, it's useful to
+have colleagues and friends in your company that you can use as a
+sounding board for your ideas—especially your riskier ideas.
+
+These people should have a good sense of what you can and can't get
+away with in the company as well as which ideas just won't fly.
+
+When someone in marketing suggested that Fitz raise awareness of his
+Data Liberation team among the executives at Google, Fitz bounced an
+idea off his sounding-board colleagues: give Data Liberation–branded
+bolt cutters and locked boxes of swag (with the keys locked inside, of
+course) to the execs. He decided to go ahead with it and it was a big
+hit. A few years later, when Fitz was contemplating printing up some,
+shall we say, "off-color" swag, the same sounding board expressed some
+concern that the plan was too risky and Fitz decided to nix that
+plan. If you're going to act without asking permission, it's good to trust your instincts,
+but a second opinion from a trusted source is
+invaluable.
+
+[[if_you_cant_take_the_path_make_the_path]]
+==== If You Can't Take the Path, Make the Path
+
+[[image_no_caption-id034]]
+image::images/dbtm_05in06.png[]
+
+((("ideas, getting others to accept")))((("organizational manipulation","creating your own path")))((("path, creating your own")))Another strategy for making change in a company is to find ways to get
+your ideas accepted at a grassroots level. If you can get enough
+people to buy into your idea or use a particular product, it will
+often be too late for the bureaucracy to squash you, and management
+will be forced to notice and either accept it or act against it (which
+costs them, yep, you guessed it, political capital!). This is a
+strategy that many engineers used for years, for example, to sneak
+open source tools into their daily workflow in order to make their
+lives a lot more pleasant.
+
+[[note-6]]
+.Persuasion by proxy
+[NOTE]
+====
+
+((("persuasion")))If you're trying to persuade someone, a great way to increase your
+chances of success is to find several people who agree with you and
+get __them__ to drop your idea (or proposal or request) in a
+conversation with that person. Even if your target is totally aware of
+what's going on, basic human psychology dictates that she'll give more
+weight to the idea because it's hitting her from multiple directions
+and not just from you.
+
+====
+
+((("credit for ideas")))Ideas in particular are fascinating things: they can go a long way if
+you don't care who gets the credit! Sometimes you'll find that people
+will spread an idea only if they can take credit for the idea as their
+own, so you need to decide what's more important: that you get the
+credit, or that the idea spreads. Despite the fact that it may pain
+you to hear your words coming out of another (perhaps despised)
+person's mouth, it's often the most effortless way for an idea to
+travel. We've seen this happen time and time again in companies large
+and small: the lofty concepts and ideas coming from an executive's
+mouth originate from someone in her organization. Think about the
+broad audience that your idea—which would otherwise go unheard—can
+reach in this case!
+
+((("bad habits, eliminating")))((("habits, bad")))Just as with individuals, eliminating bad habits in a company is
+difficult. One of Ben's early teachers used to have a saying: "It's
+impossible to simply stop a bad habit; you need to __replace__ it with
+a good habit." Anyone who's ever tried to quit smoking is intimately
+familiar with this phenomenon. Corporations are the same way—if you're
+going to successfully eliminate a bad habit, find a better one to
+replace it. Don't like a certain weekly meeting? Replace it with a
+different kind of meeting or alternate (more effective) ritual. Don't
+like a useless reporting process? Don't complain about it; write a
+useful one that's too compelling to ignore. Once you've found a good
+replacement habit, you need to overcome the inertia of change
+aversion, so we recommend offering to "try" your new ritual for a few
+weeks. This makes the new thing seem less permanent, less scary, and
+if it turns out that everyone likes the new ritual, by the time your
+"trial" period is over, they've forgotten that it was a trial in the
+first place.
+
+[[learn_to_manage_upward]]
+==== Learn to Manage Upward
+
+((("managing upward")))((("organizational manipulation","managing upward")))Whether you're a manager or an individual contributor, you need to
+spend some of your time managing
+upward. By this we mean you need to try to ensure that both your
+manager and the people outside your team are not only aware of what
+you're doing, but are aware that you're doing it well. Some people
+find this mode of "selling yourself" distasteful, and it may remain
+so, but the benefits of doing this are huge.
+
+As we'll mention in <<usersare_people_too>>, you need to underpromise
+and overdeliver whenever possible. We're not advocating that you
+sandbag all your estimates and pad out your deadlines, but wherever
+you can, try to avoid promising things that you can't deliver, even if
+it means saying "no" more often than you'd like. If you constantly
+miss deadlines or drop features, other people in the company will have
+less of a reason to trust you and will most likely pass over you when
+they're looking for someone to get something done.
+
+We recommend that you focus your energies on __launching products__
+over just about everything else. Shipping things gives you
+credibility, reputation, and political capital more than just about
+anything else in a company. Launching your product is a high-visibility event that shows you're
+accomplishing something. As tempting as it might be to spend a ton of
+time cleaning up your code base and refactoring things, we've learned
+from experience that if you dedicate more than half of your time to
+this kind of defensive work, it's hardly valued at all by anyone
+outside of your team, including your superiors. You will then find
+yourself in the somewhat embarrassing position of having almost
+nothing (politically) important to show for your
+time.footnote:[We're not saying that preventing
+future problems is unimportant, just that it's considerably more
+difficult to impress people outside your team with that sort of work.]
+This is not only a good way to get no recognition, but also a
+good way to get your product
+canceled.
+
+[[offensive_versus_defensive_work]]
+."Offensive" Versus "Defensive" Work
+****
+
+((("defensive work")))((("offensive work, defensive work vs.")))((("work, offensive vs. defensive")))When Ben first became a manager, it seemed like his team's
+productivity was being crushed under a mountain of accrued
+technical debt. He decided that the team's top
+priority was to spend a long time doing nothing but paying back this
+debt. His superiors gave a cursory nod to this plan and the work
+began. Things didn't go well. Despite the prior approval, Ben's
+manager began to get annoyed and impatient after a few months—why was
+the team getting "nothing done"? Ben's team was actually quite
+productive and he tried to show the enormous amount of debt that had
+been paid back. But it turns out there's just no way this sort of work
+can impress someone; at an emotional level it's just fundamentally
+boring.
+
+After this bad experience, Ben began to categorize all work as either
+"offensive" or "defensive." __Offensive__ work is typically effort
+toward new user-visible features—shiny things that are easy to show
+outsiders and get them excited about, or things that noticeably
+advance the appeal of a product (e.g., improved UI, faster response
+times). __Defensive__ work is effort aimed at the long-term health of a
+product (e.g., code refactoring, feature rewrites, schema changes,
+data migration, or improved emergency monitoring). Defensive
+activities make the product more maintainable, stable, and
+reliable. ((("political credit","defensive work and")))And yet, despite the fact that they're absolutely critical,
+you __get no political credit__ for doing them. If you spend all your
+time on them, people perceive your product as holding still. And to
+make wordplay on an old maxim: "Perception is nine-tenths of the
+law."
+
+We now have a handy rule we live by: a team should never spend more
+than one-third to one-half of its time and energy on defensive work, no matter how much technical debt there
+is. Any more time spent is a recipe for political suicide.
+
+
+****
+
+
+[[luck_and_the_favor_economy]]
+==== Luck and the Favor Economy
+
+((("favor economy")))((("luck, creating")))((("organizational manipulation","luck and the favor economy")))Regardless ((("Luck Factor, The (Wiseman)")))((("Wiseman, Richard")))of the kind of company you work in, believe it or not, it's
+not that hard to create a sort of luck for yourself. Richard
+Wiseman, author of __The Luck Factor__,footnote:[Published by Miramax (ISBN:
+978-1401359416).] wrote about an
+experiment he performed to test the ability of people to spot
+chance
+opportunities:footnote:[link:$$http://bit.ly/luck_skill$$[]]
+
+[quote]
+____
+
+I gave both lucky and unlucky people a newspaper, and asked them to
+look through it and tell me how many photographs were inside. On
+average, the unlucky people took about two minutes to count the
+photographs, whereas the lucky people took just seconds. Why? Because
+the second page of the newspaper contained the message: "Stop
+counting. There are 43 photographs in this newspaper." This message
+took up half of the page and was written in type that was more than
+2in high. It was staring everyone straight in the face, but the
+unlucky people tended to miss it and the lucky people tended to spot
+it.
+____
+
+
+((("opportunities, creating/noticing")))He then goes on to note that lucky people "are skilled at creating and
+noticing chance opportunities." We think the same tenet
+applies to creating opportunities in companies: if you perform your
+job to the letter of the law and focus only on getting your own work
+done to the exclusion of all else, there will be few chance
+opportunities for you. If you help others get their jobs done when
+given the chance, even when it's not part of your job, there's no
+guarantee (nor should there be a "tit for tat" expectation) that
+they'll return the favor, but many people will gladly repay the favor
+in the future if given the chance.
+
+[[your_political_bank_account]]
+==== Your Political Bank Account
+
+((("favor economy")))((("organizational manipulation","and political bank accounts")))((("political credit","and favor economy")))Every company has a gray-market favor economy that lives outside the
+org chart, and those favors are one of the main things that you can
+use to fill up your political bank account. There's usually something
+you can quickly and easily do that benefits your company but is
+someone else's job, and if you keep your eyes open for the chance to
+do these things (in many cases, someone will come right out and ask
+you to do something for them), you earn a bit of credit for your bank
+account in this favor economy. Think of these credits as a series of
+small bets: some will never pay you back, others will pay even money,
+and still others will pay __enormous__ dividends. It's hard to know
+which bets will pay off, but one thing that will pay off over time is
+that people will remember you as the person who helped them out in a
+jam. Later on, when you're in a jam and you give them a call, they're
+going to be considerably more likely—even eager—to help you out than
+if you gave them a big fat "not my job" response when they came
+looking for help. Even if you never get "paid back" you'll often learn
+something new in the process of helping someone, and it feels good to
+help other people, so what do you have to lose other than a little
+time and effort?
+
+[role="pagebreak-before"]
+This same political bank account is what you'll tap when you need to
+ask a favor of someone else in the company. It may be that you need
+someone to do something for you, or you do something that steps on
+someone else's toes, or you even just disagree with someone else in
+your company. It's incredibly useful to develop an awareness of when
+you're gaining political capital, and when you're spending it. If you
+fail to develop this awareness, there's a good chance that your
+account will be drained before you know it, leaving you powerless in
+your organization (and your career).
+
+[[image_no_caption-id035]]
+image::images/dbtm_05in07.png[]
+
+One of the most interesting things about the favor economy is that your bank account doesn't just empty out
+when you leave a job or a company—you'll frequently be able to call on
+folks at your company for a hand even after you've left. This is all
+the more reason that you should never burn bridges when you leave a
+company, no matter how tempting it might seem at the
+time.footnote:[Most industries are a lot smaller
+than you think, and people talk more than you think, so the person you
+stick it to today might very well be the one who kills your job
+application 10 years from now. Unless you're planning to move to a
+desert island to take up basket weaving, burning bridges will almost
+always be a costly mistake. Friends come and go…enemies
+accumulate.]
+
+[[get_promoted_to_a_position_of_safety]]
+==== Get Promoted to a Position of Safety
+
+((("job security")))((("organizational manipulation","getting promoted to a position of safety")))((("promotion to position of safety")))((("safety, promotion to position of")))If you're like most engineers, you expect a logical promotion process
+where all it should take to get promoted is to excel at your
+job. Unfortunately, this world exists only in the most enlightened
+companies. In most companies you need to put some amount of effort
+into "playing the promotion game" to get yourself promoted (usually
+__in addition__ to excelling at your job).
+
+[[image_no_caption-id035b]]
+image::images/dbtm_05in08.png[]
+
+If you're happy with your job, your salary, and your team, you might
+choose to not play the promotion game and settle into your job at
+whatever title and job level you're already at. This can leave you
+vulnerable in many situations—for example, your company reorganizes
+and you get shuttled to a new team, you get a bad manager, or you wind
+up under the thumb of the office politician.
+
+The higher in the organization you can get (either as an individual
+contributor or as a manager), the more control you'll have over your
+destiny inside the company. Putting a modicum of effort toward getting
+promoted when you're comfortable in your position is a great way to
+invest in your security and happiness when something bad happens to
+your company or team. Keep track of your accomplishments and use them
+in your self-assessment. Update your
+résuméfootnote:[((("résumés")))Contrary to our general advice in
+this book, your résumé is __exactly__ the place where you want to
+exercise your personal ego and eschew humility. While we discourage
+dipping into the realm of fiction on your résumé, it's one place where
+you should toot your own horn, and toot it loudly.] and share it with
+your manager or promotion committee. Read up on the promotion process
+and talk to your manager about what boxes you need to tick off to get
+promoted, and methodically work to tick off every box. Even if getting
+promoted is subjective and nondeterministic, there's a lot you can do
+to increase the odds in your favor.
+
+[[seek_powerful_friends]]
+==== Seek Powerful Friends
+
+((("friendships","with people in positions of power")))((("organizational manipulation","seeking powerful friends")))((("powerful friends, seeking")))Every company has a "shadow" org chart that is
+unwritten but through which power and influence flow. There are only a
+few different types of people who make up the nodes in this
+graph.
+
+__Connectors__ are people((("connectors"))) who know people in every corner of the
+organization, and if they don't know someone on a team, they can find
+the right person for you. Sometimes getting something done is just a
+matter of finding the right person to speak to, and the connector can
+help you find that person.
+
+__Old-timers__ may not ((("old-timers")))have a high rank or fancy title, but they
+typically carry a lot of institutional
+knowledge and wield a lot of influence just because they've been
+around for a long time. These are great people to go to when you're
+trying to understand why the organization works in a certain way, or
+if you need a supporter that a lot of people respect.
+
+People most often talk about this in((("administrative assistants"))) jest, but __administrative
+assistants__ wield an enormous amount of power and influence in an
+organization because they are agents of the executives they work
+for. More importantly, they usually do an incredible amount of work to
+keep things running smoothly, so anger them at your own (and your
+career's) peril. And __never__ pass up a chance to be nice to an
+administrative assistant—they are the cornerstone of the Favor
+Economy.
+ 
+
+[[how_to_ask_a_busy_executive_for_anything]]
+==== How to Ask a Busy Executive for Anything…via Email
+
+((("emails, effective", id="ixch05asciidoc13", range="startofrange")))((("executives, emails to", id="ixch05asciidoc14", range="startofrange")))((("organizational manipulation","effective emailing", id="ixch05asciidoc15", range="startofrange")))Work in any big company long enough, and you'll find yourself in a
+position where you need to email an executive (or any busy person you
+don't know) to ask him for something. Perhaps you need something for
+your product or team, or you are looking to right a wrong. Whatever
+the case, this is likely the first time you've ever communicated with
+this person. In this situation, almost everyone makes the same rookie
+mistake: they ramble, rant, and rave.
+
+Fitz (while working at Apple) bought his mom a lemon of an iMac more
+than 14 years ago, and on the advice of a coworker sent a "short"
+email to Steve Jobs.footnote:[Fitz initially penned a
+mostly incoherent rant to Steve, which would have gotten him
+absolutely nothing (well, other than a pink slip). His coworker
+advised that Fitz keep it short and to the point, and to close with a
+call
+to action.] This email served as a rough prototype of how to
+effectively ask an executive for help:
+
+[role="pagebreak-before"]
+----
+Date: Thu, 1 Feb 2001
+
+To: sjobs@apple.com
+
+Subject: Terrible customer experience with our hardware—what can I do?
+
+I would deeply appreciate if you could advise me on what I can do to
+address this problem. This is embarrassing—both for Apple and for
+myself.
+
+I purchased an iMac for my mother last Mother's Day—she is the
+Vice-Principal of a Montessori school in New Orleans and uses an old
+Macintosh at school. She was very excited to get the iMac, and has
+even gotten funds for her school to buy iMacs for their lab.
+
+However, the strawberry iMac I bought for her has turned out to be a
+total lemon.
+
+- In July, it went to sleep and never woke up. She brought it to an
+  Authorized Apple Dealer and they diagnosed the problem as a failed
+  logic board and replaced it.
+
+- She brought it home, plugged it in, it started to boot, then she got
+  a sad mac and the tones of death. She brought it back to the
+  dealer. They diagnosed the problem as a faulty analog board and
+  replaced it.
+
+- In September, I finally convinced her to use the sleep function
+  again (in lieu of shutdown/boot). The iMac wouldn't wake
+  up. Completely unplugging the computer and plugging it back in
+  eventually got it to boot again. We have disabled sleep altogether
+  at this point.
+
+- In December, the monitor started flickering colors from yellow to
+  green to blue. She brought it back to the dealer yesterday, and
+  that's where it is now.
+
+So that's where I am today. My mother thinks I've pulled some sort of
+sick prank on her, is telling everyone she knows that her iMac is
+junk, and no one I know that works at Apple knows what to do about it.
+
+Is there anything that I can do to get her a working iMac (short of
+purchasing another one)?
+
+Respectfully,
+
+-Fitz
+----
+
+Less than 20 hours later Fitz received a call from someone who worked
+for Steve, and two weeks later his mom had a new (non-lemon-flavored)
+iMac.
+
+Here's the big secret: when given a chance to help right a wrong, more
+often than not people in positions of power would __love__ to do the
+right thing—even busy executives (many of them enjoy righting a wrong,
+and absolutely all of them understand the value of gaining a little
+extra political capital). Unfortunately, the email inbox of these
+people looks like a never-ending distributed-denial-of-service attack,
+and if they encounter an email from someone they've never met before
+that is 3,000 words of solid text with no paragraph breaks, the odds
+are good that they're going to read 15 words in, press the Delete key,
+and then move on to the next email.
+
+If, however, they can fix something by reading an email in 10 seconds
+and waving a magic wand (i.e., mailing one of their minions to Make It
+Happen), they'll likely do it. They spend a few seconds delegating and
+get a big pile of political capital from you in return.
+
+After years of trial and error, we've found that shorter emails are
+even more likely to get a response. 
+
+((("bullet points, in email")))((("Three Bullets and a Call to Action technique")))We call this the "Three Bullets and a Call to Action" technique, and it will drastically increase your chances of
+getting action—or at the very least, a response—from just about anyone
+you email out of the blue asking for something,footnote:[Warning: if you're
+peanut-butter-hula-hoops crazy, this isn't going to help get you an
+interview with the President of the United States, a purchase order
+from Chevy for your laser-powered windshield wiper invention, or lunch
+with the director of sales for Whole Foods. This technique only
+applies to realistic requests.] not just an
+executive.
+
+A good Three
+Bullets and a Call to Action email contains (at __most__) three bullet
+points detailing the issue at hand, and one—__and only one__—call to
+action. That's it, nothing more—you need to write an email that can
+be easily forwarded along. If you ramble or put four completely
+different things in the email, you can be certain that they'll pick
+only one thing to respond to, and it will be the item that you care
+least about. Or worse, the mental overhead is high enough that your
+mail will get dropped entirely.
+
+The bullet points should be short sentences (each one should fit on
+a single line without wrapping), and the call to action should be as
+short as possible. If you want a reply from __anyone__, make it easier
+for the person to reply inline, preferably with a one (or two) word
+answer. Don't ask half a dozen questions in one paragraph—limit
+yourself to a single question per paragraph, or ideally, a single
+question per email. ((("HRT (humility, respect, trust)","effective emails and")))Lastly, your email should be loaded with HRT:
+polite, respectful, and devoid of grammar mistakes and spelling
+errors. If you positively cannot help yourself and simply must include
+more background or information, put it at the very end of your email
+(even after your signature), and label it clearly as "More details" or
+"Background."
+
+
+[[image_no_caption-id036]]
+image::images/dbtm_05in09.png[]
+
+In hindsight, we consider Fitz's prototype email to be a bit too
+wordy—if we were writing it today, it would probably look more like
+this:
+
+[role="pagebreak-before"]
+----
+Date: Thu, 1 Feb 2001
+
+To: sjobs@apple.com
+
+Subject: Bad customer experience—can you help?
+
+- I purchased an iMac for my mother, a school administrator. She was
+  very excited to get the iMac and has even gotten funds for her
+  school to buy more iMacs for their lab.
+
+- In July, Apple replaced a faulty logic board, and a month later, the
+  analog board.
+
+- In September it stopped sleeping correctly, and in December the
+  monitor started to fail. It's currently at the dealer.
+
+My mother is telling everyone she knows that her iMac is junk, and no
+one I know that works at Apple knows what to do about it.
+
+Is there anything that I can do to get her a working iMac?
+
+Respectfully,
+
+-Fitz
+----
+
+This rewritten email eliminates a lot of the editorial color, but is
+now readable by a busy executive in 10 seconds.(((range="endofrange", startref="ixch05asciidoc15")))(((range="endofrange", startref="ixch05asciidoc14")))(((range="endofrange", startref="ixch05asciidoc13")))
+
+In the course of our careers, we've used all of these techniques over
+and over again to get things done. But sometimes all the tips and
+tricks in the world aren't enough to fix a job.
+
+[[plan_b_get_out]]
+=== Plan B: Get Out
+
+((("bad organizations", id="ixch05asciidoc16", range="startofrange")))((("organizational manipulation","quitting a bad organization", id="ixch05asciidoc17", range="startofrange")))((("quitting", id="ixch05asciidoc18", range="startofrange")))In all the years that we've spoken about getting things done inside
+bad organizations and working with bad people, we always get people
+who come up to us after our talks and, exasperated, tell us they've
+tried __everything__ and just can't make any improvements or get
+anything done, so what can they do? The unfortunate answer here is a
+simple one: there's probably nothing else you __can__ do. Don't be a
+victim. Get the heck out of there.
+
+If you can't change the system, there's no point in continuing to put
+energy into changing it. Instead, put energy into leaving it: update your résumé,
+and start asking your close friends if they know of any openings for
+you at other companies. Train yourself in new things. One of the great
+things about being a knowledge worker in this day and age is that good
+ones are in high demand, and that gives you the ability to control
+your own future.
+
+Once you realize you have this control, it's incredibly liberating. If
+you poke around and discover that you have other job options available
+to you, you may discover that you suddenly get a lot more things done
+at your work (under a lot less stress) because it's not the end of the
+world if your((("Tan, Chade-Meng"))) current employer fires you! We found this blog postfootnote:[link:$$http://bit.ly/do_right_thing$$[]]
+from Chade-Meng Tan, Google's longtime "Jolly
+Good Fellow," incredibly inspiring and it has greatly influenced how
+we do our own jobs:
+
+[quote]
+____
+Do the right thing, wait to get fired
+
+New Google employees (we call "Nooglers") often ask me what makes me
+effective at what I do. I tell them only half-jokingly that it's very
+simple: I do the Right Thing for Google and the world, and then I sit
+back and wait to get fired. If I don't get fired, I've done the Right
+Thing for everyone. If I do get fired, this is the wrong employer to
+work for in the first place. So, either way, I win. That is my career
+strategy.
+____
+
+
+If you're prepared and know your options, you're the most liberated
+person in the world. Don't be afraid to get out. We've been giving
+this advice after our talks for over five years now, and are happy to
+report that several people have emailed us to let us know that they
+heeded our advice and are now doing jobs that they love. And these
+emails are some of the best we've ever gotten—here's one of our
+favorites(((range="endofrange", startref="ixch05asciidoc18")))(((range="endofrange", startref="ixch05asciidoc17")))(((range="endofrange", startref="ixch05asciidoc16")))(((range="endofrange", startref="ixch05asciidoc12"))):
+
+[[note-6d]]
+----
+Date: Thu, 1 Dec 2011
+Subject: Thank you note
+From: Alex Mrvaljevich
+To: Brian Fitzpatrick
+
+Hello Brian!
+
+You probably don't remember me, but you gave me the best two pieces of
+career advice i have ever gotten, and changed my life.
+
+I attended your tech talk @ Google IO 2010 and approached you after the
+talk to ask about advice on my current work situation. Quite simply you
+told me to "get the hell out" so i sent you my CV as Project Manager; After
+this you let me know that google RARELY hires non-technical project
+managers.
+
+Because of that i had to think long and hard about my career: Whatever
+Google's policy is, majority of companies follow suit.
+
+Changing career tracks was my only option, my closest bet was Product
+Management. Studied my ass off and "got the hell out" not only of the
+company I was in, but also of the country (There aren't a lot of
+Product Management jobs in Venezuela), it ended up being the best move
+in my life...
+
+Now because of that move I just landed an amazing job as Product Lead in
+Japan, and am moving to Kobe in February.
+
+I promised myself if things ever turned around because of that piece of
+advice I would send you a thank you note, so here it is:
+
+Thank you.
+
+Alex
+----
+
+[[all_is_not_lost]]
+=== All Is Not Lost
+
+All this talk about quitting or waiting to get fired doesn't mean that
+if you're unhappy in your job you should dust off your résumé and hit
+the streets. On the contrary, your first objective should be to make
+the changes necessary to be happy and accomplish your goals at your
+job, and this chapter has given you a lot of the tools you'll need to
+do that. If you don't put the effort into understanding how to
+navigate your organization, you're leaving a huge part of your destiny to chance.(((range="endofrange", startref="ixch05asciidoc0")))
+
+

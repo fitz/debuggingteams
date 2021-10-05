@@ -1,0 +1,9 @@
+[[mission_statement]]
+[preface]
+== Mission Statement
+
+The goal of this book is to help people spend more time creating and
+less time fighting—by improving their ability to collaborate with
+other people.
+
+

@@ -1,0 +1,1289 @@
+
+[[every_boat_needs_a_captain]]
+== Every Boat Needs a Captain
+
+((("leaders", id="ixch03asciidoc0", range="startofrange")))Even if you've sworn on your mother's grave that you'll never become a
+"manager," at some point in your career you're going to accidentally
+trip and fall into a leadership position. This chapter will help you
+understand what to do when this
+happens.footnote:[Even if you're an individual
+contributor and not anywhere near a leadership position, this chapter
+will help you better understand your manager.]
+
+There are dozens of books already written for managers on the topic of
+management, but this chapter is for individual contributors who find
+themselves in an unofficial position of leadership. Most people fear
+becoming managers for various reasons, yet no team can function
+without a leader. We're not here to attempt to convince you to become
+a manager (even though we're both managers now!), but rather to help
+show why teams need leaders, why people typically fear becoming
+managers, and why the best leaders work to serve their team using the
+principles of humility, respect, and trust. Beyond that, we'll delve
+into leadership patterns and antipatterns, and motivation.
+
+Understanding the ins and outs of leadership is a vital skill for
+influencing the direction of your work. If you want to steer the boat
+for your project and not just go along for the ride, you need to know
+how to navigate or you'll run yourself (and your project) onto a
+sandbar.
+
+[[nature_abhors_a_vacuum]]
+=== Nature Abhors a Vacuum
+
+((("leaders","need for")))A boat without a captain is nothing more than a floating waiting
+room—unless someone grabs the rudder and starts the engine, it's just
+going to drift along pass:[<span class="keep-together">aimlessly</span>] with the current. A project is just
+like that boat: if no one pilots it, you're left with a group of geeks
+just sitting around waiting for something to pass:[<span class="keep-together">happen</span>].
+
+
+[[image_no_caption-id015]]
+image::images/dbtm_03in01.png[]
+
+Whether officially appointed or not, __someone__ needs to get into the
+driver's seat if your project is ever going to go anywhere, and if
+you're the motivated, impatient type, that person might be you. You
+may find yourself sucked into helping your team resolve conflicts,
+make decisions, and coordinate people. It happens all the time, and
+often by accident. You never intended to become a "leader," but
+somehow it happened anyway. Some people refer to this affliction as
+"manageritis."
+
+[[deprecated_manager]]
+=== Manager Is a Four-Letter Word
+
+((("leaders","and managers", id="ixch03asciidoc1", range="startofrange")))((("managers","and leaders", id="ixch03asciidoc2", range="startofrange")))The present-day ((("managers","origins of")))concept of the pointy-haired manager is partially a
+carryover, first from military hierarchy and later adopted by the
+((("Industrial Revolution")))Industrial
+Revolutionfootnote:[In Europe, it started in the
+18^th^ century and in the United States, in the 19^th^ century.]—more than
+100 years ago! Factories started popping up everywhere, and they
+required (usually unskilled) workers to keep the assembly lines
+moving. Consequently, these workers required supervisors to manage
+them, and since it was easy to replace these workers with other people
+who were desperate for a job, the managers had little motivation to
+treat their employees well or improve conditions for them. Whether
+humane or not, this method worked well for many years when the
+employees had nothing more to do than perform rote tasks.
+
+Managers frequently treated employees in the same way that cart
+drivers would treat their mules: they motivated them by alternately
+leading them forward with a carrot, and, when that didn't work,
+whipping them with a stick. This "carrot and stick" method of management survived ((("scientific management")))((("taylorism")))the
+transition from the factoryfootnote:[ For more
+fascinating information on optimizing the movements of factory
+workers, read up on Scientific Management or Taylorism, especially its
+effects on worker morale.] to the modern office, where the stereotype
+of the hard-ass manager-as-mule-driver flourished in the middle part
+of the 20^th^ century when employees would work at the same job for
+years and years (frequently relying on their pension as well).
+
+This continues today in some industries—even in industries that
+require creative thinking and problem solving—despite numerous studies
+suggesting that the anachronistic carrot and stick is
+ineffectivefootnote:[link:$$http://www.ted.com/talks/dan_pink_on_motivation.html$$[]]
+and harmful to the productivity of creative people. While the
+assembly-line worker of years past could be trained in days and
+replaced at will, knowledge workers can take __months__ to get up to
+speed on a new team. Unlike the replaceable assembly-line worker,
+these people need nurturing, time, and space to think and __create__.
+
+[[leader_is_the_new_manager]]
+==== "Leader" Is the New "Manager"
+
+((("leaders","as new manager", id="ixch03asciidoc3", range="startofrange")))Most people still use the title "manager" despite the fact that it's
+often an anachronism. We think the term __manager__ should be
+eliminated and the term __leader__ should be used instead. While we're
+hardly members of the stalwart, politically correct crowd, the word
+__manager__ has become a four-letter word—a role whose very existence
+encourages new managers to __manage__ their __reports__. Managers wind
+up acting like parents,footnote:[If you have kids,
+the odds are good that you can remember with startling clarity the
+first time you said something to your child that made you stop and
+exclaim (perhaps even aloud): "Holy crap, I've become my mother."] and
+consequently employees react like children. ((("HRT (humility, respect, trust)","leadership and")))((("trust","leadership and")))To frame this in the
+context of HRT: if the manager makes it obvious that she trusts her
+employee, the employee feels positive pressure to live up to that
+trust. It's that simple. A leader forges the way for a team, looking
+out for their safety and well-being, all while making sure their needs
+are met. If there's one thing you remember from this chapter, make it
+this:
+
+[quote]
+____
+Traditional  managers worry  about  how to  get  things done,  while
+leaders worry  about what things get  done…(and trust  their team to
+figure  out  how  to  do it).
+____
+
+
+
+[[image_no_caption-id016]]
+image::images/dbtm_03in02.png[]
+
+Fitz had a new engineer join his team a few years ago. Jerry's last
+manager (at a different company) was adamant that Jerry be at his desk
+from 9:00 to 5:00 every day, and assumed that if Jerry wasn't there,
+Jerry wasn't working enough (which is, of course, a ridiculous
+assumption). On his first day working with Fitz, Jerry came to Fitz at
+4:40 p.m. and stammered out an apology that he had to leave 15 minutes
+early because he had an appointment that he had been unable to
+reschedule. Fitz looked at him, smiled, and told him flat out, "Look,
+as long as you get your job done, I don't care __what__ time you leave
+the office." Jerry stared blankly at Fitz for a few seconds, nodded,
+and went on his way. Fitz treated Jerry like an adult, Jerry always
+got his work done, and Fitz never
+had to worry about Jerry being at his desk, because Jerry didn't
+__need__ a babysitter.
+
+((("responsibility","leadership and")))Being a "leader" doesn't necessarily mean you have ultimate
+responsibility for absolutely everything. There are different types of
+leadership, some technical and some personal. In the software
+development world, there are two distinct roles (and titles) for
+people leading a team: TL (tech lead) and TLM (tech lead manager).footnote:[We
+use the word __manager__ here to mean nothing more than "has people
+who are reporting to her," as opposed to "must bark commands at
+people."] A TL is typically responsible for the technical direction
+for all (or part) of a product, while a TLM is responsible for the
+technical direction for all (or part) of a product in addition to the
+careers and happiness of the people on the team. This enables those
+who want to focus on leading a project to avoid the people management
+part of being a leader if they want to.(((range="endofrange", startref="ixch03asciidoc3")))
+
+[[the_only_thing_to_fear_is_hellip_well_ev]]
+==== The Only Thing to Fear Is…Well, Everything
+
+((("leaders","reasons not to become")))Aside from the general sense of malaise that most people feel when
+they hear the word __manager__, there are a number of reasons that
+most people don't want to become managers. The biggest reason you'll
+hear in the software development world is that you spend much less
+time writing code, which is true whether you're a technical leader or
+a people leader. We'll talk more about that later, but first, some
+more reasons why most of us avoid becoming managers.
+
+If you've spent the majority of your career writing code, you
+typically end a day with something you can point to—whether it's code,
+a design document, or a pile of bugs you just closed—and say, "That's
+what I did today." Based on this metric of productivity, at the end of
+a busy day of "management" you'll usually find yourself thinking, "I
+didn't do a __damned thing__ today." It's the equivalent of spending
+years counting the number of apples you picked each day, and changing
+to a job picking bananas, only to say to yourself at the end of each
+day, "I didn't pick any apples," handily ignoring the giant pile of
+bananas sitting next to you. Quantifying management work __is__ more difficult than
+counting widgets you turned out, and you don't have to take credit for
+your team's work; however, making it possible for them to be happy and
+productive is a big measure of your job. Just don't fall into the trap
+of counting apples when you're picking bananas.
+
+
+[[image_no_caption-id017]]
+image::images/dbtm_03in03.png[]
+
+((("Peter Principle")))Another big reason for not becoming a manager is often unspoken but
+rooted in the famous "Peter Principle," which
+states that, "In a hierarchy every employee tends to rise to his level
+of incompetence." Most people have had a manager who was incapable of
+doing her job or was just really bad at managing
+people,footnote:[Yet another reason companies
+shouldn't force people into management as part of a career path: if an
+engineer is able to write reams of great code and has no desire at all
+to manage people or lead a team, by forcing her into a management or
+tech lead role you're losing a great engineer and gaining a crappy
+manager. This is not only a bad idea, but it's actively harmful.] and
+we know some people who have __only__ worked for bad managers. If
+you've only been exposed to crappy managers for your entire career,
+why would you ever want to __be__ a manager? Why would you want to be
+promoted to a role that you weren't able to do?
+
+There are great reasons to consider becoming a manager: first, it's a
+way to scale yourself. Even if you're great at writing code, there's
+still an upper limit to the amount of code you can write. Imagine how
+much code a team of great engineers could write under your leadership!
+Second, you might just be really good at it—many people who find
+themselves sucked into the leadership vacuum of a project discover
+that they're exceptionally skilled at providing the kind of guidance,
+help, and air cover a team needs.(((range="endofrange", startref="ixch03asciidoc2")))(((range="endofrange", startref="ixch03asciidoc1")))
+
+[[the_servant_leader]]
+=== The Servant Leader
+
+((("leaders","servant")))((("servant leaders")))There seems to be a sort of disease that strikes new managers where
+they forget about all the awful things __their__ managers did to them
+and suddenly start doing these same things to "manage" the people that
+report to them. The symptoms of this disease include, but are by no
+means limited to, micromanaging, ignoring low performers, and hiring
+pushovers. Without prompt treatment, this disease can kill an entire
+team. The best advice we got when we first became managers at Google
+was from Steve((("Vinter, Steve"))) Vinter, an engineering
+director. He said, "Above all, resist the urge to manage."  One of the
+greatest urges of the newly minted manager is to actively "manage" her
+employees because that's what a manager does, right? This typically
+has disastrous consequences.
+
+The cure for the "management" disease is a liberal application of what
+we call "servant leadership," which is a nice way of saying the most important thing a
+leader can do is to serve her team, much like a butler or majordomo
+tends to the health and well-being of a household. ((("HRT (humility, respect, trust)","and servant leaders")))As a servant
+leader, you should strive to create an atmosphere of humility,
+respect, and trust (HRT). This may mean removing bureaucratic
+obstacles that a team member can't remove by herself, helping a team
+achieve consensus, or even buying dinner for the team when they're
+working late at the office. The servant leader fills in the cracks to
+smooth the way for her team and advises them when necessary, but
+still isn't afraid of getting her hands dirty. The only managing that
+a servant leader does is to manage both the technical __and__ social
+health of the team; as tempting as it may be to focus purely on the
+technical health of the team, the social health of the team is just as
+important (but often infinitely harder to manage!).
+
+[[antipatterns]]
+=== Antipatterns
+
+((("leaders","antipatterns for", id="ixch03asciidoc4", range="startofrange")))((("leaders","behaviors to avoid", id="ixch03asciidoc5", range="startofrange")))Before we go over a litany of "design patterns" for successful
+leaders, we're going to review a
+collection of the patterns you __don't__ want to follow if you want to
+be a successful leader. We've observed these destructive patterns in a
+handful of bad leaders we've encountered in our careers, and in more
+than a few cases, pass:[<span class="keep-together">ourselves</span>].footnote:[See the section
+on failure, in <<building_an_awesome_team_culture>>.]
+
+[[antipattern_hire_pushovers]]
+==== Antipattern: Hire Pushovers
+
+((("antipatterns, leadership","hiring pushovers")))((("pushovers")))If you're a manager and you're feeling insecure in your role (for
+whatever reason), one way to make sure no one questions your authority
+or threatens your job is to hire people you can push around. You can
+achieve this by hiring people who aren't as smart or ambitious as you
+are, or just people who are more insecure than you. While this will
+cement your position as the team leader and decision maker, it will
+mean a lot more work for you. Your team won't be able to make a move
+without you leading them like dogs on a leash. If you build a team of
+pushovers, you probably can't take a vacation; the moment you leave
+the room, productivity comes to a screeching halt. But surely this is
+a small price to pay for feeling secure in your job, right?
+
+Instead, you should strive to hire people who are smarter than you and
+can replace you. This can be difficult because these very same people
+will challenge you on a regular basis (in addition to letting you know
+in no uncertain terms when you screw up). These very same people will
+also consistently impress you and make great things happen. They'll be
+able to direct themselves to a much greater extent, and some will be
+eager to lead the team as well. You shouldn't see this as an attempt
+to usurp your power, but rather as an opportunity for you to lead an
+additional team, investigate new opportunities, or even take a
+vacation without worrying about checking in on the team every day to
+make sure they're getting their work done.
+
+[[antipattern_ignore_low_performers]]
+==== Antipattern: Ignore Low Performers
+
+((("antipatterns, leadership","ignoring low performers")))((("low performers")))Early in Fitz's career as a team leader at Google, the time came for
+him to hand out bonus letters to his team, and he grinned as he told
+his manager, "I __love__ being a manager!" Without missing a beat,
+Fitz's manager, a long-time industry veteran, replied, "Sometimes you
+get to be the tooth fairy, other times you have to be the
+dentist."
+
+It's never any fun to pull teeth. We've seen team leaders do all the
+right things to build incredibly strong teams, only to have these
+teams fail to excel (and eventually fall apart) because of just one or
+two low performers. We understand that the human
+aspect is the hardest part of writing software, but the hardest part
+of dealing with humans is handling someone who isn't meeting
+expectations. Sometimes people miss expectations because they're not
+working long enough or hard enough, but the most difficult cases are
+when someone just isn't capable of doing his job no matter how long or
+hard he works.
+
+((("hope, limitations of")))The team at Google that is responsible for keeping all of their
+services running has a motto: "Hope is not a strategy." And nowhere is hope more overused as a strategy
+than in dealing with a low performer. Most team leaders grit their
+teeth, avert their eyes, and just hope that the low performer either
+magically gets better or just goes away. Yet it is extremely rare that
+this person does either.
+
+While the leader is hoping and the low performer isn't getting better
+(or leaving), high performers on the team waste valuable time pulling
+the low performer along and team morale leaks away into the ether. You
+can be sure that the team knows they're there even if you're ignoring
+them—the rest of the team is acutely aware of who the low performers are, because they have to carry
+them.
+
+Ignoring
+low performers is also a way to keep new high performers from joining
+your team, and a way to encourage existing high performers to
+leave. You eventually wind up with a whole team of low performers
+because they're the only ones who __can't__ leave of their own
+volition. Lastly, you aren't even doing __the low performer__ any
+favors by keeping him on the team; often, someone who wouldn't do well
+on your team would actually have plenty of impact somewhere else.
+
+The benefit of dealing with a low performer as quickly as possible is
+that you can put yourself in the position of helping him up __or__
+out. If you deal with a low performer right away, you'll oftentimes
+find that he merely needs some encouragement or direction to slip into
+a higher state of productivity. If you wait too long to deal with a
+low performer, his relationship with the team is
+going to be so sour and you're going to be so frustrated that you're
+not going to be able to help him.
+
+How does one coach a low performer effectively? It turns out
+that the two of us have (unfortunately) had quite a lot of experience
+in this area, gained through painful trial and error. The best
+analogy is to imagine you're helping a limping person learn to walk
+again, then jog, then run alongside the rest of the team. It almost
+always requires temporary micromanagement—but still a whole lot of
+HRT, particularly respect. Set up a specific time frame (say, two or
+three months), and some very specific goals you expect him to achieve
+in that period. Make the goals small and incremental, so there's an
+opportunity for lots of small successes. Meet with the team member
+every week to check on progress, and be sure you set really explicit
+expectations around each upcoming milestone, so it's easy to measure
+success or failure. If the low
+performer can't keep up, it will become quite obvious to __both__ of
+you early in the process. At this point, the person will often
+acknowledge that things aren't going well and decide to quit; in other
+cases, determination will kick in and he'll "up his game" to meet
+expectations. Either way, by working directly with the low performer
+you're catalyzing important and necessary changes.
+
+[[antipattern_ignore_human_issues]]
+==== Antipattern: Ignore Human Issues
+
+((("antipatterns, leadership","ignoring human issues")))((("human issues, ignoring")))As we've said before, a team leader has two major areas of focus for
+his team: the social and the technical. It's rather common for leaders
+to be stronger in the technical side, and since most leaders are
+promoted from a technical job (where the primary goal of their job was
+to solve technical problems), they tend to ignore human issues. It's
+tempting to focus all your energy on the technical side of your team
+because, as an individual contributor, you spend the vast majority of your time
+solving technical problems. When you were a student, your
+classes were all about learning the technical ins and outs of your
+work. Now that you're a leader, however, you ignore the human element
+of your team at your own peril.
+
+Let's start with an example of a leader ignoring the human element in his team. Years
+ago, a close friend of Fitz's—we'll call him
+Jake—had his first child. Jake and Fitz had worked together for years, both remotely and
+in the same office, so in the weeks following the arrival of the new
+baby, Jake worked from home. This worked out great for Jake and his
+wife, and Fitz was totally fine with it as he was already used to
+working remotely with Jake. They were their usual productive selves
+until their manager, Pablo (who worked in a different office), found
+out that Jake was working from home for most of the week. Pablo was
+upset that Jake wasn't going into the office to work with Fitz,
+despite the fact that Jake was just as productive as always and that
+Fitz was fine with the situation. Jake attempted to explain to Pablo
+that he was just as productive as he would be if he came into the
+office, and that it was much easier on both him and his wife for him
+to mostly work from home for a few weeks. Pablo's response: "Dude,
+people have kids __all the time__. You need to go into the office."
+Needless to say, Jake (normally a mild-mannered engineer) was enraged
+and lost a lot of respect for Pablo.
+
+There are numerous ways that Pablo could have handled this
+differently: he could have showed some understanding that Jake wanted
+to be home more for his wife and, if his productivity and team weren't
+being affected, just let
+him continue to do so for a while. He could have negotiated that Jake
+go into the office for one or two days a week until things settled
+down. Regardless of the end result, a little bit of empathy would have
+gone a long way toward keeping Jake happy in this situation.
+
+[[antipattern_be_everyones_friend]]
+==== Antipattern: Be Everyone's Friend
+
+((("antipatterns, leadership","being everyone's friend")))((("friendships","and leadership antipatterns")))The first foray that most people have into leadership is when they
+become the lead of a team of which they were formerly members. Many
+leads don't want to lose the friendships they've
+cultivated with their teams, so they will sometimes work extra hard to
+maintain friendships with their team members after becoming a team
+lead. This can be a recipe for disaster and for a lot of broken
+friendships. Don't confuse friendship with leading with a soft touch:
+when you hold power over someone's career, he may feel pressure to
+artificially reciprocate gestures of friendship.
+
+Remember that you can lead a team and build consensus without being a
+peer of your team (or a monumental hard-ass). Likewise, you can be a
+tough leader without tossing your existing friendships to the
+wind. We've found that having lunch with your team can be an effective
+way to stay socially connected to them without making them
+uncomfortable—this gives you a chance to have informal conversations
+outside the normal work environment.
+
+Sometimes it can be tricky to move into a management role over someone
+who has been a good friend and a peer. If the friend who is
+being managed is not self-managing and is not a hard worker,
+it can be stressful for everyone. We recommend that you avoid getting
+into this situation whenever possible.
+
+[[antipattern_compromise_the_hiring_bar]]
+==== Antipattern: Compromise the Hiring Bar
+
+((("antipatterns, leadership","compromising the hiring bar")))((("hiring, compromised standards for")))Steve Jobs once((("Jobs, Steve"))) said: &#x201c;__A__ people hire other
+__A__ people; __B__ people hire __C__ people." It's incredibly easy to
+fall victim to this adage, and even more so when you're trying to hire
+quickly. A common approach we've seen is that a team needs to hire
+five engineers, so they sift through their pile of applications,
+interview 40 or 50 people, and pick the best 5 __regardless of
+whether they meet the hiring bar__. This is one of the fastest ways to
+build a mediocre team.
+
+The cost of finding the right person—whether by paying recruiters,
+paying advertising, or pounding the pavement for references—pales in
+comparison to the cost of dealing with an employee you never should
+have hired in the first place. This "cost" manifests itself in lost
+team productivity, team stress, time spent managing the employee up or
+out, and the paperwork and stress involved in firing the
+employee. That's assuming, of course, that you try to avoid the
+monumental cost of just leaving him on the team. If you're managing a
+team where you don't have a say over hiring and you're unhappy with
+the hires being made for your team, you need to fight tooth and nail
+for higher-quality engineers. If you still keep getting handed
+substandard engineers, maybe it's time to look for another
+job. Without the raw materials for a great team, you're
+doomed.
+
+[[antipattern_treat_your_team_like_childre]]
+==== Antipattern: Treat Your Team Like Children
+
+((("antipatterns, leadership","treating team like children")))((("children, treating team like")))((("disrespect")))((("micromanagement")))((("trust","and micromanagement")))The best way to show your team you don't trust them is to treat them
+like kids—people tend to act the way you treat them, so if you treat
+them like children or prisoners, don't be surprised when that's how
+they behave. You can manifest this behavior by micromanaging them or
+simply by being disrespectful of their abilities and giving them no
+opportunity to be responsible for their work. If it's permanently
+necessary to micromanage people because you don't trust them, you've
+got a hiring failure on your hands. Well, it's a failure unless your
+goal was to build a team that you can spend the rest of your life
+babysitting. If you hire people worthy of trust and show these people
+you trust them, they'll usually rise to the occasion (sticking with
+the basic premise, as we mentioned earlier, that you've hired good
+people).
+
+Fitz runs a conference in Chicago that used to be at a site rented
+from a local institution. The first time Fitz went to get access to
+the venue for the conference, the facilities manager gave Fitz a brief
+tour of the place to make sure he knew where everything was. The
+manager then handed him the key to the building and told Fitz that
+he'd get the key back from him next week. There was no list of "dos
+and dont's," and no extensive supervision for the event, and as a
+result Fitz and his team felt responsible for taking take care of the
+facility as though it were their own, going above and beyond the
+expectations of keeping the place clean and organized.
+
+The results of this level of trust go all the way from keys to a
+building to office and computer supplies. As another example, Google
+provides employees with cabinets stocked with various and sundry
+office supplies (e.g., pens, notebooks, and other "legacy" implements
+of creation) that are free to take as employees need them. The IT
+department runs numerous "Tech Stops" that provide self-service areas
+that are like a mini electronics store. These contain lots of computer
+accessories and doodads (e.g., power supplies, cables, mice, USB
+drives, etc.) that would be easy to just grab and walk off with,
+but since Google employees are being entrusted to check these items out,
+they feel a responsibility to Do The Right Thing. Many people from
+typical corporations react in horror to hearing this, exclaiming that
+surely Google is hemorrhaging money due to people "stealing" these
+items. That's certainly possible, but what about the costs of having a
+workforce that behaves like children? Surely that's more
+expensive than the price of a few pens and USB cables.(((range="endofrange", startref="ixch03asciidoc5")))(((range="endofrange", startref="ixch03asciidoc4")))
+
+[[leadership_patterns]]
+=== Leadership Patterns
+
+((("leaders","patterns for effective", id="ixch03asciidoc6", range="startofrange")))((("patterns, leadership", id="ixch03asciidoc7", range="startofrange")))These are a collection of behavior patterns for successful leadership
+that we've learned from experience, from watching other successful
+leaders, and, most of all, from our own leadership mentors. These
+patterns are not only those that we've had great success implementing,
+but the patterns that we've always respected the most in the leaders
+that we follow.
+
+[[lose_the_ego-id001]]
+==== Lose the Ego
+
+((("ego","and effective leadership")))((("patterns, leadership","losing the ego")))We talked about "losing the ego" in
+<<the_myth_of_the_genius_programmer>> when we first examined HRT, but
+it's especially important when you're playing the role of servant
+leader. This pattern is frequently misunderstood as encouraging
+leaders to be a doormat and let their team walk all over them, but
+that's not the case at all. We admit that there's a fine line between
+being humble and letting others take advantage of you, but humility is
+__not__ the same as lacking confidence. You can still have
+self-confidence and opinions without being an
+egomaniac. Big personal egos are hard to handle on any team,
+especially in the team's leader. Instead, you should work to cultivate
+a strong((("team ego"))) collective __team__ ego and identity.
+
+Part of "losing the ego" is
+something we've covered already: you need to trust your team. That
+means respecting the abilities and prior accomplishments of the team
+members, even if they're new to your team.
+
+If you're not micromanaging your team, you can be pretty certain the
+folks working in the trenches know the details of their work better
+than you do. This means that while you may be the one driving the team
+to consensus and helping to set the direction, the nuts and bolts of
+how to accomplish your goals are best decided by the people who are
+putting the product together. This gives them not only a greater sense
+of ownership, but also a greater sense of accountability and
+responsibility for the success (or failure!) of their product. If
+you've got a good team and you let them set the bar for the quality
+and rate of their work, they'll accomplish more than they would by you
+standing over them with a carrot and a stick.
+
+Most people new to a leadership role feel an enormous responsibility
+to get everything right, to know everything, and to have all the
+answers. We can assure you that you will not get everything right, nor
+will you have all the answers, and if you act like you do, you'll
+quickly lose the respect of your team. A lot of this comes down to
+having a basic sense of security in your role. Think back to when you
+were an individual contributor; you could smell insecurity a mile
+away. Try to appreciate inquiry: when someone questions a decision or
+statement you made, remember that this person is usually just trying
+to better understand you. If you encourage inquiry, you're much more
+likely to get the kind of constructive
+criticism that will make you a better leader of a better team. Finding
+people who will give you good constructive criticism is incredibly difficult, and
+it's even harder to get this kind of criticism from people who "work
+for you." Think about the big picture of what you're trying to
+accomplish as a team, and accept feedback and criticism openly; avoid
+the urge to be territorial.
+
+The last part of losing the ego is a simple one,
+but many engineers would rather be boiled in oil than do it: apologize
+when you make a mistake. And we don't mean you should just sprinkle
+"I'm sorry" throughout your conversation like salt on popcorn—you have
+to sincerely mean it. You are absolutely going to make mistakes, and
+whether you admit it or not your team is going to know you've made a
+mistake. They'll know regardless of whether they talk to you or not
+(and one thing is guaranteed: they __will__ talk about it with one
+another). Apologizing doesn't cost
+money. People have enormous respect for leaders who apologize when they screw up, and contrary
+to popular belief it doesn't make you vulnerable. In fact, you'll
+usually gain respect from people when you apologize, because
+apologizing tells people you are level-headed, good at assessing
+situations, and—coming back to HRT—humble.
+
+[role="pagebreak-before"]
+[[be_a_zen_master]]
+==== Be a Zen Master
+
+((("calm leadership", id="ixch03asciidoc8", range="startofrange")))((("patterns, leadership","being a Zen master", id="ixch03asciidoc9", range="startofrange")))((("patterns, leadership","maintaining calm", id="ixch03asciidoc10", range="startofrange")))((("Zen master, leader as", id="ixch03asciidoc11", range="startofrange")))As an engineer, you likely developed an excellent sense of skepticism
+and cynicism, but this can be a liability when you're trying to lead a
+team. That's not to say you should be naïvely optimistic at every
+turn, but you would do well to be less vocally skeptical while still
+letting your team know you're aware of the intricacies and obstacles
+involved in your work. Mediating your reactions and maintaining your
+calm is more important as you lead more people, because your team will
+(both unconsciously and consciously) look to you for clues on how to
+act and react to whatever is going on around you.
+
+
+[[image_no_caption-id018]]
+image::images/dbtm_03in04.png[]
+
+((("chain of gears, org chart as")))((("org chart, chain of gears analogy for")))A simple way to visualize this effect is to see your company's org
+chart as a chain of gears, with the individual contributor as a tiny
+gear with just a few teeth all the
+way at one end, and each successive manager above her as another gear,
+ending with the CEO as the largest gear with many hundreds of
+teeth. This means every time that individual's "manager gear" (with
+maybe a few dozen teeth) makes a single revolution, the "individual's
+gear" makes two or three revolutions. And the CEO can make a small
+movement and send the hapless employee, at the end of a chain of six
+or seven gears, spinning wildly! The farther you move up the chain,
+the faster you can set the gears below you spinning, whether you
+intend to or not.
+
+
+[[image_no_caption-id019]]
+image::images/dbtm_03in05.png[]
+
+Another way of thinking about this is the maxim that the __leader is
+always on stage.__ This means that if you're in an overt leadership
+position, you are always being watched: not just when you run a
+meeting or give a talk, but even when you're just sitting at your desk
+answering emails.  Your peers are watching you for subtle clues in
+your body language, your reactions to small talk, and your signals as
+you eat lunch.  Do they read confidence or fear?  As a leader, your
+job is to inspire, but inspiration is a 24/7 job.  Your visible
+attitude about absolutely everything--no matter how trivial--is
+unconsciously noticed and spreads infectiously to your team.
+
+Fitz had a manager, Bill,footnote:[His real name.]
+who truly mastered the ability to maintain calm at all times. No
+matter what blew up, no matter what crazy thing happened, no matter
+how big the firestorm, Bill would never panic. Most of the time he'd
+place one arm across his chest, rest his chin in his hand, and ask
+questions about the problem, usually to a completely panicked
+employee. This had the effect of calming her and helping her to focus
+on solving the problem instead of running around in a
+chicken-with-its-head-cut-off mode. Fitz used to joke that if someone
+came in and told Bill 19 of the company's offices had been attacked by
+space aliens, Bill's response would be, "Any idea why they didn't make
+it an even 20?"
+
+((("questions, asking","for effective leadership")))This brings us to another Zen
+management trick: asking questions. When a team member asks you for
+advice, it's usually pretty exciting because you're finally getting
+the chance to fix something! That's exactly what you did for years
+before moving into a leadership position, so you usually go
+__leaping__ into solution mode, but that is the last place you should
+be. The person asking for advice typically doesn't want you to solve
+her problem, but rather to help __her__ solve it, and the easiest way
+to do this is to ask her questions. This isn't to say you should
+replace yourself with a Magic 8 Ball, which would be maddening and
+unhelpful. Instead, you can apply some HRT and try to help her solve
+the problem on her own by trying to refine and explore her
+problem. This will usually lead the employee to the
+answer,footnote:[See also "Rubber duck
+debugging,"
+link:$$http://en.wikipedia.org/wiki/Rubber_duck_debugging$$[].] and it
+will be __her__ answer, which leads back to the ownership and
+responsibility we went over earlier in this chapter. Whether you have
+the answer or not, using this technique will almost always leave the
+employee with the impression that you did. Tricky, eh? Socrates would
+be proud of you.(((range="endofrange", startref="ixch03asciidoc11")))(((range="endofrange", startref="ixch03asciidoc10")))(((range="endofrange", startref="ixch03asciidoc9")))(((range="endofrange", startref="ixch03asciidoc8")))
+
+[[be_a_catalyst]]
+==== Be a Catalyst
+
+((("catalyst, leader as", id="ixch03asciidoc12", range="startofrange")))((("patterns, leadership","being a catalyst", id="ixch03asciidoc13", range="startofrange")))In chemistry a catalyst is something that accelerates a chemical
+reaction, but which itself is not consumed in the reaction. One of the
+ways in which catalysts (e.g., enzymes) work is to bring
+reactants into close proximity: instead of bouncing around randomly in
+a solution, the reactants are much more likely to favorably interact
+with one another when the catalyst helps bring them together. This is
+a role you'll often need to play as a leader, and there are a number
+of ways you can go about it.
+
+((("consensus building")))One of the most common things a team leader does is to build
+consensus. This may mean you drive the process from start to finish,
+or you just give it a gentle push in the right direction to speed it
+up. Working to build team consensus is a leadership skill that is
+often used by unofficial leaders because it's one
+way you can lead without any actual authority. If you have the
+authority, you can direct and dictate direction, but that's less
+effective overall than building consensus. If your team is looking to
+move quickly, sometimes they'll voluntarily concede authority and
+direction to one or more team leads. While this might look like a
+dictatorship or oligarchy, when it's done voluntarily it's a form of
+pass:[<span class="keep-together">consensus</span>].
+
+[[note-4-5]]
+.Know Where to Put the Chalk Mark
+****
+There's a story about a Master of all things mechanical who had long
+since retired. His former company was having a problem that no one
+could fix, so they called in the Master to see if he could help find
+the problem. The Master examined the machine, listened to it, and
+eventually pulled out a worn piece of chalk and made a small X on the
+side of the machine. He informed the technician that there was a loose
+wire that needed repair at that very spot.  The technician opened the
+machine and tightened the loose wire, thus fixing the problem. When
+the Master's invoice arrived for $10,000, the irate CEO wrote back
+demanding a breakdown for this ridiculously high charge for a simple
+chalk mark!  The Master responded with another invoice, showing a $1
+cost for the chalk to make the mark, and $9,999 for knowing where to
+put it.
+
+To us, this is a story about wisdom: that a single, carefully
+considered adjustment can have gigantic effects.  Ben tries to use
+this technique when managing people.  He imagines his team as flying
+around in a great blimp, headed slowly and surely in a certain
+direction.  Instead of micromanaging and trying to make continuous
+course corrections, he spends most of his week carefully watching and
+listening.  At the end of the week he makes a small chalk mark in a
+precise location on the blimp, then gives a small but critical
+"tap" to adjust the course.
+****
+
+Sometimes your team already has consensus about what you need to do,
+but they hit a roadblock and get stuck. This could be a technical or
+organizational roadblock, but jumping in to help the team get
+moving again
+is a common leadership technique. There are some roadblocks that,
+while virtually impossible for your team members to get past, will be
+easy for you to handle, and helping your team to understand that
+you're glad (and able) to help out with these roadblocks is
+valuable.
+
+One time Fitz's team spent several weeks trying to work past an
+obstacle with his company's legal department. When they finally
+reached their wits' end and came to Fitz with the problem, he had it
+solved in less than two hours because he knew the right person to
+contact. Another time Ben's team needed some server resources and just
+couldn't get them allocated. Fortunately, Ben was in communication
+with other teams across the company and managed to get the team
+exactly what they needed that very afternoon. Yet another time one of
+the engineers on Fitz's team was having trouble with an arcane bit of
+Java code, and while Fitz wasn't a Java expert, he was able to connect
+the engineer to another engineer who knew exactly what the problem
+was. You don't have to know all the answers to help remove roadblocks,
+but it usually helps to know the people who do. __In many cases,
+knowing the right person is more valuable than knowing the right
+answer__.(((range="endofrange", startref="ixch03asciidoc13")))(((range="endofrange", startref="ixch03asciidoc12")))
+
+[[failure_is_an_option]]
+==== Failure Is an Option
+
+((("failure","as an option")))((("patterns, leadership","failure as an option")))Another way to catalyze your team is to make them feel safe and secure
+so that they can take greater risks. Risk ((("risks","to catalyze team")))is a fascinating thing—most humans are __terrible__ at
+evaluating risk, and most companies try to avoid risk at all costs. As
+a result of this, the usual modus operandi is to work conservatively
+and focus on smaller successes even when taking a bigger risk might
+mean exponentially greater success. A common saying at Google is that
+if you try to achieve an impossible goal, there's a good chance you'll
+fail, but if you fail trying to achieve the impossible, you'll most
+likely accomplish way more than you would have accomplished had you
+merely attempted something you knew you could complete. A good way to
+build a culture where risk taking is
+accepted is to let your team __know__ it's OK to fail.
+
+((("learning","failure as source of")))So let's get that out of the way: it's OK to fail. In fact, we like to
+think of failure as a way of learning a lot really quickly (providing
+that you're not repeatedly failing at the same thing). In addition,
+it's important to see failure as an opportunity to learn and not to
+point fingers or assign blame. Failing fast is good, because there's
+not a lot ((("Savoia, Alberto")))at stake.footnote:[See Alberto Savoia's talk, http://bit.ly/pretotyping_manifesto["The Pretotyping Manifesto"].] Failing slowly can also teach a valuable
+lesson, but it is more painful because more is at risk and more can be
+lost (usually engineering time). Failing in a manner that affects your
+customers is probably the least desirable failure that we encounter,
+and one where we have the greatest amount of structure in place to
+learn from failures. As mentioned earlier, every time there is a
+production failure at Google, they perform a postmortem. This
+procedure is a way to document the events that led to the actual
+failure and to develop a series of steps that will prevent it from
+happening in the future. This is not an opportunity to point fingers,
+nor is it intended to introduce unnecessary bureaucratic checks; the goal is rather to focus strongly on the core of the problem and fix it once
+and for all. It's very difficult, but quite effective (and
+pass:[<span class="keep-together">cathartic</span>]!).
+
+Individual successes and failures are a bit different. It's one thing
+to laud individual successes, but looking to assign individual blame
+in the case of failure is a great way to divide a team and discourage
+risk taking across the board. It's
+OK to fail, but fail as a team and learn from your failures. If an
+individual succeeds, praise him in front of the team. If an individual
+fails, give constructive criticism in
+private.footnote:[Public criticism of
+an individual is rarely necessary, and most often is just mean or
+cruel. You can be sure the rest of the team already knows when an
+individual has failed, so there's no need to rub it in.] Whatever the
+case, take advantage of the opportunity and apply a liberal helping of
+HRT to help your team to learn from their failures.
+
+[[be_a_teacher_and_a_mentor]]
+==== Be a Teacher and a Mentor
+
+((("mentors, leaders as")))((("patterns, leadership","mentoring")))((("patterns, leadership","teaching")))((("teachers, leaders as")))One of the hardest things to do as a team leader is to watch a more
+junior-level team member spend three hours working on something you
+__know__ you can knock out in 20 minutes. Teaching people and giving
+them a chance to learn on their own can be incredibly difficult at
+first, but it's a vital component of effective leadership. This is
+especially important for new hires who, in addition to learning your
+team's technology and code base, are learning your team's culture and
+the appropriate level of responsibility to assume.
+
+Much like the role of manager, most people don't apply for the role of
+mentor—they usually become one when a team lead is looking for someone
+to mentor a new team member. It doesn't take a lot of formal education
+or preparation to be a mentor; in fact, you primarily need three
+things: experience with your team's processes and systems, the ability
+to explain things to someone else, and the ability to gauge how much
+help your mentee needs. The last thing is probably the most
+important—giving your mentee enough information is what you're
+supposed to be doing, but if you overexplain things or ramble on
+endlessly, your mentee will probably tune you out rather than politely
+tell you she got it.
+
+[[set_clear_goals]]
+==== Set Clear Goals
+
+((("goals, setting clear")))((("patterns, leadership","setting clear goals")))This is one of those patterns that, as obvious as it sounds, is solidly
+ignored by an enormous number of leaders. If
+you're going to get your team moving rapidly in one direction, you
+need to make sure they all understand and agree on what the direction
+is. Imagine your product is a big truck (and not a series of
+tubes). Each team member has in his hand a rope tied to the front of
+the truck, and as he works on the product, he'll pull the truck in
+his own direction. If your intention is to pull the truck (or
+product) northbound as quickly as possible, you can't have team
+members pulling every which way—you want them all pulling the truck
+north.
+
+
+[[image_no_caption-id020]]
+image::images/dbtm_03in06.png[]
+
+The easiest way to set a clear ((("mission statements")))goal and get your team pulling the
+product in the same direction is to create a concise mission statement
+for the team (see the section <<the_mission_statementmdashno_really>>
+in <<building_an_awesome_team_culture>> for more information about
+mission
+statements). Once you've helped the team define their direction and
+goals, you can step back and give them more autonomy, periodically
+checking in to make sure they're still on the right track. This not
+only frees up your time to handle other leadership tasks, but it also
+__drastically increases the efficiency of your team__. Teams can (and do) succeed
+without clear goals, but they typically waste a great deal of energy
+as each team member pulls the product in a slightly different
+direction. This frustrates you, slows progress for the team, and
+forces you to use more and more of your own energy to correct the
+course.
+
+[[be_honest]]
+==== Be Honest
+
+((("honesty, leadership and")))((("patterns, leadership","honesty")))This doesn't mean we're assuming you are lying to your team, but it
+merits a mention because you'll inevitably find yourself in a position
+where you can't tell your team something or, even worse, you have to
+tell them something they don't want to hear. A former manager of
+Fitz's would tell new team members, "I won't lie to you, but I will
+tell you when I can't tell you something or if I just don't know."
+
+If a team member approaches you about something you can't share with
+her, it's OK to just tell her you know the answer but can't tell
+her. Even more common is when a team member asks you something you
+don't know the answer to: you can tell her you don't know. This is
+another one of those things that seems blindingly obvious when you
+read it, but many people move to a manager role and feel that if they
+don't know the answer to something it proves they're weak or out of
+touch. In reality, the only thing it proves is that they're human.
+
+Giving hard feedback((("feedback","negative"))) is…well,
+__hard__. The first time you have to tell one of your reports that he
+made a mistake or didn't do his job as well as was expected of him can
+be incredibly stressful. ((("compliment sandwich")))Most management texts advise that you use the
+"compliment sandwich" to soften the blow when
+delivering hard feedback. A compliment sandwich looks
+something like this:
+
+__"You're a solid member of the team and one of our smartest
+engineers. That being said, your code is incredibly convoluted and
+almost impossible for anyone else on the team to understand. But
+you've got great potential and a wicked cool neckbeard."__
+
+((("constructive criticism")))Sure, this softens the blow, but with this sort of beating around the
+bush most people will walk out of this meeting only thinking, "Sweet!
+I've got a wicked cool beard!" We __strongly__ advise against using
+the compliment sandwich, not because we think you should be
+unnecessarily cruel or harsh, but __because most people won't hear the
+critical message__, which is that something needs to change. It's
+possible to employ HRT here: be kind and empathetic when delivering
+constructive criticism without resorting to the compliment
+sandwich. In fact, kindness and empathy are __critical__ if you want
+the recipient to hear the criticism and not immediately go on the
+defensive.
+
+
+[[image_no_caption-id021]]
+image::images/dbtm_03in07.png[]
+
+Years ago, Fitz picked up a team member, Tim, from another manager who
+insisted that Tim was impossible to work with. He told Fitz that Tim
+never responded to feedback or criticism and instead just kept doing the same
+things he'd been told he shouldn't do. Fitz sat in on a few of the
+manager's meetings with Tim to watch the interaction between the
+manager and Tim, and he noticed that the manager made extensive use of
+the compliment sandwich so
+as not to hurt Tim's feelings. When Fitz took Tim on his team, he sat
+down with him and very clearly explained that Tim needed to make some
+changes to work more effectively with the team. Fitz didn't give Tim
+any compliments or candy-coat the issue, but just as importantly, Fitz
+wasn't mean—he just laid out the facts as he saw them based on Tim's
+performance with the previous team. Lo and behold, within a matter of
+weeks (and after a few more "refresher" meetings), Tim's performance
+improved dramatically. Tim just needed very clear feedback and pass:[<span class="keep-together">direction</span>].
+
+When you're providing direct feedback or criticism, your delivery is key to
+making sure your message is heard and not deflected. If you put the
+recipient on the defensive, he's not going to be thinking of how he
+can change, but rather how he can argue with you to show you you're
+wrong. Ben once managed an engineer we'll call Dean. Dean had
+extremely strong opinions and would argue with the rest of the team
+about __anything__. It could be something as big as the team's mission
+or as small as the placement of a widget on a web page; Dean would
+argue with the same conviction and vehemence either way, and he
+refused to let anything slide. After months of this behavior, Ben met
+with Dean to explain to him that he was being too combative. Now, if Ben had just
+said, "Dean, stop being such a jerk," you can be pretty sure Dean would have disregarded it entirely. Ben
+thought hard about how he could get Dean to understand how his actions
+were adversely affecting the team, and he came up with the following
+metaphor:
+
+[quote]
+____
+
+Every time a decision is made, it's like a train coming through
+town—when you jump in front of the train to stop it you slow the train
+down and potentially annoy the engineer driving the train. A new train
+comes by every 15 minutes, and if you jump in front of every train,
+not only do you spend a lot of your time stopping trains, but
+eventually one of the engineers driving the train is going to get mad
+enough to run right over you. So, while it's OK to jump in front of
+some trains, pick and choose the ones you want to stop to make sure
+you're only stopping the trains that really matter.
+____
+
+
+This anecdote not only injected a bit of humor into the situation, but
+also made it easier for Ben and Dean to discuss the effect that Dean's
+"train stopping" was having on the team
+in addition to the energy Dean was spending on
+it.
+
+[[track_happiness]]
+==== Track Happiness
+
+((("happiness, tracking", id="ixch03asciidoc14", range="startofrange")))((("patterns, leadership","tracking happiness", id="ixch03asciidoc15", range="startofrange")))((("tracking happiness", id="ixch03asciidoc16", range="startofrange")))As a leader, one way you can make your team more productive (and less
+likely to leave) in the long term is to take some time to gauge their happiness. The best
+leaders we've worked with have all been
+amateur psychologists, looking in on their team members' welfare from
+time to time, making sure they get recognition for what they do, and
+trying to make certain they are happy with their work. One leader we
+know makes a spreadsheet of all the grungy, thankless tasks that need
+to be done and makes certain these tasks are evenly spread across the
+team. Another leader watches the hours his team is working and uses
+comp time and fun team outings to avoid burnout and exhaustion. Yet
+another leader starts one-on-one sessions with his team members by
+dealing with their technical issues as a way to break the ice, and
+then takes some time to make sure each engineer has everything he
+needs to get his work done. After they've warmed up, he talks to the
+engineer for a bit about how he's enjoying the work he's doing and
+what he's looking forward to next.
+
+One of the most valuable tools in tracking your team's happiness is, at the end
+of each one-on-one meeting, to ask the team member, "What do you need?" This simple question is a great way to wrap up and make
+sure each team member has what he needs to be productive and happy,
+although you may need to carefully probe a bit to get details. If you
+ask this every time you have a one-on-one, you'll find that eventually
+your team will remember this and sometimes even come to you with a
+laundry list of things they need to make their job better.
+
+.The Unexpected Question
+****
+((("Schmidt, Eric")))Shortly after Fitz started at Google he had his first meeting with
+then-CEO Eric Schmidt, and at the end Eric asked
+Fitz, "Is there anything you need?" Fitz, who had prepared a million
+defensive responses to hard questions or challenges, was __completely__
+unprepared for this. So he sat there dumbstruck and staring. But you
+can be sure Fitz had something ready the next time he was asked that
+question!
+****
+
+It can also be worthwhile to pay some attention to your team's
+happiness __outside__ the office. Be wary of assuming that people have no life outside of work—having
+unrealistic expectations
+about the amount of time people can put into their work will cause
+people to lose respect for you, or worse, to burn out. We're not
+advocating that you pry into your team members' personal lives, but
+being sensitive to personal situations that your team members are
+going through can give you a lot of insight into why they may be more
+or less productive at any given time. Giving a little extra slack to a
+team member who is having a tough time at home now can make him a lot
+more willing to put in longer hours when your team has a tight
+deadline to hit later.
+
+A big part of tracking your team members' happiness is
+tracking their careers. If you ask a team member where she sees her
+career in five years, most of the time you'll get a shrug and a blank
+look. When put on the spot, most people won't say much about this, but
+there are usually a few things that everyone would like to do in the
+next five years: get promoted, learn something new, launch something
+important, and work with smart
+people. Regardless of whether they verbalize this, most people are
+thinking about it. If you're going to be an effective leader, you
+should be thinking about how you can help make all those things happen
+and let your team know you're thinking about this. The most important
+part of this is to take these implicit goals and make them
+__explicit__ so that when you're giving career advice you have a real
+set of metrics on which to evaluate situations and opportunities.
+
+Tracking happiness comes down to not just monitoring
+careers, but also giving your team members opportunities to improve
+themselves, get recognized for the work they do, and have a little fun
+along the way.(((range="endofrange", startref="ixch03asciidoc16")))(((range="endofrange", startref="ixch03asciidoc15")))(((range="endofrange", startref="ixch03asciidoc14")))
+
+[[other_tips_and_tricks]]
+==== Other Tips and Tricks
+
+((("delegation")))__Delegate, ((("patterns, leadership","various tips and tricks", id="ixch03asciidoc17", range="startofrange")))but get your hands dirty__. When moving from an individual
+contributor role to a leadership role, achieving a balance is one of
+the hardest things to do: initially, you're inclined to do all of the
+work yourself, and after being in a leadership role for a long time,
+it's easy to get into the habit of doing __none__ of the work
+yourself. If you're new to a leadership role, you probably need to
+work hard to delegate work to other engineers on your team, even if it
+will take them a lot longer than you to accomplish that work. Not only
+is this one way for you to maintain your sanity, but also it's how the
+rest of your team will learn. If you've been leading teams for a while
+or if you pick up a new team, one of the easiest ways to gain the
+team's respect and get up to speed on what they're doing is to get
+your hands dirty—usually by taking on a grungy task no one else wants
+to do. You can have a résumé and a list of achievements a mile long,
+but nothing lets a team know how skillful and dedicated (and humble)
+you are like jumping in and actually doing some hard
+work.
+
+((("replacing yourself")))__Seek to replace yourself__. Unless you want to keep doing the exact
+same job for the rest of your career, seek to replace yourself. This
+starts, as we mentioned earlier, with the hiring process: if you want
+a member of your team to replace you, you need to hire people capable
+of replacing you, which we usually sum up by saying you need to "hire
+people smarter than you." Once you have team members capable of doing
+your job, you need to give them opportunities to take on more
+responsibilities or occasionally lead the team. If you do this, you'll
+quickly see who has the most aptitude to lead as well as who __wants__
+to lead the team. Remember that some people prefer to just be
+high-performing individual contributors, and that's OK. We've always
+been amazed at companies that take their best engineers and—against
+their wishes—throw these engineers into management roles. This usually
+subtracts a great engineer from your team and adds a subpar manager.
+
+((("waves, making")))__Know when to make waves__. You will (inevitably and frequently) have
+difficult situations crop up where every cell in your body is
+screaming at you to do nothing about it. It may be the engineer on
+your team whose technical chops aren't up to par. It may be the person
+who jumps in front of every train. It may be the unmotivated employee
+who is working 30 hours a week. "Just wait a bit and it will get
+better," you'll tell yourself. "It will work itself out," you'll
+rationalize. Don't fall into this trap—these are the situations where
+you __need__ to make the biggest waves and you need to make them
+now. Rarely will these problems work themselves out, and the longer
+you wait to address them, the more they'll adversely affect the rest
+of the team and the more they'll keep you up at night thinking about
+them. By waiting, you're only delaying the inevitable and causing
+untold damage in the process. So act, and act quickly.
+
+
+[[image_no_caption-id022]]
+image::images/dbtm_03in08.png[]
+
+((("chaos")))__Shield your team from chaos__. When you step into a leadership role,
+the first thing you'll usually discover is that outside your team is a
+world of chaos and uncertainty (or even insanity) that you never saw
+when you were an individual contributor. When Fitz first became a
+manager back in the 1990s (before going back to being an individual
+contributor) he was taken aback by the sheer volume of uncertainty and
+organizational chaos that was happening in his company. He asked
+another manager what had caused this sudden rockiness in the otherwise
+calm company, and the other manager laughed hysterically at Fitz's
+naïveté: the chaos had always been present, but Fitz's previous
+manager had shielded Fitz and the rest of the team from it.
+
+((("air cover, for your team")))__Give your team air cover__. While it's important that you keep your
+team informed about what's going on "above" them in the company, it's
+just as important that you defend them from a lot of the uncertainty
+and frivolous demands that may be imposed upon you from outside your
+team. Share as much information as you can with your team, but don't
+distract them with organizational craziness that is extremely unlikely
+to ever actually affect them.
+
+((("feedback","positive")))((("positive feedback")))__Let your team know when they're doing well__. Many new team leads
+can get so caught up in dealing with the shortcomings of their team
+members that they neglect to provide positive feedback often
+enough. Just as you let someone know when he screws up, be sure to let
+him know when he does well, and be sure to let him (and the rest of
+the team) know when he knocks one out of the
+park.
+
+Lastly, here's something the best leaders
+know and use often when they have adventurous team members who want to
+try new things often: it's easy to say "yes" if it's easy to undo
+something. If you have a team member who wants to take a day or two to
+try using a new tool or library that could speed up your product (and
+you're not on a tight deadline), it's easy to say, "Sure, give it a
+shot." If, on the other hand, she wants to do something like launch a
+product that you're going to have to support for the next 10 years,
+you'll likely want to give it a bit more thought. Really good leaders
+have a good sense for when something can be undone.(((range="endofrange", startref="ixch03asciidoc17")))
+
+[[imposter_phenomenon]]
+.Imposter Phenomenon
+****
+
+((("imposter phenomenon")))((("leaders","and imposter phenomenon")))Much has been written about((("Clance, Pauline Rose"))) the so-called "imposter syndrome" or "imposter
+phenomenon,"footnote:[ First documented by
+Dr. Pauline Rose Clance, http://paulineroseclance.com/impostor_phenomenon.html.] which
+according to Wikipedia is a __"psychological phenomenon in which
+people are unable to internalize their accomplishments. Despite
+external evidence of their competence, those with the syndrome remain
+convinced that they are frauds and do not deserve the success they
+have achieved."__
+
+We prefer the "phenomenon" nomenclature because, even though this may
+make you feel like a fraud who will be discovered at any time, the imposter
+phenomenon often drives you to work much harder and achieve goals that
+you might never have achieved otherwise.
+
+This problem is extremely common in people new to management,
+especially those thrust into leadership positions (official or not) by
+necessity.  The phenomenon is so widespread that we almost always get
+asked about it after our talks.  __"I don't actually know what I'm
+doing,"__ people will say, __"so what can I do to stop feeling like a
+phony?"__ Our answer is that everyone feels like a phony at some point
+in their career; one could even argue that a little bit of insecurity
+makes us work harder and helps improve our success.
+
+Ben likes to share the story of his parents' marriage. The night
+before they got married, they both got cold feet and admitted to each
+other that they had made a Terrible Mistake--but that it was clearly
+far too late to call off the wedding.  So they made a pact to "fake
+it" for the wedding, play the stage role of happy newlyweds, and then
+maybe call things off a few days later.  A couple of weeks later, they
+decided to try another month of marriage.  And then the month after
+that, and the month after that.  Eventually it became a running joke
+in their marriage.  Every year on their anniversary they would say,
+"Let's give this trial another year, eh?"
+
+Whatever sort of leadership you're involved in, the same "fake it till
+you make it" technique tends to work very well.  When Ben first got
+asked to manage a large team, a similar script went through his mind:
+__"You want me to own this project?  That's crazy, but OK, I guess I'll
+pretend to be a leader for a while."__ Then every year at
+performance-review time, he'd look back at his success and and say,
+__"Yeah, I guess I'll keep pretending a bit longer—seems to be going
+well!"__(((range="endofrange", startref="ixch03asciidoc7")))(((range="endofrange", startref="ixch03asciidoc6")))
+
+
+****
+
+[role="pagebreak-before"]
+[[people_are_like_plants]]
+=== People Are Like Plants
+
+((("leaders","and treating people like plants", id="ixch03asciidoc18", range="startofrange")))((("needs, of individual team members", id="ixch03asciidoc19", range="startofrange")))((("plants, people's similarity to", id="ixch03asciidoc20", range="startofrange")))Fitz's wife is the youngest of six children, and her mother was faced
+with the difficult task of figuring out how to raise six __very
+different__ children, each of whom needed different things. Fitz asked
+his mother-in-law how she managed this (see what we did there?), and
+she responded that kids are like plants: some are like cactuses and
+need little water but lots of sunshine, others are like African
+violets and need diffuse light and moist soil, and still others are
+like tomatoes and will truly excel if you give them a little
+fertilizer. If you have six kids and give each one the same amount of
+water, light, and fertilizer, they'll all get equal treatment, but the
+odds are good that __none__ of them will get what they actually
+__need__.
+
+
+[[image_no_caption-id023]]
+image::images/dbtm_03in09.png[]
+
+And so your team members are also like plants: some need more light,
+and some need more water (and some need more bullshit, er,
+fertilizer). It's your job as their leader to figure out who needs
+what and to then give it to them.
+
+Take a look at this matrix:
+
+
+[[image_no_caption-id024]]
+image::images/dbtm_03in10.png[]
+
+To get all of your team members into the sweet spot, you need to
+motivate the ones who fall into the "In a rut" portion of the matrix,
+and provide stronger direction to those who are in the "Look!
+Squirrel!" portion. Of course, those who are "adrift" need both
+motivation __and__ direction. So, instead of
+water and sunlight, you need to provide team members with a
+combination of motivation and direction to make them happy and
+productive. And you don't want to give them too much of either—because
+if they don't need motivation or direction and you try giving it to
+them, you're just going to annoy them.(((range="endofrange", startref="ixch03asciidoc20")))(((range="endofrange", startref="ixch03asciidoc19")))(((range="endofrange", startref="ixch03asciidoc18")))
+
+Giving direction is fairly straightforward—it requires a basic
+understanding of what needs to be done, some simple organizational
+skills, and enough coordination to break it down into manageable
+tasks. With those tools in hand you can provide enough guidance for an
+engineer in need of directional help (OK, there's more to it, but we
+covered a lot of that earlier in the chapter). Motivation, however, is
+a bit more sophisticated and merits some explanation.
+
+[[intrinsic_versus_extrinsic_motivation]]
+=== Intrinsic Versus Extrinsic Motivation
+
+((("extrinsic motivation")))((("intrinsic motivation")))((("leaders","intrinsic vs. extrinsic motivation")))((("motivation, intrinsic vs. extrinsic")))There are two types of motivation: extrinsic, which originates from outside((("Drive (Pink)")))((("Pink, Dan"))) forces
+(such as monetary compensation), and intrinsic, which comes from
+within. In his book __Drive__,footnote:[As we
+mentioned earlier in this chapter, see also Dan's fantastic TED talk
+on this subject.] Dan Pink explains that the
+way to make people the happiest and most productive isn't to motivate
+them extrinsically (e.g., throw piles of cash at them), but rather to
+work to increase their __intrinsic__ motivation. Dan claims you can
+increase intrinsic motivation by giving people three
+things: autonomy, mastery, and purpose.footnote:[This
+assumes that the people in question are being paid well enough that
+income is not a source of stress.]
+
+A person has __autonomy__ when she has the ability to act on her own
+without someone micromanaging her.footnote:[Of
+course, this assumes that you have people on your team who don't need
+micromanagement.] With autonomous employees, you might give them the
+general direction in which they need to take the product, but leave it
+up to them to decide how to get there. This helps with motivation not
+only because they have a closer relationship with the product (and
+likely know better than you how to build it), but also because it
+gives them a much greater sense of ownership of the product. The
+bigger their stake is in the success of the product, the greater their
+interest is in seeing it succeed.
+
+__Mastery__ in its((("mastery"))) basest form simply means you need to give someone
+the opportunity to learn new skills and improve existing
+skills. Giving ample opportunities for mastery not only helps to
+motivate people, but also makes them better over time, which makes for
+stronger teams.footnote:[Of course, it also means
+they're more valuable and marketable employees, so it's easier for
+them to pick up and leave you if they're not enjoying their work. See
+the pattern in <<track_happiness>>.] An
+employee's skills are like the blade of a knife: you may spend tens of
+thousands of dollars to find people with the sharpest skills for your
+team, but if you "use" that knife for years without sharpening it, you
+will wind up with a dull knife that is inefficient, and in some cases
+useless. Ample opportunities for team members to learn new things and
+master their craft will keep them sharp, efficient, and
+effective.
+
+Of course, all the autonomy and mastery in the world isn't going to
+help motivate someone if she's doing work for no reason at all, which
+is why you need to give her work __purpose__. Many people work on
+products that have great significance, but they are kept at arm's
+length from the positive effects their products may have on their
+company, their customers, or even the world. Even in cases where the
+product may have a much smaller impact, you can motivate your team by
+seeking the reason for their efforts and making this reason clear to
+them. If you can help them to see this purpose in their work, you'll
+see a tremendous increase in their motivation and
+productivity.footnote:[link:$$http://bit.ly/task_significance$$[]] One manager we know keeps a close eye on the
+email feedback the company gets for its product (one of the
+"smaller-impact" products), and whenever she sees a message from a
+customer talking about how the company's product has helped the
+customer personally or helped the customer's business, she immediately
+forwards it to the engineering team. This not only motivates the team,
+but also frequently inspires them to think about ways they can make
+their product even better.
+
+[[final_thoughts]]
+=== Final Thoughts
+
+Regardless of whether you ever intend to lead a team, we hope this
+chapter has helped you understand what it takes to be a good team
+leader and dispelled some of the myths about what a leader does for a
+team. Even if you're resolute in your commitment to never be a leader,
+it's good to be familiar with the concepts laid out in this chapter
+because they can help you understand why the leader of __your__ team
+does what she does, regardless of whether she's good at her job or
+terrible at it. Take a moment to look at your team and see which of
+these patterns and antipatterns your team leader applies to make your
+team succeed (or fail), and you'll have a more concrete understanding
+of what makes your team tick.(((range="endofrange", startref="ixch03asciidoc0")))
+
+But understanding the team and leader you work with every day is only
+one aspect of working with other people—crossing paths with someone
+outside your team can be even more challenging, especially if this
+person is out to sabotage your team. We call these "poisonous people,"
+and we discuss them in the following chapter.
+
+

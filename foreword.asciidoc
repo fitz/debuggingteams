@@ -1,0 +1,24 @@
+[role="foreword"]
+[preface]
+== Foreword to the Second Edition
+
+The first edition of this book, __Team Geek__, proved to be a great
+success.  In the four years since it was published there seems to be
+more widespread recognition of the importance of teamwork in business.
+In some places, collaboration is now being taught as part of college
+curriculums and leadership training classes (often using our book!).
+
+But we also came to realize that the first edition of the book was
+perhaps a bit too focused on software engineering, so we've expanded
+this second edition to be more accessible to a nontechnical audience—hence the title change to __Debugging Teams__.  While we still draw
+on engineering examples, there's less focus on nitty-gritty details of
+software development tools.  We've expanded and generalized a number
+of our explanations throughout the book based on continuous feedback
+from readers.  We've also added sections on more recent topics, such
+as open seating plans, imposter syndrome, and newer communication and
+leadership techniques.
+
+We hope this expansion will have a broader appeal and impact across
+multiple industries.
+
+_Ben and Fitz, September 2015_
