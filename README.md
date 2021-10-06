@@ -1,8 +1,5 @@
 # Debugging Teams
 
-*(This is a 'prep' repository where Fitz and Ben are preparing their
-book for public release.)*
-
 This is the source code for the book "Debugging Teams: Better
 Productivity through Collaboration", by Brian W. Fitzpatrick and Ben
 Collins-Sussman, originally published in 2015.
