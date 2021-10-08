@@ -1,25 +1,24 @@
 = Debugging Teams
 Brian W. Fitzpatrick and Ben Collins-Sussman
 :doctype: book
-:front-cover-image: image::./images/dbtm_03in09.png[]
+:front-cover-image: image::./images/crew.jpeg[]
 :toc2: 1
 
 (C) 2015 under the pass:[<a class="orm:hideurl"
 href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative
 Commons BY-NC-SA 3.0 License</a>]
 
-[[image_no_caption-id99999]]
-image::images/dbtm_03in09.png[]
 
-This book is available in multiple forms:
+image::images/crew.jpeg[]
+Photo by pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]
+  
 
-* This website
-* Downloadable PDF or ePub
-* Latest source code, available on github
-* Available for purchase in pass:[<a class="orm:hideurl"
-href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">physical
-hardcopy from O'Reilly Media</a>] in a variety of international
-translations.
+This book is available in multiple forms at pass:[<a
+class="orm:hideurl"
+href="https://debuggingteams.com/">debuggingteams.com</a>].
+
+It's also available for purchase in pass:[<a class="orm:hideurl"
+href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">physical hardcopy from O'Reilly Media</a>] in a variety of international translations.
 
 include::dedication.asciidoc[]
 
