@@ -338,7 +338,6 @@ with these sorts of "poisonous people" in
 [[communication_patterns_of_successful_cul]]
 === Communication Patterns of Successful Cultures
 
-((("communication","in successful cultures", id="ix_ch02-asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ix_ch02-asciidoc7", range="startofrange")))Communication can often be a challenge when you're working with a team,
 ((("communication","in successful cultures", id="ixch02asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ixch02asciidoc7", range="startofrange")))Communication can often be a challenge when working with a team,
 particularly for engineers, who would rather spend an afternoon with a
 (predictable, logical) compiler than spend three minutes with a
