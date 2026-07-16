@@ -1,5 +1,5 @@
 = Debugging Teams
-Brian W. Fitzpatrick and Ben Collins-Sussman
+Brian W. Fitzpatrick and Ben Sussman
 :doctype: book
 :front-cover-image: image::./images/crew.jpeg[]
 :toc2: 1

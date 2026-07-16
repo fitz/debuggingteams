@@ -106,7 +106,7 @@ Brian has an A.B. in Classics from Loyola University Chicago with a
 major in Latin, a minor in Greek, and a concentration in Fine Arts and
 Ceramics. He resides in Chicago.
 
-Ben Collins-Sussman was one of the founding developers of the
+Ben Sussman was one of the founding developers of the
 Subversion version control system. He cofounded Google's engineering
 office in Chicago, launched Google Code, led two display advertising
 teams, and now manages teams that power Google's search

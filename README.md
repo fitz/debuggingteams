@@ -2,7 +2,7 @@
 
 This is the source code for the book "Debugging Teams: Better
 Productivity through Collaboration", by Brian W. Fitzpatrick and Ben
-Collins-Sussman, originally published in 2015.
+Sussman, originally published in 2015.
 
 
 ## License Terms
